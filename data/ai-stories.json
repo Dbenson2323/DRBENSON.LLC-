@@ -1,6 +1,96 @@
 {
-  "generatedAt": "2026-09-19T16:17:36.179Z",
+  "generatedAt": "2026-09-20T16:43:00.122Z",
   "stories": [
+    {
+      "id": "s114900827",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "blurb": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-20T14:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675"
+    },
+    {
+      "id": "s706672962",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "blurb": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T20:39:13.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200"
+    },
+    {
+      "id": "s1103612252",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "blurb": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T19:57:47.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1633004833",
+      "title": "whoGauri/SafarShield: A smart tourist safety system which combines location monitoring, geofencing, global positioning, distance calculation and artificial intelligence to detect potentially unsafe situations and assists travellers faster during any incident.",
+      "blurb": "A smart tourist safety system which combines location monitoring, geofencing, global positioning, distance calculation and artificial intelligence to detect potentially unsafe situations and assists travellers faster during any incident.",
+      "url": "https://github.com/whoGauri/SafarShield",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-19T17:38:38.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": "https://avatars.githubusercontent.com/u/197976606?v=4"
+    },
+    {
+      "id": "s663789164",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "blurb": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-19T17:30:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+    },
     {
       "id": "s554035421",
       "title": "AI safety conversations have gotten unbelievable",
@@ -40,7 +130,7 @@
     {
       "id": "s1755606685",
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "blurb": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+      "blurb": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
       "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
       "sourceName": "TechCrunch AI",
       "sourceType": "journalism",
@@ -5645,78 +5735,6 @@
       ],
       "icon": "brain",
       "image": null
-    },
-    {
-      "id": "s715315204",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "blurb": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "sourceName": "Google DeepMind",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-21T11:59:48.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "s1175645618",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "blurb": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "Research Papers",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "factualScore": 86,
-      "qualityScore": 66,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": "https://huggingface.co/blog/assets/pwc-search/thumbnail.png"
-    },
-    {
-      "id": "s496559391",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "blurb": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "Research Papers",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png"
-    },
-    {
-      "id": "s1262927738",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "blurb": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-08-20T16:52:57.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif"
     }
   ]
 }
