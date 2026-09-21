@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-21T12:31:15.646Z",
+  "generatedAt": "2026-09-21T21:52:52.024Z",
   "news": [
+    {
+      "market": "sanfrancisco",
+      "assetClass": "industrial",
+      "title": "Newmark Brokers Sale of Four-Building Industrial Portfolio in Silicon Valley",
+      "blurb": "MILPITAS, CALIF. —&#160;Newmark has arranged the sale of The Cadillac Court Industrial Portfolio, an industrial campus in Milpitas. An undisclosed seller sold the four-building property to Galvanize Real Estate, the sustainable real estate strategy of Galvanize, for an undisclosed price. Steve Golubchik, Edmund…",
+      "url": "https://rebusinessonline.com/newmark-brokers-sale-of-four-building-industrial-portfolio-in-silicon-valley/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-21T14:19:51.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "multifamily",
+      "title": "Livmark, Hillside to Develop 185-Unit Multifamily Community in Longmont, Colorado",
+      "blurb": "LONGMONT, COLO. —&#160;Livmark Communities and Hillside Commercial Group have started construction of Fielder at Fox Hill, an apartment and townhome property adjacent to Fox Hill Country Club golf course in Longmont. Landmark Construction Solutions is serving as general contractor and Greystar will manage the…",
+      "url": "https://rebusinessonline.com/livmark-hillside-to-develop-185-unit-multifamily-community-in-longmont-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-21T14:17:43.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Chicago’s 1901 Project Owners Reveal Renderings for New Music Hall",
+      "blurb": "CHICAGO — The 1901 Project owners have revealed renderings for the new Music Hall, a purpose-built live performance venue taking shape on the United Center campus in Chicago. Set to open in 2028 as a centerpiece of the first phase of the 1901 Project, the Music Hall will accommodate 6,000 guests and is being built…",
+      "url": "https://rebusinessonline.com/chicagos-1901-project-owners-reveal-renderings-for-new-music-hall/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-21T12:33:03.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "multifamily",
