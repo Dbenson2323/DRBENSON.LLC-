@@ -13,7 +13,11 @@
         "Office: Quality-concentrated demand on Class A",
         "Industrial: Investors entering new supply-constrained submarkets, investing on upside market improvement",
         "Multifamily: Widening performance gap between newer and dated properties — quality and location carry high value for disposition strategy"
-      ]
+      ],
+      "sourceReport": {
+        "label": "CBRE: Denver 2026 U.S. Real Estate Market Outlook — Midyear Review",
+        "url": "https://www.cbre.com/insights/reports/denver-2026-u-s-real-estate-market-outlook-midyear-review"
+      }
     },
     "chicago": {
       "overview": "Chicago's story is bifurcation, not decline. Trophy and new-build towers in Fulton Market and the West Loop are absorbing tenants at the expense of aging Loop office stock, some of which is heading toward functional obsolescence rather than recovery. Multifamily stays a steady, unglamorous performer — Chicago's relative affordability keeps renter demand consistent even without dramatic population growth. Industrial around O'Hare and the I-55/I-80 corridors continues to lean on the city's position as a national distribution hub. The bigger overhang across every asset class isn't fundamentals, it's the city and Cook County's fiscal and property-tax picture, which shows up as a valuation discount more than a demand problem.",
@@ -26,7 +30,11 @@
         "Industrial: Rail and highway connectivity keep Chicago a top-tier national distribution hub with durable demand",
         "Multifamily: Limited new supply relative to renter demand is keeping occupancy and rent growth resilient in most submarkets",
         "Office: Fulton Market/West Loop trophy towers are still capturing outsized leasing activity — quality gets funded even in a down market"
-      ]
+      ],
+      "sourceReport": {
+        "label": "CBRE: U.S. Real Estate Market Outlook Midyear Review 2026 — Local Markets (Chicago)",
+        "url": "https://www.cbre.com/insights/books/us-real-estate-market-outlook-midyear-review-2026/local-markets"
+      }
     },
     "miami": {
       "overview": "Miami has been one of the strongest multifamily and office markets nationally, riding sustained in-migration, no state income tax, and a growing finance presence. That same growth has produced a wave of new multifamily supply in Brickell and Downtown that's now pressuring rent growth and pushing concessions up after several very strong years. Industrial stays structurally tight given how little developable land is left. Office picked up real momentum from financial-services relocations, but is now digesting new supply of its own rather than running purely on scarcity.",
@@ -39,7 +47,11 @@
         "Office: Continued relocation of financial-services firms and family offices from the Northeast keeps trophy office demand resilient",
         "Multifamily: In-migration and no state income tax keep supporting long-term demand even as new supply digests",
         "Industrial: Port access and limited available land keep existing industrial stock structurally undersupplied"
-      ]
+      ],
+      "sourceReport": {
+        "label": "CBRE: South Florida 2026 U.S. Real Estate Market Outlook — Midyear Review",
+        "url": "https://www.cbre.com/insights/reports/south-florida-2026-u-s-real-estate-market-outlook-midyear-review"
+      }
     },
     "sanfrancisco": {
       "overview": "San Francisco's office market has been the poster child for post-pandemic distress, with vacancy near historic highs — though there are early, tentative signs of stabilization as AI-sector hiring pulls tenants back into the market, concentrated around the SoMa AI cluster. Multifamily has held up better than office, benefiting as renewed tech hiring brings workers back into the city. Lab/life-science space is the market's own soft spot, overbuilt relative to the current biotech venture-funding environment. The bigger picture: San Francisco's talent density and venture capital concentration are unmatched, which is exactly why it's positioned to benefit disproportionately if this AI-driven demand wave continues.",
@@ -52,7 +64,11 @@
         "Office: AI-sector leasing is the first genuine positive demand driver downtown office has seen since the pandemic",
         "Multifamily: Renewed tech hiring tied to AI is bringing workers back into the city, supporting occupancy and rent growth",
         "Long-term: Unmatched talent density and venture capital concentration position SF to benefit disproportionately from the next growth cycle"
-      ]
+      ],
+      "sourceReport": {
+        "label": "CBRE: U.S. Real Estate Market Outlook Midyear Review 2026 — Local Markets (San Francisco Bay Area)",
+        "url": "https://www.cbre.com/insights/books/us-real-estate-market-outlook-midyear-review-2026/local-markets"
+      }
     }
   }
 }

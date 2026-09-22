@@ -5,6 +5,7 @@ export default function MyTake({ marketLabel, notes }) {
   const overview = notes?.overview?.trim();
   const headwinds = notes?.headwinds ?? [];
   const tailwinds = notes?.tailwinds ?? [];
+  const sourceReport = notes?.sourceReport;
   const isEmpty = !overview && headwinds.length === 0 && tailwinds.length === 0;
 
   return (
@@ -61,6 +62,19 @@ export default function MyTake({ marketLabel, notes }) {
             </div>
           </div>
         </>
+      )}
+
+      {sourceReport && (
+        <div className="mt-5 pt-4 border-t border-[#EDE6D6]">
+          <a
+            href={sourceReport.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-xs font-semibold text-[#5C5443] underline underline-offset-2 hover:text-[#1F3A34]"
+          >
+            Source: {sourceReport.label} ↓
+          </a>
+        </div>
       )}
     </div>
   );
