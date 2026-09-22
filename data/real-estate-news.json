@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-22T11:19:52.109Z",
+  "generatedAt": "2026-09-22T16:41:52.857Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Newmark Arranges Acquisition Financing for 1.7 MSF BRiC Office Campus in South Florida",
+      "blurb": "BOCA RATON, FLA. — Newmark has arranged an undisclosed amount of acquisition financing for Boca Raton Innovation Campus (BRiC), a 1.7 million-square-foot office and research-and-development campus located at 5000 T-Rex Ave. in Boca Raton. West Palm Beach, Fla.-based Related Ross purchased the 124-acre property for an…",
+      "url": "https://rebusinessonline.com/newmark-arranges-acquisition-financing-for-1-7-msf-bric-office-campus-in-south-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-22T14:19:07.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "multifamily",
+      "title": "FPA Multifamily Acquires 237-Unit, Three-Building Apartment Portfolio in Denver",
+      "blurb": "DENVER — California-based FPA Multifamily has purchased a three-building, 237-unit multifamily portfolio in Denver from 2580 South University Co. LLC, 2550 South University Co. and 2512 South University Co. for an undisclosed price. Justin Hunt and Andy Hellman of CBRE represented the sellers and original owners of…",
+      "url": "https://rebusinessonline.com/fpa-multifamily-acquires-237-unit-three-building-apartment-portfolio-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-22T13:13:29.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "general",
+      "title": "AdventHealth Opens 88,000 SF Aurora Highlands Medical Campus in Colorado",
+      "blurb": "AURORA, COLO. — AdventHealth has opened AdventHealth Aurora Highlands, a medical campus within the The Aurora Highlands that will open to patients on Tuesday, Sept. 29. Located at 3405 N. Main St., AdventHealth Aurora Highlands emergency room and medical office building is the first phase of a planned, dual-phase…",
+      "url": "https://rebusinessonline.com/adventhealth-opens-88000-sf-aurora-highlands-medical-campus-in-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-22T13:09:27.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Cawley CRE Arranges Sale of 340,000 SF Industrial Property in Plainfield, Illinois",
+      "blurb": "PLAINFIELD, ILL. — Cawley Commercial Real Estate has arranged the sale of a 340,000-square-foot industrial property on 42 acres in Plainfield. Cawley CRE represented the seller in the transaction, with Joshua Hearne leading the assignment. Tower Real Estate Development and RAK Realty Group acquired the property…",
+      "url": "https://rebusinessonline.com/cawley-cre-arranges-sale-of-340000-sf-industrial-property-in-plainfield-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-22T12:56:59.000Z"
+    },
     {
       "market": "sanfrancisco",
       "assetClass": "industrial",
