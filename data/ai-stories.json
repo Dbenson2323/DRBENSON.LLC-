@@ -1,6 +1,816 @@
 {
-  "generatedAt": "2026-09-18T18:00:42.630Z",
+  "generatedAt": "2026-09-21T18:31:10.756Z",
   "stories": [
+    {
+      "id": "s456727902",
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "blurb": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA…",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T18:00:07.000Z",
+      "factualScore": 94,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/end-to-end-press-dsx-ready-kv-1920x1080-1.png"
+    },
+    {
+      "id": "s2026727705",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "blurb": "Muse isn't welcome as a shopper anymore.",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+    },
+    {
+      "id": "s1493407006",
+      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "blurb": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-21T16:38:51.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800"
+    },
+    {
+      "id": "s806743744",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "blurb": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared…",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "official",
+      "category": "Robotics",
+      "publishedAt": "2026-09-21T16:00:46.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-pr-halos-1600x900-1.png"
+    },
+    {
+      "id": "s396357291",
+      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "blurb": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa,…",
+      "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T16:00:10.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/5696800-ent-egypt-ecosystem-blog-image.png"
+    },
+    {
+      "id": "s989460497",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "blurb": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-09-21T15:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Puttagunta-Randle-Altman-Fenton-Vishria.png?resize=1200,675"
+    },
+    {
+      "id": "s1538367119",
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "blurb": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet…",
+      "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T14:51:34.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/security-thought-leadership-1920x1080-1.jpg"
+    },
+    {
+      "id": "s958512702",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "blurb": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-21T14:39:22.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675"
+    },
+    {
+      "id": "s628176904",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "blurb": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
+      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T14:30:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_1-Speaker_Stein-16x9-Dark.png?resize=1200,675"
+    },
+    {
+      "id": "s882173336",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "blurb": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
+      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T14:15:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Startup-Battlefield-200-contestant_Disrupt-2024.jpg?resize=1200,1041"
+    },
+    {
+      "id": "s538185072",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "blurb": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "sourceName": "Hugging Face",
+      "sourceType": "opensource",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-21T13:44:34.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/693c2a4eb0871ba57155b4ed/q4gZV9ENtfFwge7H3Q7YJ.png"
+    },
+    {
+      "id": "s1032976135",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "blurb": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s1143955434",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "blurb": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Map-thumbnail-16_9-2.png"
+    },
+    {
+      "id": "s22833603",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "blurb": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP21194653997791.jpg?w=840"
+    },
+    {
+      "id": "s918352540",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "blurb": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/site-bernal-death.jpg"
+    },
+    {
+      "id": "s1781796865",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "blurb": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying…",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Embed_9-15-26_Border_470.jpg?w=840"
+    },
+    {
+      "id": "s1975407038",
+      "title": "5 Companies Using NVIDIA AI for Clean Energy",
+      "blurb": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their…",
+      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T10:00:35.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/clean-energy-key-visual-1920x1080-1.jpg"
+    },
+    {
+      "id": "s879319684",
+      "title": "Building standards for the next phase of AI",
+      "blurb": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s185630508",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "blurb": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s785045241",
+      "title": "How V7 gives AI agents institutional memory",
+      "blurb": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "url": "https://openai.com/index/v7",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s833695593",
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "blurb": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "sourceName": "Hugging Face",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://huggingface.co/blog/assets/tokenizers-v1/thumbnail.png"
+    },
+    {
+      "id": "s114900827",
+      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "blurb": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
+      "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-20T21:41:08.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_6Days-16X9-Dark.png?resize=1200,675"
+    },
+    {
+      "id": "s68672210",
+      "title": "World model companies are keeping a lot of secrets",
+      "blurb": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-20T20:29:07.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024"
+    },
+    {
+      "id": "s1442945694",
+      "title": "Is the AI industry really ready to slow down?",
+      "blurb": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-20T18:56:04.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "id": "s162470772",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "blurb": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-20T18:32:52.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675"
+    },
+    {
+      "id": "s1791698675",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "blurb": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-20T18:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800"
+    },
+    {
+      "id": "s998001436",
+      "title": "Nagisanyan/Aletheia-Artificial-Scientific-Intelligence: Experimental framework for artificial scientific reasoning, verification, hypothesis generation, and reproducible research.",
+      "blurb": "Experimental framework for artificial scientific reasoning, verification, hypothesis generation, and reproducible research.",
+      "url": "https://github.com/Nagisanyan/Aletheia-Artificial-Scientific-Intelligence",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-09-20T01:57:05.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "brain",
+      "image": "https://avatars.githubusercontent.com/u/99894760?v=4"
+    },
+    {
+      "id": "s706672962",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "blurb": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T20:39:13.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200"
+    },
+    {
+      "id": "s1103612252",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "blurb": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T19:57:47.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1633004833",
+      "title": "whoGauri/SafarShield: A smart tourist safety system which combines location monitoring, geofencing, global positioning, distance calculation and artificial intelligence to detect potentially unsafe situations and assists travellers faster during any incident.",
+      "blurb": "A smart tourist safety system which combines location monitoring, geofencing, global positioning, distance calculation and artificial intelligence to detect potentially unsafe situations and assists travellers faster during any incident.",
+      "url": "https://github.com/whoGauri/SafarShield",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-19T17:38:38.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": "https://avatars.githubusercontent.com/u/197976606?v=4"
+    },
+    {
+      "id": "s663789164",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "blurb": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-19T17:30:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+    },
+    {
+      "id": "s554035421",
+      "title": "AI safety conversations have gotten unbelievable",
+      "blurb": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676"
+    },
+    {
+      "id": "s778100515",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "blurb": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T15:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200"
+    },
+    {
+      "id": "s1755606685",
+      "title": "Prices go up in 7 days — get your Disrupt ticket now",
+      "blurb": "Current ticket pricing ends September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T14:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1506447227",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "blurb": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800"
+    },
+    {
+      "id": "s982292016",
+      "title": "anjnagrover46-design/JarvisAI-V1: Artificial intelligence",
+      "blurb": "Artificial intelligence",
+      "url": "https://github.com/anjnagrover46-design/JarvisAI-V1",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T05:00:07.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/331145731?v=4"
+    },
+    {
+      "id": "s1779605445",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "blurb": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T01:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200"
+    },
+    {
+      "id": "s458534119",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "blurb": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-19T00:12:07.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672"
+    },
+    {
+      "id": "s796962563",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "blurb": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-18T23:25:01.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781"
+    },
+    {
+      "id": "s72897738",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "blurb": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-18T23:13:31.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750"
+    },
+    {
+      "id": "s1083820617",
+      "title": "AI hallucination nearly triggers US military operation",
+      "blurb": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T23:12:32.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000"
+    },
+    {
+      "id": "s613631729",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "blurb": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-18T21:44:33.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024"
+    },
+    {
+      "id": "s1406265403",
+      "title": "World model companies are keeping a lot of secrets",
+      "blurb": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-09-18T20:18:14.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024"
+    },
+    {
+      "id": "s1343856254",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "blurb": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T18:49:30.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
+    },
+    {
+      "id": "s1666595207",
+      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+      "blurb": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external…",
+      "url": "https://arxiv.org/abs/2609.22086v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:59:56.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
     {
       "id": "s603960487",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
@@ -18,6 +828,294 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900"
+    },
+    {
+      "id": "s1666596168",
+      "title": "SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation",
+      "blurb": "Despite rapid progress, generalist robot policies remain brittle on complex, long-horizon tasks that comprise multiple stages or require repeated attempts and deliberation on the same underlying stage before success. Q-value functions can improve these policies by ranking candidate actions or guiding policy improvement, but learning from sparse task-level…",
+      "url": "https://arxiv.org/abs/2609.22085v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:59:47.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1666598090",
+      "title": "MintAct: A Unified Visual Agent for Digital Environments",
+      "blurb": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through careful design of our environments, data, and training recipes, MintAct models match the performance of per-domain specialists across all of these…",
+      "url": "https://arxiv.org/abs/2609.22083v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:59:34.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1666600012",
+      "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+      "blurb": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can facilitate large-scale accident analysis and support occupational risk prevention. However, the terminology and writing styles used to describe accidents vary…",
+      "url": "https://arxiv.org/abs/2609.22081v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-18T17:59:10.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1666625959",
+      "title": "LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control",
+      "blurb": "Safe whole-body control requires coordinating collision avoidance and balance under high-dimensional, nonlinear dynamics--making safety certificates difficult to design and reuse across behaviors. We present LIMBO, a framework for synthesizing a state-action control barrier function and distilling its safety structure into a task policy. LIMBO learns the…",
+      "url": "https://arxiv.org/abs/2609.22075v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-09-18T17:57:56.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1666627881",
+      "title": "Duty Factor Predicts Robust Constrained Quadrupedal Locomotion Across Gait Types",
+      "blurb": "Quadrupedal robots are increasingly deployed in environments where locomotion must remain robust to disturbances and constrained terrain. Gait type, such as walking or trotting, is commonly used to characterize quadrupedal locomotion. However, gait type does not uniquely define locomotion, as parameters such as duty factor, speed, and stance width can vary…",
+      "url": "https://arxiv.org/abs/2609.22073v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-09-18T17:57:08.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1666651906",
+      "title": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation",
+      "blurb": "Reference-to-video (R2V) generation is evolving toward increasingly general and versatile reference control, giving rise to the emerging paradigm of omni R2V generation. However, existing benchmarks fall short of these emerging capabilities: their test cases cover limited reference types and compositions, and their evaluation protocols largely assess…",
+      "url": "https://arxiv.org/abs/2609.22069v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-09-18T17:55:49.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1666652867",
+      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+      "blurb": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we present…",
+      "url": "https://arxiv.org/abs/2609.22068v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-09-18T17:55:17.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1666653828",
+      "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+      "blurb": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM assistance, 73,093 first-person Reddit posts about using OpenClaw, each for its human value, agent aspect, value fulfillment, and user outcome. The 21 values…",
+      "url": "https://arxiv.org/abs/2609.22067v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:55:09.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s1666656711",
+      "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+      "blurb": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn general-purpose neural representations transferable across diverse downstream tasks. Yet, progress toward this goal has been limited by fragmented evaluation…",
+      "url": "https://arxiv.org/abs/2609.22064v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-18T17:54:32.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1666658633",
+      "title": "Gripper-Aware Automatic Dense Packing of Irregular Objects",
+      "blurb": "Automatic dense packing is widely desired in warehouse operations but remains a fundamental challenge in robotic manipulation. Existing work on irregular-object packing largely targets simulation with idealized contact, treating the object as an isolated rigid body. The gripper often enters as a discrete, post-hoc feasibility check, if considered at all,…",
+      "url": "https://arxiv.org/abs/2609.22062v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-09-18T17:53:16.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1666660555",
+      "title": "Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features",
+      "blurb": "Traffic sign recognition (TSR) is an important perception task for autonomous driving and advanced driver-assistance systems, where a system must both localize traffic signs and determine their semantic classes efficiently. This work presents a TSR system based on YOLOv2 for simultaneous detection and classification. Two complementary modifications are…",
+      "url": "https://arxiv.org/abs/2609.22060v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-18T17:52:00.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1666684580",
+      "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
+      "blurb": "Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. We prove two results formalizing this structure. First (CWAR Reducibility): confident-failure reduction is achievable if and only if retrieval features carry mutual information about success, a condition satisfied by LLM-judge…",
+      "url": "https://arxiv.org/abs/2609.22056v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:48:15.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1666685541",
+      "title": "Benchmarking World Models for Continual Learning on Compositional Tasks",
+      "blurb": "A desirable property of a world model is the ability to learn continually across tasks, adapting to new environments without forgetting what the agent has already learnt. In particular, the ability to retain and reuse knowledge obtained from prior experiences underpins an agent's ability to efficiently adapt to novel environments, as the dynamics of the…",
+      "url": "https://arxiv.org/abs/2609.22055v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-09-18T17:46:28.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1666687463",
+      "title": "Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise",
+      "blurb": "Graph Convolutional Networks (GCNs) are highly sensitive to label noise, since corrupted supervision can propagate through the graph and degrade learned node representations. This work proposes PCC+GCN, a hybrid framework that uses Particle Competition and Cooperation (PCC) as a graph-based label-refinement stage before GCN training. PCC identifies…",
+      "url": "https://arxiv.org/abs/2609.22053v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-09-18T17:46:08.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1666712449",
+      "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
+      "blurb": "A selective predictor acts as a safety gate: it returns an output only when the prediction appears sufficiently trustworthy. Deployments increasingly require this reliability to be certified at a target precision for every reporting unit of interest, such as a tool, policy label, or patient subgroup. The main difficulty is often not whether a granted…",
+      "url": "https://arxiv.org/abs/2609.22048v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:36:52.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s1666717254",
+      "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+      "blurb": "Memory systems for large language models have focused predominantly on efficient retrieval, whereas the decision of whether retrieved memories should be trusted has received comparatively little attention. When the memory store contains conflicting positions, standard retrieval-augmented generation (RAG) blindly injects memories and amplifies…",
+      "url": "https://arxiv.org/abs/2609.22043v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:34:13.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": null
     },
     {
       "id": "s1226198988",
@@ -38,6 +1136,78 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675"
     },
     {
+      "id": "s1666719176",
+      "title": "$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource",
+      "blurb": "Reinforcement learning is increasingly used to align image generators with reward signals, and Flow-GRPO recently extended this paradigm to flow-matching models by treating the denoising sampler as a stochastic policy that can be optimized from reward feedback. Training in this setting is unstable in a way specific to multi-step denoising: the policy…",
+      "url": "https://arxiv.org/abs/2609.22041v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-09-18T17:33:38.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1666720137",
+      "title": "PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models",
+      "blurb": "Current Vision-Language-Action (VLA) models for autonomous driving operate primarily through feedforward inference across the perception--reasoning--planning hierarchy. While modern architectures maintain temporal recurrence within the perceptual module, early perception remains blind to downstream reasoning and navigation goals, processing visual inputs…",
+      "url": "https://arxiv.org/abs/2609.22040v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-18T17:31:34.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1666741279",
+      "title": "Gricea: An Open Science Platform for Conversational AI Research",
+      "blurb": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension, and knowledge accumulation. We present Gricea, an open-science platform representing studies as configurable, deployable research artifacts that researchers…",
+      "url": "https://arxiv.org/abs/2609.22039v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-18T17:31:05.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1666742240",
+      "title": "QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge",
+      "blurb": "We introduce QuranicMMLU, a benchmark for evaluating generative AI on Quranic Arabic across multiple dimensions of linguistic complexity. Existing Quranic benchmarks center on general question answering and semantic retrieval, without probing specific linguistic competencies or stratifying by cognitive demand and verse difficulty. We construct a…",
+      "url": "https://arxiv.org/abs/2609.22038v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:30:27.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
       "id": "s470312572",
       "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
       "blurb": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed…",
@@ -54,6 +1224,42 @@
       ],
       "icon": "shield",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1666807588",
+      "title": "COMPLEX: A Closed-Form Certified Embedding of Multiparameter Persistence Modules",
+      "blurb": "Every multiparameter persistence vectorization we know of carries a one-sided Lipschitz upper bound and nothing below it: without a lower gauge there is no sense in which the features are faithful, and no per-prediction guarantee can be built on them. This paper supplies the missing side. COMPLEX is a closed-form, training-free embedding of multiparameter…",
+      "url": "https://arxiv.org/abs/2609.22012v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-18T17:08:41.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1666831613",
+      "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+      "blurb": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We present DiaVLo, a diagnostic framework that leverages human…",
+      "url": "https://arxiv.org/abs/2609.22008v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:06:44.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": null
     },
     {
       "id": "s729558733",
@@ -74,6 +1280,186 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
     },
     {
+      "id": "s1666834496",
+      "title": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
+      "blurb": "Gating the value pathway of attention reportedly improves language model pretraining, and prior studies disagree on why. We argue and provide experimental evidence that such gates supply two different things that softmax attention lacks: abstention and noise filtering. The first is abstention, which allows an attention head to output nothing, bypassing the…",
+      "url": "https://arxiv.org/abs/2609.22005v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:03:58.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s1666839301",
+      "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+      "blurb": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather than stacked end to end. We study hybrid CUAs that autonomously decide when to explore an interface, implement software, and run and visually verify their…",
+      "url": "https://arxiv.org/abs/2609.22000v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T17:00:56.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s1686881917",
+      "title": "Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents",
+      "blurb": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's training prior. We introduce Bayesian Chronicle Agents (BCA), a minimal belief layer separating \\emph{what} an agent believes from \\emph{how} it speaks. Each…",
+      "url": "https://arxiv.org/abs/2609.21997v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T16:57:14.000Z",
+      "factualScore": 76,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1686882878",
+      "title": "A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal",
+      "blurb": "Large language models can hold knowledge they do not report. A model may sandbag on a capability evaluation, or answer against what it internally knows, and its outputs alone cannot tell whether it is hiding an answer or simply does not have one. We borrow the Concealed Information Test, a forensic method that identifies guilty knowledge by presenting a…",
+      "url": "https://arxiv.org/abs/2609.21996v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T16:57:00.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1686883839",
+      "title": "Assessment of Machine Learning-Based Critical Heat Flux Models in the CTF Subchannel Code for Square Rod Bundle Prediction",
+      "blurb": "The prediction of critical heat flux (CHF), a key safety-related quantity in nuclear thermal hydraulics, remains an important challenge due to its direct relationship with fuel performance and reactor safety. Recent studies have demonstrated that relative to traditional empirical correlations and lookup tables (LUTs), machine learning (ML) methods can…",
+      "url": "https://arxiv.org/abs/2609.21995v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-18T16:56:45.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1686886722",
+      "title": "Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment",
+      "blurb": "Most work in computational ethics treats annotator disagreement on moral content as noise to be voted away, collapsed into majority vote or the more permissive any-annotator rule the moment a single annotator flags an item. We argue this uncertainty should instead be modeled and learned from. We introduce Moral Entropy, a Bayesian framework that keeps a…",
+      "url": "https://arxiv.org/abs/2609.21992v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-18T16:51:07.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1686909786",
+      "title": "Time series generation with spectrally aligned latent flow matching",
+      "blurb": "Latent flow models have proven to be a reliable and cost-effective method for time series generation. However, the latent compression induces unwanted artefacts, such as a spectral mismatch with respect to the underlying dataset, thus hindering their use as training surrogates. In this article, we propose a spectrally-aligned latent-flow time series…",
+      "url": "https://arxiv.org/abs/2609.21989v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-18T16:49:46.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1686915552",
+      "title": "SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation",
+      "blurb": "Reusing manipulation experience across robot embodiments is important for scaling robot learning and reducing repeated task-specific data collection. However, changes in embodiment alter visual appearance, action dimensionality and semantics, and the whole-body configurations that can realize the same tool pose. We present SkelWAM, a skeleton-guided…",
+      "url": "https://arxiv.org/abs/2609.21983v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-09-18T16:44:42.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1686916513",
+      "title": "CARF: Contrastive Attraction-Repulsion of Failure-Guided Flow Matching",
+      "blurb": "Robot demonstration collection often produces imperfect or failed trajectories in addition to successful demonstrations. Existing methods typically exploit failed trajectories by identifying segments that still make progress toward task completion, but largely overlook \\textit{failure-critical behaviors} that directly lead to task failure. Here we argue…",
+      "url": "https://arxiv.org/abs/2609.21982v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-09-18T16:43:35.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1686942460",
+      "title": "Multiplicative Optimism for Constant Regret in Games",
+      "blurb": "We introduce Multiplicatively Optimistic Regret Matching (MORM), an uncoupled learning rule for finite general-sum games. Under simultaneous full-information self-play, every player achieves external regret $O(\\sqrt n\\log d)$ uniformly over all horizons, using only one-step optimism. The analysis combines a potential-based regret-matching argument with…",
+      "url": "https://arxiv.org/abs/2609.21976v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-09-18T16:38:29.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
       "id": "s1389322915",
       "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
       "blurb": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
@@ -90,6 +1476,42 @@
       ],
       "icon": "rocket",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024"
+    },
+    {
+      "id": "s1686971290",
+      "title": "NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities",
+      "blurb": "We introduce NemotronLabs VoiceChat, an open full-duplex speech-to-speech model with native tool-calling capabilities. NemotronLabs VoiceChat combines a streaming speech encoder and decoder-only language model with parallel specialized output streams for agent text and structured function calls, an auxiliary RNN-T branch for incremental user transcription,…",
+      "url": "https://arxiv.org/abs/2609.21967v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-18T16:27:22.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1686976095",
+      "title": "Learning Cardiac Features: ECG Biometrics Across Time and~Exercise",
+      "blurb": "Electrocardiograms (ECGs) carry subject-specific patterns enabling reliable individual discrimination, forming the basis of ECG biometrics. Beyond authentication, this paradigm holds significant potential to secure sensitive cardiac data and to serve as a pretext task in self-supervised learning. Yet, most studies remain confined to singlesession, resting…",
+      "url": "https://arxiv.org/abs/2609.21962v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-09-18T16:22:31.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
     },
     {
       "id": "s1161243908",
@@ -180,6 +1602,24 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/29395589440_9fda12ac24_k.jpg?resize=1200,800"
+    },
+    {
+      "id": "s2098471769",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "blurb": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-09-18T12:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
     },
     {
       "id": "s1303798883",
@@ -2215,6 +3655,24 @@
       "image": null
     },
     {
+      "id": "s1222486926",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "blurb": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
       "id": "s622414504",
       "title": "Amazon launches Alexa+ in India with Hindi support",
       "blurb": "Amazon is letting all customers use Alexa+ assistant in early access period.",
@@ -2284,6 +3742,24 @@
       ],
       "icon": "shield",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/Is-AI-Poll-01_1920x1080.jpg"
+    },
+    {
+      "id": "s974601156",
+      "title": "punsara-lab/Zoey: My Artificial Intelligence",
+      "blurb": "My Artificial Intelligence",
+      "url": "https://github.com/punsara-lab/Zoey",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-09-16T03:00:59.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/321606288?v=4"
     },
     {
       "id": "s1367938614",
@@ -3154,6 +4630,24 @@
       "icon": "code"
     },
     {
+      "id": "s931155579",
+      "title": "nleite-isel/isel-leic-ai-2627winter-LI51D: Artificial Intelligence course resources - 2026/27 Winter semester - Class LI51D",
+      "blurb": "Artificial Intelligence course resources - 2026/27 Winter semester - Class LI51D",
+      "url": "https://github.com/nleite-isel/isel-leic-ai-2627winter-LI51D",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-09-11T14:07:43.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/36664218?v=4"
+    },
+    {
       "id": "seed6",
       "title": "Google DeepMind details progress on video-generation world models",
       "blurb": "DeepMind researchers describe how newer world models simulate physical interactions across longer video sequences with fewer artifacts. The team highlights better object permanence as the main improvement over last year's version.",
@@ -3653,6 +5147,24 @@
       "image": null
     },
     {
+      "id": "s1292216878",
+      "title": "arnab9957/realtime-work-detection: Autonomous, offline, on-board Artificial Intelligence assistant designed to track, guide, and deterministically validate procedural experiments inside the science modules (BAS-03/BAS-04) of the upcoming Bharatiya Antariksh Station.",
+      "blurb": "Autonomous, offline, on-board Artificial Intelligence assistant designed to track, guide, and deterministically validate procedural experiments inside the science modules (BAS-03/BAS-04) of the upcoming Bharatiya Antariksh Station.",
+      "url": "https://github.com/arnab9957/realtime-work-detection",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-09-09T10:25:48.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/180285223?v=4"
+    },
+    {
       "id": "s1297025233",
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "blurb": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed…",
@@ -3813,6 +5325,24 @@
       ],
       "icon": "eye",
       "image": null
+    },
+    {
+      "id": "s1822448374",
+      "title": "Daddy-Ousen/NextVector: NextVector: High-signal digital intelligence platform for technology, artificial intelligence, and frontier scientific breakthroughs. Less noise. More signal.",
+      "blurb": "NextVector: High-signal digital intelligence platform for technology, artificial intelligence, and frontier scientific breakthroughs. Less noise. More signal.",
+      "url": "https://github.com/Daddy-Ousen/NextVector",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-09-08T11:19:15.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/97149447?v=4"
     },
     {
       "id": "s1055816195",
@@ -4661,810 +6191,6 @@
       ],
       "icon": "brain",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-header.width-1300.png"
-    },
-    {
-      "id": "s727808101",
-      "title": "How AI-native companies turn workflows into operating capability",
-      "blurb": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-09-01T17:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1354874767",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "blurb": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "url": "https://openai.com/index/path-to-astra",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-09-01T13:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "code",
-      "image": null
-    },
-    {
-      "id": "s2076033096",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "blurb": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-01T12:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1939092086",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "blurb": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-01T01:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s119264682",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "blurb": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": "https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png"
-    },
-    {
-      "id": "s1978888395",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on…",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "sourceName": "MIT Technology Review",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-08-31T18:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe"
-    },
-    {
-      "id": "s34161965",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "blurb": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s975047760",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "blurb": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "url": "https://openai.com/index/polimill",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s938682734",
-      "title": "A milestone in expanding access to AI",
-      "blurb": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-31T04:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1763791398",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "blurb": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "Industry & Business",
-      "publishedAt": "2026-08-28T06:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s82776726",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "blurb": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-28T02:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s210048558",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "blurb": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-08-28T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-global-south/thumbnail.png"
-    },
-    {
-      "id": "s1384918756",
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "blurb": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "sourceName": "Google DeepMind",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-27T16:11:32.000Z",
-      "factualScore": 90,
-      "qualityScore": 77,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png"
-    },
-    {
-      "id": "s586323524",
-      "title": "GeForce NOW Gives Gamers More Ways to Play at Gamescom 2026",
-      "blurb": "NVIDIA’s Gamescom announcements are revealing what’s next for GeForce NOW, with new ways to play, more supported devices and platforms, and even more big PC games headed to the cloud. New NVIDIA DLSS 4.5 technology controls give members more ways to fine-tune gameplay, while expanded support for new Steam devices, GOG single sign-on, Firefox browser…",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-27T13:00:33.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe"
-    },
-    {
-      "id": "s914678017",
-      "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "blurb": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-27T13:00:17.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe"
-    },
-    {
-      "id": "s1764761739",
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "blurb": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "sourceName": "Google DeepMind",
-      "sourceType": "official",
-      "category": "Industry & Business",
-      "publishedAt": "2026-08-27T12:59:16.000Z",
-      "factualScore": 90,
-      "qualityScore": 77,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": "https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "s827914844",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "blurb": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-27T09:00:00.000Z",
-      "factualScore": 94,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s178701760",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "blurb": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-27T03:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1627073973",
-      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "blurb": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next…",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-26T21:05:30.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe"
-    },
-    {
-      "id": "s816354770",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "blurb": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "sourceName": "Google DeepMind",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-26T17:01:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg"
-    },
-    {
-      "id": "s683531672",
-      "title": "Accelerating Frontier Transformation: Reinvent customer engagement",
-      "blurb": "Discover how organizations use AI to personalize engagement, strengthen relationships, and deliver more responsive experiences at scale. The post Accelerating Frontier Transformation: Reinvent customer engagement appeared first on The Microsoft Cloud Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/",
-      "sourceName": "Microsoft AI Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-26T15:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/08/Accelerating-Frontier-customer-engagement-3.jpg"
-    },
-    {
-      "id": "s236478684",
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "blurb": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1314332793",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "blurb": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "url": "https://openai.com/index/learning-never-stops",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s73469697",
-      "title": "The Hugging Face incident and the road ahead",
-      "blurb": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s106321147",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "blurb": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-      "url": "https://openai.com/index/loveholidays",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s62097216",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "blurb": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-08-26T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png"
-    },
-    {
-      "id": "s1158125671",
-      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-      "blurb": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch…",
-      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-25T15:30:48.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe"
-    },
-    {
-      "id": "s1812176083",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "blurb": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-25T15:14:14.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/65cc2c288ebd392213e58899/XHWV2L_wZsFe3ekksCgvQ.webp"
-    },
-    {
-      "id": "s261560587",
-      "title": "Accelerating AI adoption with intelligent discovery in Microsoft Marketplace",
-      "blurb": "Discover how Microsoft Marketplace intelligent discovery helps organizations find, compare, and adopt AI solutions faster and with confidence. The post Accelerating AI adoption with intelligent discovery in Microsoft Marketplace appeared first on The Microsoft Cloud Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/",
-      "sourceName": "Microsoft AI Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-25T15:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/08/Marketplace-AI-confidence_3-e1787259091537.jpg"
-    },
-    {
-      "id": "s990783322",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "blurb": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-08-25T11:39:24.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/668e37fd9c9aa124a3c867e8/2DSE26PMq2hJqKqEDOLIn.png"
-    },
-    {
-      "id": "s117312523",
-      "title": "The full stack behind abundant intelligence",
-      "blurb": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-25T07:05:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1006550746",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "blurb": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1301406993",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "blurb": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1222804986",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "blurb": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1658709422",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "blurb": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-08-25T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://huggingface.co/blog/assets/gradio-workflow-guide/thumbnail.png"
-    },
-    {
-      "id": "s847196540",
-      "title": "5 signals of trusted AI: How organizations scale AI with security, governance, and observability",
-      "blurb": "Learn the five signals of trusted AI, from AI governance and security to observability and sovereignty, and discover how organizations scale AI with confidence. The post 5 signals of trusted AI: How organizations scale AI with security, governance, and observability appeared first on The Microsoft Cloud Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/",
-      "sourceName": "Microsoft AI Blog",
-      "sourceType": "official",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-08-24T16:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/themes/innovation/assets/images/patterns/bg-actionbar-light.png"
-    },
-    {
-      "id": "s524305372",
-      "title": "How XPUs Meet a World-Class AI Factory",
-      "blurb": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building…",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-24T15:00:54.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "chip"
-    },
-    {
-      "id": "s219175430",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "blurb": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-24T12:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s715315204",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "blurb": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "sourceName": "Google DeepMind",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-08-21T11:59:48.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo"
-    },
-    {
-      "id": "s1175645618",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "blurb": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "Research Papers",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "factualScore": 86,
-      "qualityScore": 66,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": "https://huggingface.co/blog/assets/pwc-search/thumbnail.png"
-    },
-    {
-      "id": "s496559391",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "blurb": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "Research Papers",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": "https://huggingface.co/blog/assets/asr-benchmark-optimization/thumbnail.png"
-    },
-    {
-      "id": "s1262927738",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "blurb": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-08-20T16:52:57.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif"
-    },
-    {
-      "id": "s1428143866",
-      "title": "Introducing Intelligence Age",
-      "blurb": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "url": "https://openai.com/index/introducing-intelligence-age",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s610316040",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "blurb": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "url": "https://openai.com/index/stampli",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-08-20T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s322541578",
-      "title": "Offering Zero Data Retention for frontier models",
-      "blurb": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-08-19T19:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
     }
   ]
 }
