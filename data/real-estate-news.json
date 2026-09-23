@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-23T11:14:08.957Z",
+  "generatedAt": "2026-09-23T16:35:59.023Z",
   "news": [
+    {
+      "market": "sanfrancisco",
+      "assetClass": "multifamily",
+      "title": "TruAmerica Buys 200-Unit Bridges at San Ramon Multifamily Complex in San Francisco Bay Area",
+      "blurb": "SAN RAMON, CALIF. — TruAmerica Multifamily has acquired Bridges at San Ramon, a 200-unit community in San Ramon. With this acquisition, the Los Angeles-based investment firm owns and operates 1,240 units in the San Francisco Bay area. The seller was not disclosed. Bridges at San Ramon offers 200 one- and two-bedroom…",
+      "url": "https://rebusinessonline.com/truamerica-buys-200-unit-bridges-at-san-ramon-multifamily-complex-in-san-francisco-bay-area/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-23T13:49:22.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Lee &#038; Associates Brokers $4.5M Land Sale for Industrial Development in Metro Chicago",
+      "blurb": "FRANKLIN PARK, ILL. — Lee &#38; Associates of Illinois has brokered the $4.5 million sale of 4 acres at 11330 W. Melrose Ave. in Franklin Park. Jeff Provenza of Lee &#38; Associates represented the buyer, Seefried Industrial Properties, which plans to develop an 81,670-square-foot building. Slated for completion in…",
+      "url": "https://rebusinessonline.com/lee-associates-brokers-4-5m-land-sale-for-industrial-development-in-metro-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-23T13:41:53.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Adam America, JW Capital Secure $180M Refinancing for Student Housing Community Near Florida International University",
+      "blurb": "SWEETWATER, FLA. — Adam America Real Estate and JW Capital Management have secured $180 million for the refinancing of Terrazul, a 22-story student housing community located adjacent to Florida International University (FIU). Completed in 2024, the 1,201-bed property is located at 700 S.W. 107th Ave. in Sweetwater, a…",
+      "url": "https://rebusinessonline.com/adam-america-jw-capital-secure-180m-refinancing-for-student-housing-community-adjacent-to-florida-international-university/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-23T12:49:55.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "general",
