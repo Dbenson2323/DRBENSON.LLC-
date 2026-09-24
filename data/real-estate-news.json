@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-24T11:29:17.718Z",
+  "generatedAt": "2026-09-24T16:55:24.815Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "retail",
+      "title": "Newmark Arranges $95M Sale of Randhurst Village Shopping Center in Metro Chicago",
+      "blurb": "MOUNT PROSPECT, ILL. — Newmark has arranged the $95 million sale of Randhurst Village, a 931,798-square-foot power center in Mount Prospect. Conor Lalor and Keely Polczynski of Newmark represented the seller, DLC, with support from colleague Brian Schneiderman. The buyer was Rhino Investment Group. The transaction…",
+      "url": "https://rebusinessonline.com/newmark-arranges-95m-sale-of-randhurst-village-shopping-center-in-metro-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-24T14:18:45.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Opus Begins Construction of 314,684 SF Spec Industrial Building in Joliet, Illinois",
+      "blurb": "JOLIET, ILL. — Opus has begun construction on Opus Intermodal at Joliet, a 314,684-square-foot speculative industrial building on 39 acres in Joliet. The project site is at the northeast corner of Patterson and West Laraway roads, directly across the street from Union Pacific’s Global IV intermodal terminal. Plans…",
+      "url": "https://rebusinessonline.com/opus-begins-construction-of-314684-sf-spec-industrial-building-in-joliet-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-24T14:17:53.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Nonprofit Breaks Ground on $380M Seniors Housing Project in Boynton Beach, Florida",
+      "blurb": "BOYNTON BEACH, FLA. — Green Cay Life Plan Village Inc., a nonprofit corporation, has broken ground on a continuing care retirement community (CCRC) project in Boynton Beach, approximately 30 miles north of Fort Lauderdale. Greenbrier Development LLC and BRP Senior Housing Management LLC, a Delray Beach-based…",
+      "url": "https://rebusinessonline.com/nonprofit-breaks-ground-on-380m-seniors-housing-project-in-boynton-beach-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-24T12:30:00.000Z"
+    },
     {
       "market": "sanfrancisco",
       "assetClass": "multifamily",
