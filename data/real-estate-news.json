@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-09-25T11:35:10.824Z",
+  "generatedAt": "2026-09-25T16:58:16.774Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "hospitality",
+      "title": "Stockman Development Receives $482.5M in Financing for Ski Resort in Steamboat Springs, Colorado",
+      "blurb": "STEAMBOAT SPRINGS, COLO. —&#160;Stockman Development, led by Marquee Development, has secured $482.5 million in financing from GoldenTree Asset Management to advance The Stockman, Auberge Collection, which recently broke ground at the base of Steamboat Resort in Steamboat Springs. The financing comes amid early…",
+      "url": "https://rebusinessonline.com/stockman-development-receives-482-5m-in-financing-for-ski-resort-in-steamboat-springs-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-25T13:32:59.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "industrial",
+      "title": "Brennan Investment Group Acquires 136,744 SF Industrial Property in Denver",
+      "blurb": "DENVER — Brennan Investment Group has purchased 5050 Ironton, an industrial building on 8.7 acres within Montbello Industrial Park in Denver’s northeast industrial submarket. Terms of the transaction were not disclosed. Originally constructed in 1970, the 136,744-square-foot concrete and masonry facility features 18-…",
+      "url": "https://rebusinessonline.com/brennan-investment-group-acquires-136744-sf-industrial-property-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-25T13:29:32.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Brand Street, AEW Buy 410,000 SF Deer Park Town Center in Metro Chicago for $125M",
+      "blurb": "DEER PARK, ILL. — Brand Street Properties and AEW Capital Management have acquired Deer Park Town Center, a 410,000-square-foot, open-air shopping center in Deer Park, about 35 miles northwest of downtown Chicago. Conor Lalor, Kyle Minter and Keely Polczynski of Newmark represented the seller, PGIM, with support from…",
+      "url": "https://rebusinessonline.com/brand-street-aew-buy-410000-sf-deer-park-town-center-in-metro-chicago-for-125m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-25T13:12:50.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Oil-Dri Renews Office Lease at Chicago’s Wrigley Building for 20,000 SF",
+      "blurb": "CHICAGO — JLL represented Oil-Dri Corp. of America (NYSE: ODC) in a long-term lease renewal at the Wrigley Building, where the company has been headquartered since 1993. Oil-Dri will now relocate within the building to a newly built-out floor totaling 20,000 square feet. Oil-Dri was founded in Chicago in 1941 by Nick…",
+      "url": "https://rebusinessonline.com/oil-dri-renews-office-lease-at-chicagos-wrigley-building-for-20000-sf/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-25T13:10:19.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "retail",
+      "title": "Berkadia Arranges $9.8M Refinancing for Shopping Center in Key Biscayne, Florida",
+      "blurb": "KEY BISCAYNE, FLA. —&#160;Berkadia has arranged a $9.8 million loan to refinance a 61,504-square-foot, two-story retail center located on Key Biscayne, a barrier island situated south of Miami. Charles Foschini, Christopher Apone, Shannon Wilson and Lourdes Carranza-Alvarez of Berkadia secured the 10-year, fixed-rate…",
+      "url": "https://rebusinessonline.com/berkadia-arranges-9-8m-refinancing-for-shopping-center-in-key-biscayne-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-25T12:44:55.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "retail",
