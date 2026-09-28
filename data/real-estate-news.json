@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-09-28T04:51:02.011Z",
+  "generatedAt": "2026-09-28T13:30:04.181Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Transwestern Investments Acquires 408,176 SF Industrial Facility in Chicago’s I-88 Corridor",
+      "blurb": "NORTH AURORA, ILL. — Transwestern Investments has acquired a 408,176-square-foot industrial facility in Chicago’s I-88 Corridor on behalf of a separate account. Built in 2023 and located in North Aurora, the fully leased property features a cross-dock configuration, a clear height of 36 feet, 55 dock doors, four…",
+      "url": "https://rebusinessonline.com/transwestern-investments-acquires-408176-sf-industrial-facility-in-chicagos-i-88-corridor/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-28T13:28:09.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Fortec Converts Former Ambulance Facility into $5M Early Education Center in Metro Chicago",
+      "blurb": "VERNON HILLS, ILL. — Fortec has opened The Nest Schools-Vernon Hills. The $5 million project involved the acquisition and redevelopment of a former ambulance warehouse in Vernon Hills, a northern suburb of Chicago. The new early education center will serve up to 209 students and create 35 jobs in the Lake County…",
+      "url": "https://rebusinessonline.com/fortec-converts-former-ambulance-facility-into-5m-early-education-center-in-metro-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-28T13:25:54.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "hospitality",
