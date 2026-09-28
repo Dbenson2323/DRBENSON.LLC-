@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-28T13:30:04.181Z",
+  "generatedAt": "2026-09-28T23:06:59.992Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "industrial",
+      "title": "JLL Arranges $66.8M Refinancing for Industrial Development in Stuart, Florida",
+      "blurb": "STUART, FLORIDA —&#160;JLL Capital Markets has arranged a $66.8 million loan to refinance South Florida Gateway, a 987,184-square-foot industrial development located at 2400-2450 Southwest Gateway Place in Stuart, a coastal city about 40 miles north of West Palm Beach. Melissa Rose, Michael DiCosimo, Michael Romero…",
+      "url": "https://rebusinessonline.com/jll-arranges-66-8m-refinancing-for-industrial-development-in-stuart-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-28T14:17:21.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "BTI Partners Opens 362-Unit Residential Tower in Hollywood, Florida",
+      "blurb": "HOLLYWOOD, FLA. —&#160;BTI Partners has opened the Bread Building, a 362-unit luxury residential tower located in the South Florida city of Hollywood. The property was built on the site of the former Hollywood Bread Building, which served as the headquarters for the Hollywood Bread Co., a popular diet bread brand in…",
+      "url": "https://rebusinessonline.com/bti-partners-opens-362-unit-residential-tower-in-hollywood-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-28T14:16:05.000Z"
+    },
+    {
+      "market": "sanfrancisco",
+      "assetClass": "multifamily",
+      "title": "Keech Properties Buys Sunsweet Apartments in Silicon Valley for $45M",
+      "blurb": "MORGAN HILL, CALIF. — Redwood City, Calif.-based Keech Properties has acquired Sunsweet Apartments in Morgan Hill, about 10 miles south of San Jose, for $45 million. Built in 2020, Sunsweet Apartments is situated on a 1.9-acre site. A resort-style pool, fitness center, clubhouse, electric vehicle charging stations…",
+      "url": "https://rebusinessonline.com/keech-properties-buys-sunsweet-apartments-in-silicon-valley-for-45m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-28T13:34:37.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "general",
+      "title": "Grand Peak, Silverton Break Ground on 164-Unit Mixed-Income Community in Avon, Colorado",
+      "blurb": "AVON, COLO. — Denver-based developer Grand Peak, in partnership with Silverton Holdings, a Braselton, Ga.-based developer specializing in hospitality projects, has broken ground on The Summit. The 164-unit community is situated in Avon, approximately 106 miles west of Denver and about 10 miles west of Vail. Civitas…",
+      "url": "https://rebusinessonline.com/grand-peak-silverton-break-ground-on-164-unit-mixed-income-community-in-avon-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-28T13:32:04.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "industrial",
