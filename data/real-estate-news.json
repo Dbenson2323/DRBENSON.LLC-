@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-09-29T12:32:33.196Z",
+  "generatedAt": "2026-09-29T22:06:08.172Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "retail",
+      "title": "TSCG Brokers $8.4M Sale of Publix-Anchored Shopping Center in Fort Walton Beach, Florida",
+      "blurb": "FORT WALTON BEACH, FLA. — TSCG has brokered the $8.4 million sale of The Shoppes at Paradise Pointe, a Publix-anchored shopping center located at U.S. Highway 98 and Perry Avenue SE in Fort Walton Beach. The 73,416-square-foot property sits at the mainland approach to Brooks Bridge, which connects Fort Walton Beach…",
+      "url": "https://rebusinessonline.com/tscg-brokers-8-4m-sale-of-publix-anchored-shopping-center-in-fort-walton-beach-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-29T14:01:14.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Darwin Investment Group Receives $130M Refinancing for Industrial Portfolio in Chicago, Southeast Wisconsin",
+      "blurb": "CHICAGO — Darwin Investment Group has received a $130 million refinancing for a 39-building industrial portfolio totaling more than 2 million square feet across the greater Chicago area and Southeast Wisconsin. A dedicated middle market real estate team within Wells Fargo Commercial Banking provided the financing. In…",
+      "url": "https://rebusinessonline.com/darwin-investment-group-receives-130m-refinancing-for-industrial-portfolio-in-chicago-southeast-wisconsin/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-29T13:29:04.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Entre Commercial Realty Brokers Sale of 142,370 SF Industrial Facility in Plainfield, Illinois",
+      "blurb": "PLAINFIELD, ILL. — Entre Commercial Realty has brokered the sale of a 142,370-square-foot industrial facility in Plainfield. Situated on 20 acres, the freestanding property features 19 loading docks, two drive-in doors, approximately 11,000 square feet of office space, heavy power and eight private rail spurs. A…",
+      "url": "https://rebusinessonline.com/entre-commercial-realty-brokers-sale-of-142370-sf-industrial-facility-in-plainfield-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-29T13:28:01.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "TEI Acquires Retail Property on Jeweler’s Row in Chicago for $3.9M",
+      "blurb": "CHICAGO — Time Equities Inc. (TEI) has acquired 33 South Wabash Avenue in Chicago for $3.9 million. Located in the heart of South Loop along historic Jeweler’s Row, the property offers 38 feet of frontage on Wabash Avenue at the base of a 360-unit luxury condominium building, which is also home to the School of the…",
+      "url": "https://rebusinessonline.com/tei-acquires-retail-property-on-jewelers-row-in-chicago-for-3-9m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-29T13:27:33.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "industrial",
