@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-09-30T12:19:47.081Z",
+  "generatedAt": "2026-09-30T22:05:39.692Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "multifamily",
+      "title": "Walker &#038; Dunlop Arranges $238M Refinancing for Landmark South Apartments in Doral, Florida",
+      "blurb": "DORAL, FLA. — Walker &#38; Dunlop has arranged a $238 million loan for the refinancing of The Landmark South, a 631-unit apartment community located at 6055 N.W. 105th Court in Doral, a western suburb of Miami. Aaron Appel, Michael Stepniewski, Jonathan Schwartz, Keith Kurland, Adam Schwartz, Dustin Stolly, Sean…",
+      "url": "https://rebusinessonline.com/walker-dunlop-arranges-238m-refinancing-for-landmark-south-apartments-in-doral-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-30T14:32:48.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Greystone Provides $167M Financing for Affordable Housing Tower Development in Miami",
+      "blurb": "MIAMI — Greystone has provided a loan package totaling $167 million for the construction of Gallery at Lummus Parc, an affordable housing high-rise development located at 395 N.W. 1st St. in Miami. The borrower is locally based Related Urban Development Group, an affordable housing subsidiary of Related Group. Greg…",
+      "url": "https://rebusinessonline.com/greystone-provides-167m-financing-for-affordable-housing-tower-development-in-miami/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-30T14:30:13.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "multifamily",
+      "title": "Griffis Residential Receives $86M in Financing for Denver Apartment Community",
+      "blurb": "DENVER — Griffis Residential has received $86 million in financing for Griffis Union Station, a Class A apartment property in Denver. Eric Tupler, Kevin Barron and Jake Martin of JLL Capital Markets secured the five-year senior agency loan for the borrower. Completed in 2010, the five-story Griffis Union Station…",
+      "url": "https://rebusinessonline.com/griffis-residential-receives-86m-in-financing-for-multifamily-community-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-09-30T13:46:32.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "retail",
