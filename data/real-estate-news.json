@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-01T12:52:42.382Z",
+  "generatedAt": "2026-10-01T22:32:46.244Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "office",
+      "title": "PAULS Returns to Denver Tech Center, Acquires 335,908 SF Office Tower",
+      "blurb": "DENVER — PAULS has purchased Regency Plaza, a 15-story office tower located at 4643 S. Ulster St. in Denver Tech Center, from Granite Properties for an undisclosed price. The acquisition marks a return of ownership for Regency Plaza, which was previously owned by PAULS. Originally built in 1985 and repositioned in…",
+      "url": "https://rebusinessonline.com/pauls-returns-to-denver-tech-center-acquires-335908-sf-office-tower/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-01T12:55:19.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "multifamily",
