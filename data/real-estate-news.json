@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-02T12:15:43.896Z",
+  "generatedAt": "2026-10-02T22:02:18.461Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "Draper and Kramer Arranges Two Loans Totaling $27.5M for Chicago-Area Multifamily, Distribution Properties",
+      "blurb": "CHICAGO AND BRIDGEVIEW, ILL. — Draper and Kramer Inc. has arranged two loans totaling $27.5 million. The transactions include a $13.5 million loan to finance the acquisition of a three-building industrial complex in Bridgeview, a southwest suburb of Chicago, and a $14 million bridge loan for a 56-unit multifamily…",
+      "url": "https://rebusinessonline.com/draper-and-kramer-arranges-two-loans-totaling-27-5m-for-chicago-area-multifamily-distribution-properties/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-02T13:01:00.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "office",
