@@ -39,7 +39,7 @@ export default function HomePage() {
       <div className="relative px-6 pb-14 max-w-2xl mx-auto">
         {/* Bio */}
         <section className="mt-4">
-          <div className="rounded-2xl bg-gray-900 text-white shadow-md p-6 sm:p-8 flex flex-col items-center">
+          <div className="fade-edges rounded-2xl bg-gray-900 text-white shadow-md p-6 sm:p-8 flex flex-col items-center">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src="/photos/duke-headshot-bw.webp"
@@ -79,7 +79,7 @@ export default function HomePage() {
 
         {/* Current focus / open to opportunities */}
         <section className="mt-10">
-          <div className="rounded-2xl border border-white/40 bg-white/95 backdrop-blur-sm p-6 sm:p-8">
+          <div className="fade-edges rounded-2xl border border-white/40 bg-white/95 p-6 sm:p-8">
             <span className="inline-block text-[10px] font-semibold uppercase tracking-wide bg-gray-900 text-white px-2.5 py-1 rounded-full mb-3">
               Open to Opportunities
             </span>
@@ -93,7 +93,7 @@ export default function HomePage() {
             </p>
             <a
               href="mailto:info@drbenson.online"
-              className="inline-block mt-4 text-sm font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600"
+              className="inline-block mt-8 text-sm font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600"
             >
               Reach out for Resume →
             </a>
@@ -128,7 +128,7 @@ export default function HomePage() {
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
               href="/ai-research"
-              className="block rounded-xl p-5 bg-gray-900 text-white shadow-md hover:bg-black transition-colors"
+              className="fade-edges block rounded-xl p-5 bg-gray-900 text-white shadow-md hover:bg-black transition-colors"
             >
               <span className="text-2xl grayscale">🧠</span>
               <h2 className="mt-2 font-bold">AI Research Feed</h2>
@@ -141,7 +141,7 @@ export default function HomePage() {
 
             <Link
               href="/real-estate"
-              className="block rounded-xl p-5 bg-gray-900 text-white shadow-md hover:bg-black transition-colors"
+              className="fade-edges block rounded-xl p-5 bg-gray-900 text-white shadow-md hover:bg-black transition-colors"
             >
               <span className="text-2xl grayscale">🏢</span>
               <h2 className="mt-2 font-bold">Real Estate Dashboard</h2>
@@ -152,7 +152,7 @@ export default function HomePage() {
               <span className="mt-3 inline-block text-sm font-semibold border-b border-white/60">Explore →</span>
             </Link>
 
-            <div className="rounded-xl p-5 bg-gray-900 text-white shadow-md sm:col-span-2">
+            <div className="fade-edges rounded-xl p-5 bg-gray-900 text-white shadow-md sm:col-span-2">
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src="/logos/riskwhale-icon.jpg" alt="RiskWhale" className="w-8 h-8 rounded-full" />
               <h2 className="mt-2 font-bold">RiskWhale</h2>

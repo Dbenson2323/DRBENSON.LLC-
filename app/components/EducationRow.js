@@ -6,7 +6,7 @@ export default function EducationRow({ href, iconColor, iconBg, logoSrc, title, 
       href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className="flex items-start gap-4 p-4 rounded-xl border border-white/40 hover:border-white/70 bg-white/95 backdrop-blur-sm transition-colors"
+      className="fade-edges flex items-start gap-4 p-4 rounded-xl border border-white/40 hover:border-white/70 bg-white/95 transition-colors"
     >
       {logoSrc ? (
         <span

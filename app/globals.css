@@ -19,3 +19,11 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Softens a card's edges/corners into the page background instead of a
+   hard rectangular boundary — same idea as the bio photo's bottom fade,
+   applied all the way around via a mask instead of a bottom-only gradient. */
+.fade-edges {
+  -webkit-mask-image: radial-gradient(ellipse 92% 92% at 50% 50%, black 55%, transparent 100%);
+  mask-image: radial-gradient(ellipse 92% 92% at 50% 50%, black 55%, transparent 100%);
+}
