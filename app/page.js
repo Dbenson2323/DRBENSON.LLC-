@@ -91,6 +91,12 @@ export default function HomePage() {
               tools, including a live CRE market dashboard. I&apos;m eager to bring that mix of
               analytical rigor and technology to a Chicago-based investment team.
             </p>
+            <a
+              href="mailto:info@drbenson.online"
+              className="inline-block mt-4 text-sm font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600"
+            >
+              Reach out for Resume →
+            </a>
           </div>
         </section>
 
