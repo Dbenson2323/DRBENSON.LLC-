@@ -39,14 +39,14 @@ export default function HomePage() {
       <div className="relative px-6 pb-14 max-w-2xl mx-auto">
         {/* Bio */}
         <section className="mt-4">
-          <div className="rounded-2xl border border-white/40 bg-white/95 backdrop-blur-sm p-6 sm:p-8 flex flex-col sm:flex-row gap-6 items-center sm:items-start">
+          <div className="rounded-2xl bg-gray-900 text-white shadow-md p-6 sm:p-8 flex flex-col items-center">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/photos/duke-headshot.jpg"
+              src="/photos/duke-headshot-nobg.webp"
               alt="Duke Benson"
-              className="w-36 h-36 sm:w-44 sm:h-44 rounded-xl object-cover shrink-0"
+              className="w-56 sm:w-72 h-auto"
             />
-            <div className="text-sm text-gray-700 leading-relaxed space-y-3">
+            <div className="mt-8 text-sm text-gray-300 leading-relaxed space-y-3">
               <p>
                 I&apos;m a Finance and Real Estate graduate of the University of Colorado
                 Boulder&apos;s Leeds School of Business with a strong interest in technology and
