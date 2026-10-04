@@ -77,6 +77,23 @@ export default function HomePage() {
           </div>
         </section>
 
+        {/* Current focus / open to opportunities */}
+        <section className="mt-10">
+          <div className="rounded-2xl border border-white/40 bg-white/95 backdrop-blur-sm p-6 sm:p-8">
+            <span className="inline-block text-[10px] font-semibold uppercase tracking-wide bg-gray-900 text-white px-2.5 py-1 rounded-full mb-3">
+              Open to Opportunities
+            </span>
+            <p className="text-sm text-gray-700 leading-relaxed">
+              I&apos;m pursuing a career in Chicago&apos;s commercial real estate market,
+              focused on principal-side and analytical roles in acquisitions, development, and
+              investment analysis. I enjoy evaluating opportunities and understanding how a
+              deal&apos;s fundamentals drive long-term value, and I build my own AI-powered
+              tools, including a live CRE market dashboard. I&apos;m eager to bring that mix of
+              analytical rigor and technology to a Chicago-based investment team.
+            </p>
+          </div>
+        </section>
+
         {/* Education */}
         <section className="mt-10 space-y-3">
           <EducationRow
