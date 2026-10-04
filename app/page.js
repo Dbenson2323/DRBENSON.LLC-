@@ -17,9 +17,11 @@ export default function HomePage() {
         </h1>
         <p className="mt-3 text-lg text-white/80 drop-shadow">Denver, Colorado</p>
         <p className="mt-5 text-white/90 leading-relaxed max-w-lg mx-auto drop-shadow">
-          Studying Finance &amp; Real Estate at the University of Colorado Boulder&apos;s Leeds
-          School of Business. I build software that combines both interests — from an
-          AI research feed to a live commercial real estate market dashboard.
+          I studied Finance and Real Estate at the University of Colorado Boulder&apos;s Leeds
+          School of Business. I create and use software to understand AI advancements and stay
+          up to date on current news. I combine both interests to create applicable work, from
+          designing AI research feeds to building a live commercial real estate market
+          dashboard.
         </p>
         <p className="mt-6 text-[8px] text-white/50">
           Background photo: Glacier National Park, via{" "}
@@ -35,15 +37,55 @@ export default function HomePage() {
       </div>
 
       <div className="relative px-6 pb-14 max-w-2xl mx-auto">
+        {/* Bio */}
+        <section className="mt-4">
+          <div className="rounded-2xl border border-white/40 bg-white/95 backdrop-blur-sm p-6 sm:p-8 flex flex-col sm:flex-row gap-6 items-center sm:items-start">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/photos/duke-headshot.jpg"
+              alt="Duke Benson"
+              className="w-36 h-36 sm:w-44 sm:h-44 rounded-xl object-cover shrink-0"
+            />
+            <div className="text-sm text-gray-700 leading-relaxed space-y-3">
+              <p>
+                I&apos;m a Finance and Real Estate graduate of the University of Colorado
+                Boulder&apos;s Leeds School of Business with a strong interest in technology and
+                artificial intelligence. My experience as an investment analyst spans real
+                estate private equity and growth capital, where I&apos;ve built financial
+                models, prepared investment committee materials, and conducted market research
+                to support investment decisions. I&apos;m especially drawn to real estate
+                investment and development, where careful underwriting and market research shape
+                long-term value. I enjoy the analytical side of the business, from
+                stress-testing assumptions in a model to understanding how a project&apos;s
+                story plays out in the numbers.
+              </p>
+              <p>
+                Outside of work, I build and use my own software to follow AI developments and
+                stay current on the news, and I apply those skills to real estate. My projects
+                range from AI-powered research feeds to a live commercial real estate market
+                dashboard. I&apos;m drawn to work where financial analysis and technology meet,
+                and I enjoy turning complex, fast-moving information into tools that support
+                better decisions.
+              </p>
+              <p>
+                In my free time, you&apos;ll find me on the basketball court, skiing, fly
+                fishing, or anywhere outdoors. I also enjoy chess, reading, running, and
+                weightlifting, and I like building things with my hands, from 3D design in
+                Autodesk Fusion to metalwork.
+              </p>
+            </div>
+          </div>
+        </section>
+
         {/* Education */}
-        <section className="mt-12 space-y-3">
+        <section className="mt-10 space-y-3">
           <EducationRow
             href="https://www.colorado.edu/business/"
             iconBg="#000000"
             logoSrc="/logos/cu-boulder-icon.svg"
             title="University of Colorado Boulder — Leeds School of Business"
             subtitle="Class of 2026 · Finance & Real Estate"
-            bio="Studying finance and real estate at CU Boulder's Leeds School of Business."
+            bio="Graduated with a Bachelor of Science in Business Administration in Finance and Real Estate from the Leeds School of Business."
           />
           <EducationRow
             href="https://www.kentdenver.org/"
@@ -58,7 +100,7 @@ export default function HomePage() {
         {/* Currently building */}
         <section className="mt-14">
           <p className="text-center text-xs font-semibold uppercase tracking-wide text-white/70 drop-shadow mb-4">
-            Currently Building
+            Current AI Developments/Projects and Research Pages
           </p>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
