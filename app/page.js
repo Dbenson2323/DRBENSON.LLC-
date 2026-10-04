@@ -42,7 +42,7 @@ export default function HomePage() {
           <div className="rounded-2xl bg-gray-900 text-white shadow-md p-6 sm:p-8 flex flex-col items-center">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/photos/duke-headshot-nobg.webp"
+              src="/photos/duke-headshot-bw.webp"
               alt="Duke Benson"
               className="w-56 sm:w-72 h-auto"
             />
