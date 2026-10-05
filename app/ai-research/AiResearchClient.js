@@ -18,75 +18,69 @@ function formatDate(iso) {
 
 // Mirrors SOURCE_BASELINE / scoreStory in scripts/fetch-ai-news.mjs — keep in sync.
 const SCORE_BASELINES = [
-  { type: "Research papers", sources: "arXiv", factual: 96, quality: 88 },
-  { type: "Official lab blogs", sources: "OpenAI, Anthropic, DeepMind, Meta AI, NVIDIA…", factual: 90, quality: 85 },
-  { type: "Open source", sources: "GitHub Trending, Hugging Face", factual: 82, quality: 74 },
-  { type: "Tech journalism", sources: "MIT Tech Review, TechCrunch, VentureBeat…", factual: 78, quality: 80 },
-  { type: "Link aggregators", sources: "Hacker News", factual: 62, quality: 65 },
-  { type: "Community forums", sources: "Reddit", factual: 48, quality: 55 },
+  { type: "Research papers", example: "arXiv", factual: 96, quality: 88 },
+  { type: "Lab announcements", example: "OpenAI, Anthropic…", factual: 90, quality: 85 },
+  { type: "Open source", example: "GitHub, Hugging Face", factual: 82, quality: 74 },
+  { type: "Tech journalism", example: "TechCrunch, MIT TR…", factual: 78, quality: 80 },
+  { type: "Aggregators", example: "Hacker News", factual: 62, quality: 65 },
+  { type: "Forums", example: "Reddit", factual: 48, quality: 55 },
 ];
 
-function ScoreExplainer() {
+function ScoreGuideBody() {
   return (
-    <details className="group rounded-xl border border-gray-200 bg-gray-50 px-5 py-3 mb-4 text-sm text-gray-600">
-      <summary className="cursor-pointer list-none font-semibold text-gray-900 flex items-center justify-between">
-        How are the Factual and Quality scores calculated?
-        <span className="text-gray-400 transition-transform group-open:rotate-180">▾</span>
-      </summary>
-      <div className="mt-3 space-y-3 leading-relaxed">
-        <p>
-          Every story is scored automatically when the feed refreshes each day. The scores are
-          estimates of how much to trust a story at a glance, not a claim-by-claim fact-check.
-        </p>
-        <p>
-          <span className="font-semibold text-gray-900">1. Source baseline.</span> Each story
-          starts from a baseline set by the kind of source it comes from. Research papers and
-          official lab announcements start high; open forums start low.
-        </p>
-        <div className="overflow-x-auto">
-          <table className="w-full text-xs">
-            <thead>
-              <tr className="text-left text-gray-400">
-                <th className="py-1 pr-3 font-medium">Source type</th>
-                <th className="py-1 pr-3 font-medium">Factual</th>
-                <th className="py-1 font-medium">Quality</th>
-              </tr>
-            </thead>
-            <tbody>
-              {SCORE_BASELINES.map((row) => (
-                <tr key={row.type} className="border-t border-gray-200">
-                  <td className="py-1.5 pr-3">
-                    <span className="text-gray-900">{row.type}</span>
-                    <span className="block text-gray-400">{row.sources}</span>
-                  </td>
-                  <td className="py-1.5 pr-3">{row.factual}%</td>
-                  <td className="py-1.5">{row.quality}%</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        <p>
-          <span className="font-semibold text-gray-900">2. Factual adjustments.</span> The
-          headline and summary are scanned for wording. Opinion or speculation signals
-          (&ldquo;opinion,&rdquo; &ldquo;I think,&rdquo; &ldquo;rumor,&rdquo; &ldquo;leaked,&rdquo;
-          &ldquo;allegedly,&rdquo; &ldquo;hot take&rdquo;) subtract 20 points. Concrete-event
-          signals (&ldquo;announced,&rdquo; &ldquo;released,&rdquo; &ldquo;launched,&rdquo;
-          &ldquo;study,&rdquo; &ldquo;paper&rdquo;) add 4.
-        </p>
-        <p>
-          <span className="font-semibold text-gray-900">3. Quality adjustments.</span> Longer,
-          more substantive summaries (500+ characters) add 5 points; very thin ones (under 80
-          characters) lose 8.
-        </p>
-        <p>
-          Scores are capped between 0 and 100%. Colors:{" "}
-          <span className="font-semibold text-green-700">80%+ green</span>,{" "}
-          <span className="font-semibold text-yellow-700">55–79% amber</span>,{" "}
-          <span className="font-semibold text-red-700">below 55% red</span>.
-        </p>
+    <div className="space-y-4 text-xs text-gray-600 leading-relaxed">
+      <div className="rounded-lg bg-white border border-gray-200 p-3">
+        <p className="text-sm font-semibold text-gray-900">Factual %</p>
+        <p className="text-gray-500 mb-2">Is it reporting facts or opinion?</p>
+        <ul className="space-y-1">
+          <li><span className="font-semibold text-gray-900">Start:</span> trust level of the source (table below)</li>
+          <li><span className="font-semibold text-red-700">−20</span> opinion or rumor words (&ldquo;I think,&rdquo; &ldquo;leaked,&rdquo; &ldquo;allegedly&rdquo;)</li>
+          <li><span className="font-semibold text-green-700">+4</span> concrete events (&ldquo;released,&rdquo; &ldquo;launched,&rdquo; &ldquo;study&rdquo;)</li>
+        </ul>
       </div>
-    </details>
+
+      <div className="rounded-lg bg-white border border-gray-200 p-3">
+        <p className="text-sm font-semibold text-gray-900">Quality %</p>
+        <p className="text-gray-500 mb-2">How substantive is the write-up?</p>
+        <ul className="space-y-1">
+          <li><span className="font-semibold text-gray-900">Start:</span> writing standard of the source (table below)</li>
+          <li><span className="font-semibold text-green-700">+5</span> detailed summary (500+ characters)</li>
+          <li><span className="font-semibold text-red-700">−8</span> thin summary (under 80 characters)</li>
+        </ul>
+      </div>
+
+      <table className="w-full">
+        <thead>
+          <tr className="text-left text-[10px] uppercase tracking-wide text-gray-400">
+            <th className="pb-1 font-medium">Starting point</th>
+            <th className="pb-1 font-medium text-right">Fact.</th>
+            <th className="pb-1 font-medium text-right">Qual.</th>
+          </tr>
+        </thead>
+        <tbody>
+          {SCORE_BASELINES.map((row) => (
+            <tr key={row.type} className="border-t border-gray-200">
+              <td className="py-1.5 pr-2">
+                <span className="text-gray-900">{row.type}</span>
+                <span className="block text-[10px] text-gray-400">{row.example}</span>
+              </td>
+              <td className="py-1.5 text-right tabular-nums">{row.factual}</td>
+              <td className="py-1.5 text-right tabular-nums">{row.quality}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <div className="flex flex-wrap gap-x-3 gap-y-1 text-[11px]">
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-green-700" />80%+</span>
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-yellow-700" />55–79%</span>
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full bg-red-700" />under 55%</span>
+      </div>
+
+      <p className="text-[11px] text-gray-400">
+        Automated rules applied daily: a quick trust signal, not a fact-check.
+      </p>
+    </div>
   );
 }
 
@@ -202,8 +196,18 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
           </div>
 
           {/* Feed */}
-          <main className="max-w-2xl mx-auto px-4 py-4">
-            <ScoreExplainer />
+          <div className="max-w-5xl mx-auto px-4 lg:grid lg:grid-cols-[minmax(0,1fr)_17rem] lg:gap-8">
+          <main className="max-w-2xl w-full mx-auto py-4">
+            {/* On small screens the score guide collapses above the feed */}
+            <details className="group lg:hidden rounded-xl border border-gray-200 bg-gray-50 px-4 py-3 mb-4">
+              <summary className="cursor-pointer list-none text-sm font-semibold text-gray-900 flex items-center justify-between">
+                How Factual &amp; Quality scores work
+                <span className="text-gray-400 transition-transform group-open:rotate-180">▾</span>
+              </summary>
+              <div className="mt-3">
+                <ScoreGuideBody />
+              </div>
+            </details>
             {filtered.length === 0 && (
               <p className="text-center text-gray-400 py-16">
                 No stories match &ldquo;{query}&rdquo; in {activeCategory}.
@@ -213,6 +217,16 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
               <StoryCard key={story.id} story={story} featured={i === 0 && activeCategory === "All" && !query.trim()} />
             ))}
           </main>
+
+          <aside className="hidden lg:block py-4">
+            <div className="sticky top-20 max-h-[calc(100vh-6rem)] overflow-y-auto rounded-xl border border-gray-200 bg-gray-50 p-4">
+              <p className="text-[10px] font-semibold uppercase tracking-wide text-gray-400 mb-3">
+                How the scores work
+              </p>
+              <ScoreGuideBody />
+            </div>
+          </aside>
+          </div>
         </>
       ) : (
         <main className="max-w-5xl mx-auto px-4 py-10">
