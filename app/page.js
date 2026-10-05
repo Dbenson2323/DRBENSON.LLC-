@@ -18,8 +18,8 @@ export default function HomePage() {
         <p className="mt-3 text-lg text-white/80 drop-shadow">Denver, Colorado</p>
         <p className="mt-5 text-white/90 leading-relaxed max-w-lg mx-auto drop-shadow">
           I studied Finance and Real Estate at the University of Colorado Boulder&apos;s Leeds
-          School of Business. I create and use software to understand AI advancements and stay
-          up to date on current news. I combine both interests to create applicable work, from
+          School of Business. I created and used software to understand AI advancements and stay
+          up to date on current news. I combined both interests to create applicable work, from
           designing AI research feeds to building a live commercial real estate market
           dashboard.
         </p>
@@ -92,7 +92,7 @@ export default function HomePage() {
               analytical rigor and technology to a Chicago-based investment team.
             </p>
             <a
-              href="mailto:info@drbenson.online"
+              href="mailto:dukerenobenson@gmail.com"
               className="inline-block mt-8 text-sm font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600"
             >
               Reach out for Resume →
