@@ -16,6 +16,80 @@ function formatDate(iso) {
   }
 }
 
+// Mirrors SOURCE_BASELINE / scoreStory in scripts/fetch-ai-news.mjs — keep in sync.
+const SCORE_BASELINES = [
+  { type: "Research papers", sources: "arXiv", factual: 96, quality: 88 },
+  { type: "Official lab blogs", sources: "OpenAI, Anthropic, DeepMind, Meta AI, NVIDIA…", factual: 90, quality: 85 },
+  { type: "Open source", sources: "GitHub Trending, Hugging Face", factual: 82, quality: 74 },
+  { type: "Tech journalism", sources: "MIT Tech Review, TechCrunch, VentureBeat…", factual: 78, quality: 80 },
+  { type: "Link aggregators", sources: "Hacker News", factual: 62, quality: 65 },
+  { type: "Community forums", sources: "Reddit", factual: 48, quality: 55 },
+];
+
+function ScoreExplainer() {
+  return (
+    <details className="group rounded-xl border border-gray-200 bg-gray-50 px-5 py-3 mb-4 text-sm text-gray-600">
+      <summary className="cursor-pointer list-none font-semibold text-gray-900 flex items-center justify-between">
+        How are the Factual and Quality scores calculated?
+        <span className="text-gray-400 transition-transform group-open:rotate-180">▾</span>
+      </summary>
+      <div className="mt-3 space-y-3 leading-relaxed">
+        <p>
+          Every story is scored automatically when the feed refreshes each day. The scores are
+          estimates of how much to trust a story at a glance, not a claim-by-claim fact-check.
+        </p>
+        <p>
+          <span className="font-semibold text-gray-900">1. Source baseline.</span> Each story
+          starts from a baseline set by the kind of source it comes from. Research papers and
+          official lab announcements start high; open forums start low.
+        </p>
+        <div className="overflow-x-auto">
+          <table className="w-full text-xs">
+            <thead>
+              <tr className="text-left text-gray-400">
+                <th className="py-1 pr-3 font-medium">Source type</th>
+                <th className="py-1 pr-3 font-medium">Factual</th>
+                <th className="py-1 font-medium">Quality</th>
+              </tr>
+            </thead>
+            <tbody>
+              {SCORE_BASELINES.map((row) => (
+                <tr key={row.type} className="border-t border-gray-200">
+                  <td className="py-1.5 pr-3">
+                    <span className="text-gray-900">{row.type}</span>
+                    <span className="block text-gray-400">{row.sources}</span>
+                  </td>
+                  <td className="py-1.5 pr-3">{row.factual}%</td>
+                  <td className="py-1.5">{row.quality}%</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p>
+          <span className="font-semibold text-gray-900">2. Factual adjustments.</span> The
+          headline and summary are scanned for wording. Opinion or speculation signals
+          (&ldquo;opinion,&rdquo; &ldquo;I think,&rdquo; &ldquo;rumor,&rdquo; &ldquo;leaked,&rdquo;
+          &ldquo;allegedly,&rdquo; &ldquo;hot take&rdquo;) subtract 20 points. Concrete-event
+          signals (&ldquo;announced,&rdquo; &ldquo;released,&rdquo; &ldquo;launched,&rdquo;
+          &ldquo;study,&rdquo; &ldquo;paper&rdquo;) add 4.
+        </p>
+        <p>
+          <span className="font-semibold text-gray-900">3. Quality adjustments.</span> Longer,
+          more substantive summaries (500+ characters) add 5 points; very thin ones (under 80
+          characters) lose 8.
+        </p>
+        <p>
+          Scores are capped between 0 and 100%. Colors:{" "}
+          <span className="font-semibold text-green-700">80%+ green</span>,{" "}
+          <span className="font-semibold text-yellow-700">55–79% amber</span>,{" "}
+          <span className="font-semibold text-red-700">below 55% red</span>.
+        </p>
+      </div>
+    </details>
+  );
+}
+
 export default function AiResearchClient({ stories, generatedAt, capabilities }) {
   const [query, setQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState("All");
@@ -129,6 +203,7 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
 
           {/* Feed */}
           <main className="max-w-2xl mx-auto px-4 py-4">
+            <ScoreExplainer />
             {filtered.length === 0 && (
               <p className="text-center text-gray-400 py-16">
                 No stories match &ldquo;{query}&rdquo; in {activeCategory}.
