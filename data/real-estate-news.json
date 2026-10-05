@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-05T05:05:59.187Z",
+  "generatedAt": "2026-10-05T14:14:21.247Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "PTM Partners Obtains $125M Construction Loan for Phase II of High-Rise Project in St. Petersburg, Florida",
+      "blurb": "ST. PETERSBURG, FLA. —&#160;PTM Partners has obtained a $125 million construction loan to finance EDGE Collective II, a 330-unit residential development in downtown St. Petersburg’s EDGE District. Scott Wadler, Alec Fox, Mitch Sinberg, Matt Robbins and Brad Williamson of Berkadia arranged the three-year,…",
+      "url": "https://rebusinessonline.com/ptm-partners-obtains-125m-construction-loan-for-phase-ii-of-high-rise-project-in-st-petersburg-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-05T13:39:27.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "Becovic Residential Acquires Chicago Apartment Building for $20M",
+      "blurb": "CHICAGO — Becovic Residential has acquired an historic property at 5154 N. Clark St. in Chicago for $20 million and has rebranded it as The Quarters at Andersonville. Built in 1923, the asset consists of 81 apartments and 10 ground-floor commercial spaces. The property had been held by its previous ownership for more…",
+      "url": "https://rebusinessonline.com/becovic-residential-acquires-chicago-apartment-building-for-20m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-05T13:02:00.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "multifamily",
