@@ -214,6 +214,12 @@ export default function HomePage() {
             >
               About Me
             </Link>
+            <Link
+              href="/job-search"
+              className="px-2 py-2 text-sm font-semibold text-white hover:text-white/70 underline underline-offset-4 transition-colors drop-shadow"
+            >
+              Job Search
+            </Link>
           </div>
         </section>
 

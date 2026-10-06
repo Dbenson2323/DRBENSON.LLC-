@@ -1,0 +1,141 @@
+{
+  "_note": "Hand-curated company reference data for the Job Search page — logos, specialty tags, and AUM are NOT fetched or guessed, they're filled in here by hand (same approach as data/real-estate-personal-notes.json). AUM figures are approximate, point-in-time figures from public reporting and will drift out of date — correct them whenever you have better numbers. `logo` is a Clearbit logo lookup (https://logo.clearbit.com/<domain>), which works for any company domain without needing to host logo files yourself. `ats` (optional) is a confirmed public job-board API the fetch script pulls directly from: {\"provider\":\"greenhouse\"|\"lever\", \"slug\":\"...\"}. Only add an `ats` entry you've verified actually resolves — add more companies/slugs here any time to widen direct-employer coverage.",
+  "companies": {
+    "cbre": {
+      "name": "CBRE",
+      "domain": "cbre.com",
+      "specialty": "Diversified — full-service brokerage & services",
+      "aum": "N/A — brokerage/services firm (CBRE Investment Management, a separate arm, manages ~$150B)"
+    },
+    "jll": {
+      "name": "JLL",
+      "domain": "jll.com",
+      "specialty": "Diversified — full-service brokerage & services",
+      "aum": "N/A — brokerage/services firm (LaSalle Investment Management, JLL's investment arm, manages ~$75B)"
+    },
+    "cushmanwakefield": {
+      "name": "Cushman & Wakefield",
+      "domain": "cushmanwakefield.com",
+      "specialty": "Diversified — full-service brokerage & services",
+      "aum": "N/A — brokerage/services firm"
+    },
+    "colliers": {
+      "name": "Colliers",
+      "domain": "colliers.com",
+      "specialty": "Diversified — full-service brokerage & services",
+      "aum": "N/A — brokerage/services firm"
+    },
+    "newmark": {
+      "name": "Newmark",
+      "domain": "nmrk.com",
+      "specialty": "Diversified — capital markets & investment sales",
+      "aum": "N/A — brokerage/services firm"
+    },
+    "avisonyoung": {
+      "name": "Avison Young",
+      "domain": "avisonyoung.com",
+      "specialty": "Diversified — full-service brokerage & services",
+      "aum": "N/A — brokerage/services firm"
+    },
+    "marcusmillichap": {
+      "name": "Marcus & Millichap",
+      "domain": "marcusmillichap.com",
+      "specialty": "Investment sales specialist (private capital)",
+      "aum": "N/A — brokerage/services firm"
+    },
+    "naihiffman": {
+      "name": "NAI Hiffman",
+      "domain": "hiffman.com",
+      "specialty": "Industrial-focused brokerage (Chicago-based)",
+      "aum": "N/A — brokerage/services firm"
+    },
+    "transwestern": {
+      "name": "Transwestern",
+      "domain": "transwestern.com",
+      "specialty": "Diversified — industrial & office focus",
+      "aum": "N/A — brokerage/services firm"
+    },
+    "lpc": {
+      "name": "Lincoln Property Company",
+      "domain": "lpc.com",
+      "specialty": "Diversified — industrial, multifamily & office developer/manager",
+      "aum": "~$30B+ in assets under management (approx.)",
+      "ats": { "provider": "greenhouse", "slug": "lpc" }
+    },
+    "faropoint": {
+      "name": "Faropoint",
+      "domain": "faropoint.com",
+      "specialty": "Industrial — last-mile logistics investor",
+      "aum": "~$4B assets under management (approx.)",
+      "ats": { "provider": "greenhouse", "slug": "faropoint" }
+    },
+    "waterton": {
+      "name": "Waterton",
+      "domain": "waterton.com",
+      "specialty": "Multifamily owner/operator (Chicago-based)",
+      "aum": "~$9B assets under management (approx.)"
+    },
+    "sterlingbay": {
+      "name": "Sterling Bay",
+      "domain": "sterlingbay.com",
+      "specialty": "Office & mixed-use developer (Chicago-based)",
+      "aum": "N/A — AUM not publicly disclosed"
+    },
+    "golub": {
+      "name": "Golub & Company",
+      "domain": "golubco.com",
+      "specialty": "Diversified developer/owner — office, multifamily & senior living (Chicago-based)",
+      "aum": "~$6B assets under management (approx.)"
+    },
+    "zeller": {
+      "name": "Zeller Realty Group",
+      "domain": "zellerco.com",
+      "specialty": "Office owner/operator (Chicago-based)",
+      "aum": "N/A — AUM not publicly disclosed"
+    },
+    "harrisonstreet": {
+      "name": "Harrison Street",
+      "domain": "harrisonstreet.com",
+      "specialty": "Alternatives — senior housing, student housing, self-storage & medical office (Chicago-based)",
+      "aum": "~$56B assets under management (approx.)",
+      "ats": { "provider": "lever", "slug": "harrisonst" }
+    },
+    "heitman": {
+      "name": "Heitman",
+      "domain": "heitman.com",
+      "specialty": "Diversified global investment management (Chicago-based)",
+      "aum": "~$40B assets under management (approx.)"
+    },
+    "waltonstreet": {
+      "name": "Walton Street Capital",
+      "domain": "waltonstreet.com",
+      "specialty": "Opportunistic private equity real estate (Chicago-based)",
+      "aum": "~$15B cumulative capital raised (approx.)"
+    },
+    "draperandkramer": {
+      "name": "Draper and Kramer",
+      "domain": "draperandkramer.com",
+      "specialty": "Multifamily owner/manager (Chicago-based)",
+      "aum": "~$3B assets under management (approx.)"
+    },
+    "habitat": {
+      "name": "The Habitat Company",
+      "domain": "habitat.com",
+      "specialty": "Multifamily & affordable housing manager (Chicago-based)",
+      "aum": "N/A — third-party property manager"
+    },
+    "bluevista": {
+      "name": "Blue Vista Capital Management",
+      "domain": "bluevistacapital.com",
+      "specialty": "Alternatives — student housing & diversified private equity real estate (Chicago-based)",
+      "aum": "~$4B assets under management (approx.)"
+    },
+    "assetliving": {
+      "name": "Asset Living",
+      "domain": "assetliving.com",
+      "specialty": "Multifamily & student housing property management",
+      "aum": "N/A — third-party property manager",
+      "ats": { "provider": "greenhouse", "slug": "assetliving" }
+    }
+  }
+}
