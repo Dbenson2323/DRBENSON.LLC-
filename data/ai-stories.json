@@ -1,6 +1,348 @@
 {
-  "generatedAt": "2026-10-05T21:11:32.413Z",
+  "generatedAt": "2026-10-06T18:50:18.764Z",
   "stories": [
+    {
+      "id": "s988100182",
+      "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+      "blurb": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T18:36:08.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/blog1990-7.png"
+    },
+    {
+      "id": "s1205013086",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "blurb": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T18:22:45.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675"
+    },
+    {
+      "id": "s1830442077",
+      "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+      "blurb": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own European datacenters. The API is live now; open weights ship end…",
+      "url": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-06T17:30:46.000Z",
+      "factualScore": 82,
+      "qualityScore": 85,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "chip",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1-4-scaled.png"
+    },
+    {
+      "id": "s170255837",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "blurb": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-06T16:35:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
+    },
+    {
+      "id": "s1212815437",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "blurb": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1129278607",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "blurb": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-06T16:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024"
+    },
+    {
+      "id": "s1039060862",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "blurb": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-06T15:25:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "code",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016"
+    },
+    {
+      "id": "s1144558575",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "blurb": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T14:33:16.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1262015448",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "blurb": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T14:00:49.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675"
+    },
+    {
+      "id": "s918838499",
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "blurb": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T14:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_ee9b8a.png?w=1200"
+    },
+    {
+      "id": "s1892792526",
+      "title": "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "blurb": "Telecom operators are increasingly building their AI strategies on open models — and the reasons go beyond mere cost. Open models give telcos the ability to trust, control and customize AI across their most critical workloads — from autonomous networks to customer care. NVIDIA’s latest State of AI in Telecommunications report reflects this shift, with […]",
+      "url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T13:00:19.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/image1.png"
+    },
+    {
+      "id": "s1777397941",
+      "title": "SRIANJANEYA357/Artificial-Intelligence: new AI project",
+      "blurb": "SRIANJANEYA357/Artificial-Intelligence: new AI project",
+      "url": "https://github.com/SRIANJANEYA357/Artificial-Intelligence",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T11:28:01.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/198532035?v=4"
+    },
+    {
+      "id": "s912457591",
+      "title": "Advancing computer use with Ironclad",
+      "blurb": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T10:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s1607885259",
+      "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+      "blurb": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet. The post Reka Releases Rho-1: A 19B Omni-Reasoning Model That…",
+      "url": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Robotics",
+      "publishedAt": "2026-10-06T06:45:31.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1-3-scaled.png"
+    },
+    {
+      "id": "s1041557218",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "blurb": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "sourceName": "Hugging Face",
+      "sourceType": "opensource",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-06T06:44:39.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/659bc8a7b0f43ed69f0b2300/MJHJMYW3O4CkLvXvn7DOp.png"
+    },
+    {
+      "id": "s1856345980",
+      "title": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
+      "blurb": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%. The post Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields appeared first on…",
+      "url": "https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-06T05:12:01.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1-2-scaled.png"
+    },
+    {
+      "id": "s603607740",
+      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+      "blurb": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One install command sets it up, and an Auto router picks a model for each session. Together claims savings of over 50%. The post Meet Together Link: A Free CLI That…",
+      "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T22:51:05.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1113491486",
+      "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+      "blurb": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling. The post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Robotics",
+      "publishedAt": "2026-10-05T21:41:14.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s152219104",
+      "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+      "blurb": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October 2026. The post Reflection AI Introduces Beam: A 501B…",
+      "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-05T21:04:20.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-6-scaled.png"
+    },
     {
       "id": "s1326379797",
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
@@ -74,6 +416,618 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
     },
     {
+      "id": "s134116240",
+      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "blurb": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart…",
+      "url": "https://arxiv.org/abs/2610.06852v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:59:54.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s134117201",
+      "title": "Base Models Can Reason By Taking a Cue From Training Data",
+      "blurb": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing particular starting token cues makes a base model's performance competitive with that of its reinforcement learning (RL)-trained counterparts on math and coding.…",
+      "url": "https://arxiv.org/abs/2610.06851v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:59:52.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s134118162",
+      "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+      "blurb": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a self-evolving motion-imitation framework in which robot motion data and a tracking policy improve each other. First, we consolidate motion-captured human-object…",
+      "url": "https://arxiv.org/abs/2610.06850v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-05T17:59:50.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s134141226",
+      "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+      "blurb": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and simple symbolic rules. We introduce Serial-to-Parallel Diffusion (S2PD), which performs autoregressive diffusion at high noise before switching to parallel…",
+      "url": "https://arxiv.org/abs/2610.06847v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-10-05T17:59:35.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s134142187",
+      "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+      "blurb": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitoring class-attribute centroid alignment (IBMI), within-class centroid separation (W-IBMI), and feature-projection sensitivity. IBMI is confounded by…",
+      "url": "https://arxiv.org/abs/2610.06846v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-10-05T17:59:28.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s134144109",
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "blurb": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, forming dynamic contextual tokens whose function is not well understood. In this work, we introduce a framework for reading this contextual space through…",
+      "url": "https://arxiv.org/abs/2610.06844v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:59:17.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s134145070",
+      "title": "Recursive Video In-Context Learning for Agentic Robot",
+      "blurb": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration video shows it, but fits poorly into an agent's context. The full video slows every turn, fixed keyframes lose the contact detail that decides whether a grasp…",
+      "url": "https://arxiv.org/abs/2610.06843v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:59:11.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s134171017",
+      "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
+      "blurb": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based staging remains challenging due to the complex patterns of tumor invasion. Recent computer-aided approaches face two key challenges: 1) Structural relationship…",
+      "url": "https://arxiv.org/abs/2610.06837v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-10-05T17:58:28.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s134173900",
+      "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+      "blurb": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker conditioning, with samples transported analytically to the corresponding noisy-space target through a Gaussian bridge. For the sequential Monte Carlo (SMC)…",
+      "url": "https://arxiv.org/abs/2610.06834v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-10-05T17:58:18.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s134174861",
+      "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+      "blurb": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matters. This enables truncated backpropagation in training; terminal key-value (KV) sharing for decoding with almost no loss in accuracy; a distilled student that…",
+      "url": "https://arxiv.org/abs/2610.06833v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:58:15.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s134176783",
+      "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+      "blurb": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter coefficient, a prompt weight, or an interpolation factor. This strength relates poorly to perceptual change. The image can partially revert as the slider…",
+      "url": "https://arxiv.org/abs/2610.06831v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:58:11.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s134177744",
+      "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+      "blurb": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic manner, which can incur unnecessary preprocessing cost and discard details that later prove essential. Recent studies have begun shifting memory processing…",
+      "url": "https://arxiv.org/abs/2610.06830v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:58:06.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s134198886",
+      "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+      "blurb": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for credit assignment, while frontier-language-model judges are too expensive to call at every step and cannot be assumed available at deployment. We introduce…",
+      "url": "https://arxiv.org/abs/2610.06829v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:57:51.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s134202730",
+      "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
+      "blurb": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. Yet it remains unclear how accurately current models recover plotted values from real scientific figures, as existing benchmarks rely largely on synthetic…",
+      "url": "https://arxiv.org/abs/2610.06825v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-05T17:57:19.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s134203691",
+      "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+      "blurb": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, and interpret experimental results. TasteVal measures the experimental component of research taste; given a fixed research problem, we measure how well a model…",
+      "url": "https://arxiv.org/abs/2610.06824v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-05T17:57:15.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s134204652",
+      "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+      "blurb": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We present SeqSmoother, a transformer-based temporal corrector for sleep heart rate (HR) estimation from wrist accelerometry. SeqSmoother combines spectral…",
+      "url": "https://arxiv.org/abs/2610.06823v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-05T17:56:57.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s134205613",
+      "title": "Private online learning and prediction for Littlestone classes",
+      "blurb": "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each time step whereas in online prediction, the learner only needs to make predictions without releasing a hypothesis. Using a novel lower bound for private online…",
+      "url": "https://arxiv.org/abs/2610.06822v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:56:47.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s134230599",
+      "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+      "blurb": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower layers, and each of its two halves is trained separately against the frozen teacher. It has 10x fewer parameters and needs 15x less compute. We first synthesize…",
+      "url": "https://arxiv.org/abs/2610.06817v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-10-05T17:56:07.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s134233482",
+      "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
+      "blurb": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the visual representations used across tasks and action policies. Existing attacks on these models optimize against the victim's actions or…",
+      "url": "https://arxiv.org/abs/2610.06814v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-05T17:55:21.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s134234443",
+      "title": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+      "blurb": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global attention design leads to quadratic complexity and limits long-sequence inference; unconstrained cross-view interactions also can propagate unreliable evidence…",
+      "url": "https://arxiv.org/abs/2610.06813v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:55:06.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s134237326",
+      "title": "Finding Gaussian Structure in Bosonic States",
+      "blurb": "We study agnostic tomography of pure bosonic Gaussian states: given copies of an arbitrary $n$-mode bosonic state $ρ$, the goal is to output a pure Gaussian state whose infidelity with $ρ$ is at most $\\mathrm{opt} + ε$, where $\\mathrm{opt}$ is the minimum infidelity achievable by any pure Gaussian state. We give efficient protocols achieving this in both…",
+      "url": "https://arxiv.org/abs/2610.06810v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:54:36.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s134258468",
+      "title": "Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation",
+      "blurb": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive for applications where data labels are unavailable or impractical to obtain. While there has been significant progress in understanding the identifiability…",
+      "url": "https://arxiv.org/abs/2610.06809v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-05T17:54:25.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s134262312",
+      "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+      "blurb": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with multiple horizons in one shared latent space. We introduce H-JEPA, an end-to-end recipe for training a hierarchy of action-conditioned JEPAs in which each…",
+      "url": "https://arxiv.org/abs/2610.06805v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-05T17:53:34.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s134263273",
+      "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+      "blurb": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution raises each complete answer's probability to a power above one and renormalizes, shifting probability toward answers the model finds most…",
+      "url": "https://arxiv.org/abs/2610.06804v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:53:30.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s134266156",
+      "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+      "blurb": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade generation quality and fidelity at high sparsity levels. Through controlled oracle comparisons, we trace this degradation to three sources:…",
+      "url": "https://arxiv.org/abs/2610.06801v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-10-05T17:51:42.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s134914831",
+      "title": "A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63",
+      "blurb": "Machine-learning emulators of chaotic and stochastic systems are usually validated on forecast skill and long-run statistics. Neither certifies that an emulator responds correctly to forcing, the property that projection and attribution studies rely on. Linear response theory makes this testable: the forced response follows from unperturbed correlations…",
+      "url": "https://arxiv.org/abs/2610.06798v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-10-05T17:51:23.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s134917714",
+      "title": "Round-Trip KNN Clustering: multiscale hierarchical cluster detection on directed nearest-neighbour graphs",
+      "blurb": "We introduce Round-Trip KNN Clustering (RTKNNC), a graph-based method for finding cluster structure at several neighbourhood scales without requiring the number of clusters in advance. Unlike approaches that first make a $k$-nearest-neighbour (KNN) graph undirected, RTKNNC keeps both directions of the neighbour relation: which points a given point selects…",
+      "url": "https://arxiv.org/abs/2610.06795v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:50:16.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s134922519",
+      "title": "Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification",
+      "blurb": "The unprecedented computational scale of modern artificial intelligence depends on complex, multi-billion-transistor Systems-on-Chip, yet the workflows that verify these chips remain stubbornly manual. Although Large Language Models (LLMs) have made rapid inroads into Electronic Design Automation (EDA), approximately 74.6% of existing studies target static…",
+      "url": "https://arxiv.org/abs/2610.06790v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:48:14.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s134948466",
+      "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
+      "blurb": "Much of the recent progress in machine learning domains such as language models has come from scaling laws that predict performance as a function of training effort. In high-energy physics (HEP) similar behavior has now been observed. To aid further study, we present a systematic procedure to derive robust scaling laws and compare design choices on the…",
+      "url": "https://arxiv.org/abs/2610.06784v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:44:43.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s134950388",
+      "title": "T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search",
+      "blurb": "We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list of evidence chunks with short justifications, leaving answer generation to a downstream model, so backend and generator can be swapped without retraining.…",
+      "url": "https://arxiv.org/abs/2610.06782v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:44:26.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s134974413",
+      "title": "IdeaLens: Detecting AI Ideas in Long-form Writing",
+      "blurb": "While modern AI detectors identify who wrote the words, emerging policies on AI use increasingly hinge on a different question: who came up with the ideas? We introduce IdeaLens, a detector that identifies whether a document's ideas came from a human or AI (idea provenance), regardless of who wrote its words. To focus IdeaLens on ideas rather than prose,…",
+      "url": "https://arxiv.org/abs/2610.06778v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:43:33.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s134975374",
+      "title": "On Learning Optimal Corners in Orthogonal Partially Observable Cooperative Guard Art Galleries",
+      "blurb": "The CADENCE algorithm solves the Partially Observable Cooperative Guard Art Gallery Problem (POCGAGP) with formal coverage and connectivity guarantees, but leaves unspecified which valid corner each agent should be deployed to, a choice that strongly affects efficiency. We introduce two learned corner-selection heuristics that preserve these guarantees: a…",
+      "url": "https://arxiv.org/abs/2610.06777v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-05T17:42:41.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s134982101",
+      "title": "Singular parameters and missing limits in neural PDE solvers",
+      "blurb": "Neural solvers for partial differential equations (PDEs) can approach an accurate solution while their parameters grow without bound. In such cases, the limiting solution may have no finite representation in the chosen model, leaving the best loss unattained. Our analysis connects missing limits in deep neural tanh- networks to unbounded hidden parameters…",
+      "url": "https://arxiv.org/abs/2610.06770v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-05T17:40:08.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s135007087",
+      "title": "Conditional Rank Allocation for Taxonomy-Aware Medical Language Model Adaptation",
+      "blurb": "Medical question answering spans specialties and clinical operations that may benefit from different adaptation directions. We propose ARBOR, a parameter-efficient method that selects rank-one components from a shared low-rank basis for each question. An additive gate combines question representations, specialty tags, operation tags, and their interaction;…",
+      "url": "https://arxiv.org/abs/2610.06765v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-05T17:38:13.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
       "id": "s515843283",
       "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
       "blurb": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
@@ -90,6 +1044,24 @@
       ],
       "icon": "shield",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1200,920"
+    },
+    {
+      "id": "s135040722",
+      "title": "MatrixFormer: A Foundation Model for Matrix Completion",
+      "blurb": "Matrix completion underlies problems from tabular imputation to causal inference, yet existing tabular foundation models treat it as entry-by-entry prediction, repeating context for every target and discarding the matrix's two-dimensional structure. We introduce MatrixFormer, a pre-trained matrix-native transformer that predicts a full distribution for…",
+      "url": "https://arxiv.org/abs/2610.06751v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-05T17:28:38.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
     },
     {
       "id": "s556111184",
@@ -130,7 +1102,7 @@
     {
       "id": "s1102027851",
       "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "blurb": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "blurb": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "sourceName": "TechCrunch AI",
       "sourceType": "journalism",
@@ -341,7 +1313,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-5-scaled.png"
+      "image": null
     },
     {
       "id": "s1476986321",
@@ -377,7 +1349,7 @@
         "#22D3EE"
       ],
       "icon": "brain",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-4-scaled.png"
+      "image": null
     },
     {
       "id": "s801582408",
@@ -413,7 +1385,7 @@
         "#22D3EE"
       ],
       "icon": "chip",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/blog1990-6.png"
+      "image": null
     },
     {
       "id": "s1725435626",
@@ -486,6 +1458,24 @@
       ],
       "icon": "shield",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024"
+    },
+    {
+      "id": "s953518137",
+      "title": "Sanny-yadav2307/CodeAlpha-Object-Tracking: Real-Time AI Object Detection & Tracking Project is a 3rd Task of Code-Alpha Artificial Intelligence Internship.",
+      "blurb": "Real-Time AI Object Detection & Tracking Project is a 3rd Task of Code-Alpha Artificial Intelligence Internship.",
+      "url": "https://github.com/Sanny-yadav2307/CodeAlpha-Object-Tracking",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-04T12:12:40.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/180466237?v=4"
     },
     {
       "id": "s650678717",
@@ -2538,6 +3528,24 @@
       ],
       "icon": "globe",
       "image": null
+    },
+    {
+      "id": "s1329909489",
+      "title": "rao-hammad/AI-Learning-Hub: My personal collection of Artificial Intelligence lectures, notes, and resources.",
+      "blurb": "My personal collection of Artificial Intelligence lectures, notes, and resources.",
+      "url": "https://github.com/rao-hammad/AI-Learning-Hub",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-01T16:53:39.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/300172328?v=4"
     },
     {
       "id": "s826157644",
@@ -5292,1014 +6300,6 @@
       ],
       "icon": "code",
       "image": null
-    },
-    {
-      "id": "s686832643",
-      "title": "Neural Harmonic Measure Operator",
-      "blurb": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution that, integrated against any boundary data, returns the Dirichlet Laplace solution. It depends only on the geometry, not on the boundary data. NHMO parameterizes…",
-      "url": "https://arxiv.org/abs/2609.35752v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-09-28T17:58:13.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s686833604",
-      "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
-      "blurb": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-experts (MoE) models activate only a few of many experts for each token. Looped MoE bridges these two design philosophies and gives MoE models new potential for…",
-      "url": "https://arxiv.org/abs/2609.35751v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-09-28T17:58:03.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s686834565",
-      "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
-      "blurb": "Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keeping GPU memory constant for a given trace. Unfortunately, most compaction strategies rely on prefilling the LLM context many times over, hindering training…",
-      "url": "https://arxiv.org/abs/2609.35750v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:57:42.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s686855707",
-      "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
-      "blurb": "Socially intelligent language agents must negotiate, coordinate, and resolve conflicting preferences while respecting the time and attention of both participants. Balancing these demands is challenging because agents must convey enough to address a partner's constraints and advance their goals without adding words that do not help the interaction. In this…",
-      "url": "https://arxiv.org/abs/2609.35749v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-09-28T17:57:16.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686856668",
-      "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
-      "blurb": "Looped transformers have demonstrated promising parameter efficiency by reusing layers for latent computation. Prior studies compare looped and non-looped models at matched parameters or per-token FLOPs. However, to the best of our knowledge, whether looping improves test-time scaling as outputs grow longer remains underexplored. Through post-training…",
-      "url": "https://arxiv.org/abs/2609.35748v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-09-28T17:56:55.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686859551",
-      "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
-      "blurb": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pre-training and typically underperform the original Softmax version. How to initialize linear ViTs both efficiently and effectively still remains unclear. In…",
-      "url": "https://arxiv.org/abs/2609.35745v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-09-28T17:55:21.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686860512",
-      "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
-      "blurb": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rubrics, which are costly to extend and cannot encode each institution's own standard. In FinAutoRubric, experts specify reusable evaluation guidance, while…",
-      "url": "https://arxiv.org/abs/2609.35744v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-09-28T17:55:06.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s686861473",
-      "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
-      "blurb": "World-space hand motion estimation from egocentric video requires recovering 3D articulated hand geometry while tracking camera egomotion. Existing approaches heavily rely on cascading independent hand pose estimators and SLAM systems, resulting in error accumulation, complex pipelines, and severe computational overhead. To address these limitations, we…",
-      "url": "https://arxiv.org/abs/2609.35743v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-09-28T17:54:32.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686863395",
-      "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
-      "blurb": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent improve its future actions by training only on explanations of its own experience? We investigate this question by studying Retrospection-Only Fine-Tuning (ROFT), a…",
-      "url": "https://arxiv.org/abs/2609.35741v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-09-28T17:54:24.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s686886459",
-      "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
-      "blurb": "A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different ways of organizing these operations, the harness needs to be adapted using feedback from the task at hand. We introduce harness learning, which trains a…",
-      "url": "https://arxiv.org/abs/2609.35738v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T17:52:54.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s686890303",
-      "title": "GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space",
-      "blurb": "Novel view synthesis from sparse images must reconcile faithful reconstruction of observed regions with plausible completion of unseen content, while maintaining world consistency across viewpoints. Existing geometry-based methods preserve observed scene structure but often struggle to complete unseen regions, whereas video generative models offer rich…",
-      "url": "https://arxiv.org/abs/2609.35734v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-09-28T17:51:48.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686892225",
-      "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
-      "blurb": "Tool-using agents can fail twice: a required tool can fail, and the agent can then report success without the evidence needed to justify it. Existing benchmarks often entangle this reporting failure with tool selection, recovery, and environment dynamics. We introduce Failure-Transparent Agents (FTA), a controlled benchmark that fixes the failed…",
-      "url": "https://arxiv.org/abs/2609.35732v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:51:41.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s686916250",
-      "title": "FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning",
-      "blurb": "We present FlowAct-R2, a framework for interactive humanoid video generation that combines continuous multimodal control with proactive agent planning. Our method consists of two coupled components. First, a Streaming Multimodal Reference Diffusion Transformer adapts the pretrained Seedance 2.0 Mini reference-to-video backbone to accept rolling action…",
-      "url": "https://arxiv.org/abs/2609.35728v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-09-28T17:50:47.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s686918172",
-      "title": "Impact of Patient Orientation in Single- and Multi-View Camera Environments for AI-based Rehabilitation Monitoring",
-      "blurb": "Automated quality assessment of rehabilitation exercises relies heavily on accurate human pose estimation from video data. Although numerous RGB-based pose estimation methods have been proposed, the impact of camera placement on detecting clinically relevant movement errors remains insufficiently explored. To address this gap, we introduce…",
-      "url": "https://arxiv.org/abs/2609.35726v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-09-28T17:50:26.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686919133",
-      "title": "Superquadric Primitive Decomposition of 3D point clouds via Geometric-Aware Inlier Refinement",
-      "blurb": "The decomposition of 3D point clouds into interpretable geometric primitives remains a longstanding challenge in Computer Vision and Computer Graphics. Among the available representations, superquadrics offer a compact and expressive model capable of capturing a wide range of shapes. However, their estimation is inherently challenging, as it requires…",
-      "url": "https://arxiv.org/abs/2609.35725v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-09-28T17:49:31.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686946041",
-      "title": "Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision",
-      "blurb": "Frontier general-purpose systems are rapidly expanding beyond visual understanding into capabilities traditionally handled by dedicated computer-vision models. As these capabilities expand, a central question for the computer-vision community is how far this reach extends, and what remains hard. We evaluate GPT-6 Astra alongside five frontier…",
-      "url": "https://arxiv.org/abs/2609.35718v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:46:57.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s686947002",
-      "title": "RoboCompiler: Graph-Native Compilation of Closed-Chain Robots for Consistent Modeling, Control, and Simulation",
-      "blurb": "Robots with kinematic loops, coupled actuators, and changing contacts require consistent models of configuration, motion, force, and dynamics. Yet these interfaces are often reconstructed separately for control and simulation, making closure and actuation consistency difficult to maintain. This paper presents RoboCompiler, a graph-native framework that…",
-      "url": "https://arxiv.org/abs/2609.35717v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-09-28T17:46:49.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s686948924",
-      "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
-      "blurb": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe exploration problem: approaching, grasping, and reorienting diverse objects with many degrees of freedom is difficult to discover from scratch. Prior works make…",
-      "url": "https://arxiv.org/abs/2609.35715v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-09-28T17:46:42.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s686953729",
-      "title": "Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective",
-      "blurb": "We introduce LHFM, a geometric framework for learning image dynamics. Drawing on structures central to classical mechanics, symplectic geometry, and geometric quantization, LHFM represents each image as an exact Lagrangian graph and models its evolution through image-dependent Hamiltonian flows, which yield a transport--source parameterization of image…",
-      "url": "https://arxiv.org/abs/2609.35710v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-09-28T17:45:16.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686974871",
-      "title": "Humanoid Loco-Manipulation With Discrete VLA Model",
-      "blurb": "Vision-language-action (VLA) models using discrete action tokens have proven effective for controling robotic arms on manipulation tasks. For a humanoid, however, the whole-body action space -- legs, torso, arms, and hands -- is far higher-dimensional and heterogeneous, raising tokenization, training, and real-time inference challenges that the previous…",
-      "url": "https://arxiv.org/abs/2609.35709v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:44:15.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s686975832",
-      "title": "Mind the RefGAP: Correcting Reference Attention in Diffusion-Based Visual Editing",
-      "blurb": "Reference-guided diffusion editors struggle to faithfully reproduce user-provided references. We identify a potential bottleneck in diffusion editors: many methods provide limited reference-attention allocation. For example, in LoomVideo, edit-region queries assign less than 1% of their attention mass to the reference. We introduce RefGAP, a training-free…",
-      "url": "https://arxiv.org/abs/2609.35708v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-09-28T17:44:13.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686976793",
-      "title": "ScAn-Bench: Evaluating Scaling Analysis Methodology",
-      "blurb": "Recent progress in machine learning is driven by large-scale foundation models, where scaling laws and finding optimal scaling prescriptions for architecture, data, and hyperparameters are key in advancing the state-of-the-art. Therefore, it is surprising that no systematic study evaluates the methodology to obtain scaling laws and prescriptions across…",
-      "url": "https://arxiv.org/abs/2609.35707v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:44:11.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s686977754",
-      "title": "Reinforcing Agentic Creativity in Scientific Ideation with Night Science",
-      "blurb": "Large language models (LLMs) excel at structured, verifiable tasks, but their low-entropy bias can produce homogeneous and predictable outputs, limiting their utility for open-ended scientific ideation. Effective discovery, however, spans a broader creative spectrum: from structured day science to loosely structured, serendipitous night science that…",
-      "url": "https://arxiv.org/abs/2609.35706v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:43:52.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s686979676",
-      "title": "DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time",
-      "blurb": "Video generation must account for two sources of motion, one induced by the observer's camera path and the other caused by scene dynamics. An ideal camera-controlled video model should account for both motions: let users move the camera while evolving the scene dynamics. While current models handle camera-induced motion well in static settings, they…",
-      "url": "https://arxiv.org/abs/2609.35704v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-09-28T17:42:57.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s226340080",
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "blurb": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:29:50.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
-    },
-    {
-      "id": "s301019766",
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "blurb": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-09-28T17:09:02.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800"
-    },
-    {
-      "id": "s602770252",
-      "title": "When can we say AI made a scientific discovery?",
-      "blurb": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "sourceName": "MIT Technology Review",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T17:03:16.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600"
-    },
-    {
-      "id": "s1696314615",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "blurb": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T16:52:38.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
-    },
-    {
-      "id": "s713534196",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "blurb": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T15:30:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-De-Jong-Amin-Lee_16x9-Dark.png?resize=1200,675"
-    },
-    {
-      "id": "s1973758264",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "blurb": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield at TechCrunch Disrupt.",
-      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T15:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-call.png?resize=1200,800"
-    },
-    {
-      "id": "s1938187570",
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "blurb": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-      "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T14:30:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Deshpande-Appleton-Nayak-Risch-Xu.png?resize=1200,675"
-    },
-    {
-      "id": "s812617074",
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "blurb": "Modulate deploys its models to detect deepfake, fraud and scam",
-      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Industry & Business",
-      "publishedAt": "2026-09-28T14:05:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 72,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675"
-    },
-    {
-      "id": "s1889052061",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "blurb": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Industry & Business",
-      "publishedAt": "2026-09-28T14:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675"
-    },
-    {
-      "id": "s88194214",
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "blurb": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T14:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-exhibitor.jpg?resize=1200,800"
-    },
-    {
-      "id": "s340000735",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "blurb": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Industry & Business",
-      "publishedAt": "2026-09-28T13:38:48.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675"
-    },
-    {
-      "id": "s666855483",
-      "title": "Holo4: powering generalist computer-use agents",
-      "blurb": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T09:44:05.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/69fc7e49052f11ab9931b672/yzjxvlmlZKtjASwAYu6bN.jpeg"
-    },
-    {
-      "id": "s1694291978",
-      "title": "Who’s liable when AI agents go rogue?",
-      "blurb": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "sourceName": "MIT Technology Review",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T08:06:22.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600"
-    },
-    {
-      "id": "s1331333198",
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "blurb": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "Industry & Business",
-      "publishedAt": "2026-09-28T07:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1745099792",
-      "title": "Are you a Codex Original?",
-      "blurb": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "url": "https://openai.com/form/codex-originals",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s186105484",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "blurb": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1967909474",
-      "title": "Welcome RL Environments to the hub",
-      "blurb": "Welcome RL Environments to the hub",
-      "url": "https://huggingface.co/blog/rl-environments",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://huggingface.co/blog/assets/datasets-filters/thumbnail.png"
-    },
-    {
-      "id": "s795507077",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "blurb": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-27T20:34:28.000Z",
-      "factualScore": 78,
-      "qualityScore": 72,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1916198235",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "blurb": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-27T19:57:30.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
-    },
-    {
-      "id": "s1945778856",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "blurb": "\"AI is the devil and I its maker.\"",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-27T16:30:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 72,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603"
-    },
-    {
-      "id": "s266006121",
-      "title": "hol1u/Avaliblethy-1.0: A lightweight artificial intelligence written entirely in Python",
-      "blurb": "A lightweight artificial intelligence written entirely in Python",
-      "url": "https://github.com/hol1u/Avaliblethy-1.0",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-27T07:41:35.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://avatars.githubusercontent.com/u/327118830?v=4"
-    },
-    {
-      "id": "s961691946",
-      "title": "wcz-louis/Fire-Detection: 2026 Zhejiang Provincial College Students Artificial Intelligence Competition——PyroVision",
-      "blurb": "2026 Zhejiang Provincial College Students Artificial Intelligence Competition——PyroVision",
-      "url": "https://github.com/wcz-louis/Fire-Detection",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-27T06:50:13.000Z",
-      "factualScore": 82,
-      "qualityScore": 74,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": "https://avatars.githubusercontent.com/u/302047415?v=4"
-    },
-    {
-      "id": "s621987146",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "blurb": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-09-27T01:30:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1253362244",
-      "title": "HafidzAfrieno/Mathematics_for_Artificial_Intelligence: Kumpulan catatan, formula, dan implementasi kode Python untuk konsep fundamental matematika dalam Artificial Intelligence & Machine Learning (Linear Algebra, Calculus, Probability & Statistics, dan Optimization).",
-      "blurb": "Kumpulan catatan, formula, dan implementasi kode Python untuk konsep fundamental matematika dalam Artificial Intelligence & Machine Learning (Linear Algebra, Calculus, Probability & Statistics, dan Optimization).",
-      "url": "https://github.com/HafidzAfrieno/Mathematics_for_Artificial_Intelligence",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-27T00:46:04.000Z",
-      "factualScore": 82,
-      "qualityScore": 74,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": "https://avatars.githubusercontent.com/u/177587021?v=4"
-    },
-    {
-      "id": "s1548390519",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "blurb": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-26T21:02:06.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
-    },
-    {
-      "id": "s476020305",
-      "title": "marcellabongiolo/bongiolo-labs: Technology, artificial intelligence, software and engineering research.",
-      "blurb": "Technology, artificial intelligence, software and engineering research.",
-      "url": "https://github.com/marcellabongiolo/bongiolo-labs",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-26T18:24:18.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://avatars.githubusercontent.com/u/317958541?v=4"
-    },
-    {
-      "id": "s2021716270",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "blurb": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-26T14:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667"
-    },
-    {
-      "id": "s1579489013",
-      "title": "cornishandy/ai-model-frontier: AI model cost/intelligence charts from Artificial Analysis data",
-      "blurb": "AI model cost/intelligence charts from Artificial Analysis data",
-      "url": "https://github.com/cornishandy/ai-model-frontier",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-09-26T04:48:21.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://avatars.githubusercontent.com/u/320042913?v=4"
-    },
-    {
-      "id": "s1086736513",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "blurb": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-26T01:08:57.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200"
-    },
-    {
-      "id": "s1474373750",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "blurb": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-25T23:11:10.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675"
-    },
-    {
-      "id": "s1334783269",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "blurb": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-25T22:20:47.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
-    },
-    {
-      "id": "s1906174667",
-      "title": "Meta opens early access program for new Muse features",
-      "blurb": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-09-25T20:34:53.000Z",
-      "factualScore": 78,
-      "qualityScore": 72,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
     }
   ]
 }
