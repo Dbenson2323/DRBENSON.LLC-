@@ -100,6 +100,25 @@ export default function HomePage() {
           </div>
         </section>
 
+        {/* Certifications */}
+        <section className="mt-10">
+          <div className="fade-edges rounded-2xl border border-white/40 bg-white/95 p-6 sm:p-8">
+            <p className="text-xs font-semibold uppercase tracking-wide text-gray-400 mb-3">
+              Certifications
+            </p>
+            <h3 className="font-semibold text-gray-900">ARGUS Enterprise Certified Professional</h3>
+            <p className="text-sm text-gray-500 mt-0.5">Altus Group · Valid through May 2028</p>
+            <a
+              href="/certifications/argus-enterprise-certification.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block mt-3 text-sm font-semibold text-gray-900 underline underline-offset-2 hover:text-gray-600"
+            >
+              View certificate →
+            </a>
+          </div>
+        </section>
+
         {/* Education */}
         <section className="mt-10 space-y-3">
           <EducationRow
