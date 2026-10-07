@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-07T05:25:45.785Z",
+  "generatedAt": "2026-10-07T13:04:40.581Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Flexday Launches Four Fractional Office Suites at PNC Centre in Chicago",
+      "blurb": "CHICAGO — Flexday, a national provider of flexible office solutions, has launched four fractional office suites at PNC Centre in Chicago’s Loop. The suites total more than 25,000 square feet and are designed to accommodate teams of 10 to 70 with flexible lease terms. The launch was made possible through a partnership…",
+      "url": "https://rebusinessonline.com/flexday-launches-four-fractional-office-suites-at-pnc-centre-in-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-07T13:01:00.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Marcus &#038; Millichap Brokers $6.3M Sale of Medical-Anchored Retail Portfolio in La Grange, Illinois",
+      "blurb": "LA GRANGE, ILL. — Marcus &#38; Millichap has brokered the $6.3 million sale of a three-building, medical-anchored retail portfolio in downtown La Grange. The 34,279-square-foot, 12-suite portfolio spans an entire block and is located directly across from the Stone Avenue Metra Station. Longstanding tenants include…",
+      "url": "https://rebusinessonline.com/marcus-millichap-brokers-6-3m-sale-of-medical-anchored-retail-portfolio-in-la-grange-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-07T13:00:00.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "general",
