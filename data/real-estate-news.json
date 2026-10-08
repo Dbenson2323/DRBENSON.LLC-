@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-07T22:58:33.320Z",
+  "generatedAt": "2026-10-08T05:34:27.400Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "office",
+      "title": "Miami Design District Associates, BH3 Partner to Develop 20-Story Office Building",
+      "blurb": "MIAMI — Miami Design District Associates and BH3 Management have formed a joint venture to develop The Ursa, a 20-story office tower in Miami’s Design District. The development was previously announced, but the newly formed joint venture has expanded the square footage of the project’s original vision by 40 percent.…",
+      "url": "https://rebusinessonline.com/miami-design-district-associates-bh3-partner-to-develop-20-story-office-building/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-07T15:15:25.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "retail",
+      "title": "First Washington Realty Sells Two Miami Shopping Centers to Publix Super Markets",
+      "blurb": "MIAMI — First Washington Realty (FWR), a shopping center owner-operator based in Bethesda, Md., has sold two Publix-anchored shopping centers in Miami to Publix Super Markets Inc. The sales price was not disclosed. The properties include Airpark Plaza, a 171,443-square-foot shopping center near Miami International…",
+      "url": "https://rebusinessonline.com/first-washington-realty-sells-two-miami-shopping-centers-to-publix-super-markets/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-07T15:12:06.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "general",
