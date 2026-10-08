@@ -6,6 +6,20 @@ on:
       - main
       - "claude/**"
   workflow_dispatch: {}
+  # The daily data-fetch workflows commit with the default GITHUB_TOKEN,
+  # which GitHub deliberately excludes from triggering other `push`-based
+  # workflows (to prevent infinite loops) — so without this, a fresh day's
+  # AI news/real estate/CRE jobs data would sit in the repo unpublished
+  # until some unrelated human/Claude push happened to rebuild the site.
+  # `workflow_run` is exempt from that restriction, so this chains the
+  # deploy directly off each fetch job finishing.
+  workflow_run:
+    workflows:
+      - "Fetch daily AI research news"
+      - "Fetch real estate data"
+      - "Fetch CRE job listings"
+    types:
+      - completed
 
 permissions:
   contents: read
@@ -18,10 +32,13 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch || github.ref_name }}
 
       - name: Set up Node
         uses: actions/setup-node@v4
