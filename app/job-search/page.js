@@ -3,7 +3,7 @@ import jobsData from "../../data/cre-jobs.json";
 
 export const metadata = {
   title: "Job Search",
-  description: "Daily-updated feed of Chicago commercial real estate job openings — analyst, broker, investment sales, and asset management roles.",
+  description: "Daily-updated feed of Chicago commercial real estate job openings — acquisitions, development, investment analysis, and asset management roles.",
 };
 
 export default function JobSearchPage() {

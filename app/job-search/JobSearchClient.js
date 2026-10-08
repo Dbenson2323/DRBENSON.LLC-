@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import JobCard from "./components/JobCard";
 
-const ROLE_CATEGORIES = ["All", "Analyst", "Broker", "Investment Sales", "Asset Management", "Acquisitions"];
+const ROLE_CATEGORIES = ["All", "Analyst", "Acquisitions", "Development", "Asset Management", "Investment Sales", "Broker"];
 
 function formatDate(iso) {
   if (!iso) return null;
@@ -42,8 +42,9 @@ export default function JobSearchClient({ jobs, generatedAt }) {
           Chicago CRE Job Search
         </h1>
         <p className="text-gray-500 text-sm md:text-base max-w-xl mt-3 mb-6">
-          Live commercial real estate openings in Chicago — analyst, broker, investment sales, and
-          asset management roles, pulled daily from employer job boards and job-search APIs.
+          Live commercial real estate openings in Chicago — acquisitions, development, investment
+          analysis, and asset management roles, pulled daily from employer job boards and
+          job-search APIs. Student/internship programs are filtered out.
         </p>
 
         <div className="w-full max-w-xl relative">

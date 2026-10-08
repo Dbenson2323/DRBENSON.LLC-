@@ -136,6 +136,25 @@
       "specialty": "Multifamily & student housing property management",
       "aum": "N/A — third-party property manager",
       "ats": { "provider": "greenhouse", "slug": "assetliving" }
+    },
+    "rclco": {
+      "name": "RCLCO",
+      "domain": "rclco.com",
+      "specialty": "Real estate advisory, fund management & investment analysis",
+      "aum": "N/A — primarily an advisory/consulting firm (RCLCO Fund Advisors manages discretionary capital separately)",
+      "ats": { "provider": "greenhouse", "slug": "rclco" }
+    },
+    "origininvestments": {
+      "name": "Origin Investments",
+      "domain": "origininvestments.com",
+      "specialty": "Multifamily private equity — acquisitions & development (Chicago-based)",
+      "aum": "~$1.9B assets under management (approx.)"
+    },
+    "gemrealtycapital": {
+      "name": "GEM Realty Capital",
+      "domain": "gemrealtycapital.com",
+      "specialty": "Diversified private equity real estate — acquisitions (Chicago-based)",
+      "aum": "~$6B assets under management (approx.)"
     }
   }
 }

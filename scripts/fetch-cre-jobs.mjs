@@ -111,10 +111,13 @@ async function safe(label, fn) {
 // role / relevance filtering — Chicago CRE only, nothing else
 // ---------------------------------------------------------------------------
 
+// Checked in order — a specific phrase (e.g. "development analyst") must be
+// matched before the generic "analyst" catch-all, or it'd never be reached.
 const ROLE_RULES = [
+  { category: "Development", keywords: ["development analyst", "development associate", "development manager", "ground-up development"] },
+  { category: "Acquisitions", keywords: ["acquisitions", "acquisition", "underwriting"] },
   { category: "Asset Management", keywords: ["asset management", "asset manager", "portfolio manager", "portfolio management"] },
   { category: "Investment Sales", keywords: ["investment sales", "capital markets"] },
-  { category: "Acquisitions", keywords: ["acquisitions", "acquisition", "underwriting"] },
   { category: "Broker", keywords: ["broker", "brokerage", "leasing agent", "leasing associate"] },
   { category: "Analyst", keywords: ["analyst"] },
 ];
@@ -127,12 +130,25 @@ function detectRoleCategory(title) {
   return null;
 }
 
+// This page is curated for one job search (full-time, principal-side CRE
+// roles — acquisitions, development, investment analysis), not a general
+// listings board. A firm's current openings are often its student pipeline
+// (e.g. a "Summer 2027 Analyst" program) rather than a full-time seat, so
+// those get filtered out here rather than shown as if they were the same
+// thing.
+const EXCLUDE_TITLE_PATTERNS = [/\bintern(ship)?\b/i, /\bco-?op\b/i, /\bfellow(ship)?\b/i, /\bsummer\s*20\d{2}\b/i];
+
+function isExcludedTitle(title = "") {
+  return EXCLUDE_TITLE_PATTERNS.some((re) => re.test(title));
+}
+
 const CRE_SIGNAL_KEYWORDS = [
   "real estate", "commercial real estate", "multifamily", "industrial", "warehouse",
   "logistics real estate", "office property", "office building", "retail property",
   "senior housing", "student housing", "self-storage", "self storage", "reit",
   "property management", "investment sales", "brokerage", "leasing", "landlord",
-  "tenant representation", "capital markets", "acquisitions",
+  "tenant representation", "capital markets", "acquisitions", "private equity",
+  "principal", "development", "ground-up", "fund advisory", "real assets",
 ];
 
 function isChicagoLocation(text = "") {
@@ -166,6 +182,7 @@ function buildJob({ title, company, location, salaryMin, salaryMax, salaryText, 
   const roleCategory = detectRoleCategory(title);
   const combinedText = `${title} ${description ?? ""}`;
   if (!roleCategory) return null;
+  if (isExcludedTitle(title)) return null;
   if (!isChicagoLocation(location) && !isChicagoLocation(title)) return null;
   if (!isCreSignal(combinedText) && !isCreSignal(company)) return null;
 
@@ -206,6 +223,9 @@ const ADZUNA_QUERIES = [
   "real estate investment sales",
   "real estate asset management",
   "real estate acquisitions analyst",
+  "real estate development analyst",
+  "real estate private equity analyst",
+  "real estate investment analyst",
   "industrial real estate",
 ];
 
@@ -258,7 +278,7 @@ async function fetchJooble(matcher) {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        keywords: "commercial real estate analyst broker investment sales asset management acquisitions",
+        keywords: "commercial real estate analyst broker investment sales asset management acquisitions development private equity",
         location: "Chicago, IL",
         page: String(page),
       }),
