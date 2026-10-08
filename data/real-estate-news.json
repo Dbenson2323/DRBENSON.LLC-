@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-10-06T18:12:27.887Z",
+  "generatedAt": "2026-10-07T22:58:33.320Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Flexday Launches Four Fractional Office Suites at PNC Centre in Chicago",
+      "blurb": "CHICAGO — Flexday, a national provider of flexible office solutions, has launched four fractional office suites at PNC Centre in Chicago’s Loop. The suites total more than 25,000 square feet and are designed to accommodate teams of 10 to 70 with flexible lease terms. The launch was made possible through a partnership…",
+      "url": "https://rebusinessonline.com/flexday-launches-four-fractional-office-suites-at-pnc-centre-in-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-07T13:01:00.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Marcus &#038; Millichap Brokers $6.3M Sale of Medical-Anchored Retail Portfolio in La Grange, Illinois",
+      "blurb": "LA GRANGE, ILL. — Marcus &#38; Millichap has brokered the $6.3 million sale of a three-building, medical-anchored retail portfolio in downtown La Grange. The 34,279-square-foot, 12-suite portfolio spans an entire block and is located directly across from the Stone Avenue Metra Station. Longstanding tenants include…",
+      "url": "https://rebusinessonline.com/marcus-millichap-brokers-6-3m-sale-of-medical-anchored-retail-portfolio-in-la-grange-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-07T13:00:00.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Subtext Completes Student Housing Developments in Florida, Tennessee",
+      "blurb": "ORLANDO, FLA. AND KNOXVILLE, TENN. — Subtext has completed two student housing developments in Florida and Tennessee. Projects include VERVE Orlando, a 626-bed community located at 3133 N. Alafaya Trail near the University of Central Florida campus in Orlando; and EVER Knoxville, a 498-bed property located at 1919…",
+      "url": "https://rebusinessonline.com/subtext-completes-two-student-housing-developments-in-florida-tennessee/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-06T15:41:08.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Walmart to Open 40,344 SF Grocery Store in Metro Miami",
+      "blurb": "DORAL, FLA. — Terra has signed Walmart to a 40,344-square-foot retail lease at Doral Atrium, a 78,000-square-foot lifestyle retail development in Doral, a western suburb of Miami. Walmart plans to open a new neighborhood-format grocery store at the project. Construction of the new Walmart Neighborhood Market is…",
+      "url": "https://rebusinessonline.com/walmart-to-open-40344-sf-grocery-store-in-metro-miami/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-06T15:35:01.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "retail",
+      "title": "Mid-America Negotiates Sale of 240,345 SF Shopping Center in Lombard, Illinois",
+      "blurb": "LOMBARD, ILL. — Mid-America Real Estate Corp. has negotiated the sale of High Point Centre, a 240,345-square-foot shopping center in Lombard. The property presents a value-add opportunity, as it is 68 percent leased. Tenants include LA Fitness, Altitude Trampoline Park, Ace Dental, Burger King, Mango Mango Desserts,…",
+      "url": "https://rebusinessonline.com/mid-america-negotiates-sale-of-240345-sf-shopping-center-in-lombard-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-06T13:03:00.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "retail",
+      "title": "Quantum Brokers $7.3M Sale of Retail Center in Naperville, Illinois",
+      "blurb": "NAPERVILLE, ILL. — Quantum Real Estate Advisors Inc. has brokered the $7.3 million sale of a 23,000-square-foot retail center in Naperville. Located at 175 W. Jackson St., the property consists of eight suites. The buyer was a Chicago-based family office, and the seller was a private family that had owned and managed…",
+      "url": "https://rebusinessonline.com/quantum-brokers-7-3m-sale-of-retail-center-in-naperville-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-06T13:00:00.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "office",
+      "title": "Unique Properties/TCN Negotiates Sale of 97,992 SF Office Building in Golden, Colorado",
+      "blurb": "GOLDEN, COLO. — Unique Properties/TCN Worldwide has negotiated the sale of 2801 Youngfield Street, an 97,992-square-foot office building in Golden, a western suburb of Denver. HGN Realty sold the asset to an undisclosed buyer for $6.5 million. Rachel Colorosa and Zach Schuchman of Unique Properties/TCN Worldwide…",
+      "url": "https://rebusinessonline.com/unique-properties-tcn-negotiates-sale-of-97992-sf-office-building-in-golden-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-06T12:44:00.000Z"
+    },
+    {
+      "market": "sanfrancisco",
+      "assetClass": "multifamily",
+      "title": "Marcus &#038; Millichap Brokers $6.3M Sale of San Francisco Multifamily Portfolio",
+      "blurb": "SAN FRANCISCO — Marcus &#38; Millichap has brokered the sale of a portfolio of two multifamily properties at 1159-1169 and 1067-1071 Union St. in San Francisco’s Russian Hill neighborhood. The properties sold for a combined $6.3 million after approximately 50 years under the same family ownership. Philip Batlin,…",
+      "url": "https://rebusinessonline.com/marcus-millichap-brokers-6-3m-sale-of-san-francisco-multifamily-portfolio/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-06T12:42:00.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "general",
