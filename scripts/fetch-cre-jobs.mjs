@@ -31,7 +31,13 @@ const DATA_DIR = path.join(__dirname, "..", "data");
 const DATA_FILE = path.join(DATA_DIR, "cre-jobs.json");
 const COMPANIES_FILE = path.join(DATA_DIR, "cre-companies.json");
 
-const MAX_AGE_DAYS = 21;
+// Unlike a news feed, a job-board API only ever returns postings that are
+// currently open — Greenhouse/Lever/Adzuna/Jooble don't hand back closed
+// listings. A CRE role can stay posted for months without its "updated"
+// timestamp changing, so this is a loose sanity bound against garbage
+// dates, not a staleness filter — it must stay well above how long a real
+// posting can sit open, or it silently throws away live listings.
+const MAX_AGE_DAYS = 180;
 const MAX_JOBS = 150;
 const FETCH_TIMEOUT_MS = 12000;
 const USER_AGENT = "cre-job-search-bot/1.0 (+https://github.com/Dbenson2323/DRBENSON.LLC-)";
