@@ -1,4 +1,69 @@
 {
-  "generatedAt": "2026-10-07T18:24:48.923Z",
-  "jobs": []
+  "generatedAt": "2026-10-08T01:14:30.245Z",
+  "jobs": [
+    {
+      "id": "j1297595793",
+      "title": "Summer 2027 Portfolio Management Analyst",
+      "company": "Harrison Street",
+      "companyKey": "harrisonstreet",
+      "logo": "https://logo.clearbit.com/harrisonstreet.com",
+      "specialty": "Alternatives — senior housing, student housing, self-storage & medical office (Chicago-based)",
+      "aum": "~$56B assets under management (approx.)",
+      "location": "Chicago, IL",
+      "salary": "Not listed in posting",
+      "blurb": "Harrison Street Asset Management (\"HSAM\") is a leading global alternative investment management firm focused on real estate, infrastructure, and credit strategies across North America and Europe.  Headquartered in Chicago, Toronto, and London with offices across North America, Europe, Asia and the Middle East, the…",
+      "url": "https://jobs.lever.co/harrisonst/15b41728-9422-462c-8be2-297612048644",
+      "source": "Lever",
+      "roleCategory": "Asset Management",
+      "postedAt": "2026-08-26T19:32:55.310Z"
+    },
+    {
+      "id": "j1643360571",
+      "title": "Summer 2027 Portfolio Management Intern",
+      "company": "Harrison Street",
+      "companyKey": "harrisonstreet",
+      "logo": "https://logo.clearbit.com/harrisonstreet.com",
+      "specialty": "Alternatives — senior housing, student housing, self-storage & medical office (Chicago-based)",
+      "aum": "~$56B assets under management (approx.)",
+      "location": "Chicago, IL",
+      "salary": "Not listed in posting",
+      "blurb": "Harrison Street Asset Management (\"HSAM\") is a leading global alternative investment management firm focused on real estate, infrastructure, and credit strategies across North America and Europe.  Headquartered in Chicago, Toronto, and London with offices across North America, Europe, Asia and the Middle East, the…",
+      "url": "https://jobs.lever.co/harrisonst/e71eab04-cbea-4318-a553-704ee33ceef6",
+      "source": "Lever",
+      "roleCategory": "Asset Management",
+      "postedAt": "2026-07-30T18:52:31.948Z"
+    },
+    {
+      "id": "j816765539",
+      "title": "Summer 2027 Asset Management Intern",
+      "company": "Harrison Street",
+      "companyKey": "harrisonstreet",
+      "logo": "https://logo.clearbit.com/harrisonstreet.com",
+      "specialty": "Alternatives — senior housing, student housing, self-storage & medical office (Chicago-based)",
+      "aum": "~$56B assets under management (approx.)",
+      "location": "Chicago, IL",
+      "salary": "Not listed in posting",
+      "blurb": "Harrison Street Asset Management (\"HSAM\") is a leading global alternative investment management firm focused on real estate, infrastructure, and credit strategies across North America and Europe.  Headquartered in Chicago, Toronto, and London with offices across North America, Europe, Asia and the Middle East, the…",
+      "url": "https://jobs.lever.co/harrisonst/4594ead7-cc2f-4639-a714-8b46bcfdb653",
+      "source": "Lever",
+      "roleCategory": "Asset Management",
+      "postedAt": "2026-07-30T18:35:13.052Z"
+    },
+    {
+      "id": "j494228509",
+      "title": "Senior Associate, Portfolio Management",
+      "company": "Harrison Street",
+      "companyKey": "harrisonstreet",
+      "logo": "https://logo.clearbit.com/harrisonstreet.com",
+      "specialty": "Alternatives — senior housing, student housing, self-storage & medical office (Chicago-based)",
+      "aum": "~$56B assets under management (approx.)",
+      "location": "Chicago, IL",
+      "salary": "Not listed in posting",
+      "blurb": "Harrison Street Asset Management (\"HSAM\") is a leading global alternative investment management firm focused on real estate, infrastructure, and credit strategies across North America and Europe.  Headquartered in Chicago, Toronto, and London with offices across North America, Europe, Asia and the Middle East, the…",
+      "url": "https://jobs.lever.co/harrisonst/f2aa3779-48d8-43c2-a0eb-8d7e05f95ee3",
+      "source": "Lever",
+      "roleCategory": "Asset Management",
+      "postedAt": "2026-07-30T13:51:08.467Z"
+    }
+  ]
 }
