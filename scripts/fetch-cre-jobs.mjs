@@ -383,8 +383,17 @@ async function main() {
     // first run
   }
 
+  // Re-apply the current exclusion/role rules to previously-stored jobs too,
+  // not just freshly-fetched ones — otherwise a filter added today (e.g.
+  // dropping internship titles) never actually removes what's already in
+  // the file, since nothing re-fetches a posting whose id hasn't changed.
+  // Same "heal old entries" pattern as fetch-ai-news.mjs.
+  const healedPrevious = previous
+    .map((job) => ({ ...job, roleCategory: detectRoleCategory(job.title) }))
+    .filter((job) => job.roleCategory && !isExcludedTitle(job.title));
+
   const byKey = new Map();
-  for (const job of [...directJobs, ...adzunaJobs, ...joobleJobs, ...previous]) {
+  for (const job of [...directJobs, ...adzunaJobs, ...joobleJobs, ...healedPrevious]) {
     if (!byKey.has(job.id)) byKey.set(job.id, job);
   }
 
