@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-09T12:58:20.661Z",
+  "generatedAt": "2026-10-09T22:30:22.325Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "general",
+      "title": "Galway Cos. Signs New Tenants, Advances Multimillion-Dollar Renovation at The Promenade Shops Centerra in Northern Colorado",
+      "blurb": "LOVELAND, COLO. — Galway Cos. has signed new tenants to leases and is advancing a multimillion-dollar, property-wide renovation at The Promenade Shops Centerra, a 494,500-square-foot open-air center in Loveland, approximately 46 miles north of Denver. Improvements will include new storefront facades; a redesigned ice…",
+      "url": "https://rebusinessonline.com/galway-cos-signs-new-tenants-advances-multimillion-dollar-renovation-at-the-promenade-shops-centerra-in-northern-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-09T14:12:00.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "multifamily",
+      "title": "JLL Arranges $100M Financing for Two New Multifamily Properties in North Florida",
+      "blurb": "JACKSONVILLE AND ST. AUGUSTINE, FLA. —&#160;JLL Capital Markets has arranged $100 million in bridge financing for two multifamily properties in North Florida: The Pointe at Davis Creek, a 288-unit, garden-style community located at 12175 Philips Highway in Jacksonville, and The Bradley St. Augustine, a 250-unit,…",
+      "url": "https://rebusinessonline.com/jll-arranges-100m-financing-for-two-new-multifamily-properties-in-north-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-09T13:49:22.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "multifamily",
