@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-12T05:27:40.604Z",
+  "generatedAt": "2026-10-12T15:02:52.999Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "general",
+      "title": "Marcus &#038; Millichap Brokers $3.1M Sale of The Center at Evergreen Office Property in Colorado",
+      "blurb": "EVERGREEN, COLO. — Marcus &#38; Millichap has arranged the sale of The Center at Evergreen, an office property in Evergreen. Good Signature sold the asset to Divine Homes for $3.1 million. Chadd Nelson and Brandon Kramer of Marcus &#38; Millichap represented the seller, while Clayton Primm of Marcus &#38; Millichap…",
+      "url": "https://rebusinessonline.com/marcus-millichap-brokers-3-1m-sale-of-the-center-at-evergreen-office-property-in-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-12T14:57:57.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Newmark Negotiates $30M Sale of Trophy Retail Property in Downtown Chicago",
+      "blurb": "CHICAGO — Newmark has arranged the $30 million sale of Block 37, a 277,654-square-foot trophy retail property located in downtown Chicago. Block 37 comprises five floors of retail space anchored by a mix of tenants including Zara, Sephora, AMC Theatres and The Dearborn, and a four-level underground parking garage.…",
+      "url": "https://rebusinessonline.com/newmark-negotiates-30m-sale-of-trophy-retail-property-in-downtown-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-12T14:56:19.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Two New Retail Tenants Open at Dadeland Station in Miami",
+      "blurb": "MIAMI —&#160;Two new anchor retail tenants have opened at Dadeland Station, a 350,000-square-foot, three-level retail power center located in Miami, just east of the Dadeland Mall. Burlington opened in August, followed by Marshalls in September. Together, the off-price retailers add approximately 62,000 square feet…",
+      "url": "https://rebusinessonline.com/two-new-retail-tenants-open-at-dadeland-station-in-miami/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-12T13:25:12.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "general",
