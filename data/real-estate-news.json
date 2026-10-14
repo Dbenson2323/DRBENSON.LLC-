@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-14T11:35:13.577Z",
+  "generatedAt": "2026-10-14T16:57:43.440Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "Northmarq Provides $24.7M Refinancing for Chicago Apartment Community",
+      "blurb": "CHICAGO — Northmarq has provided $24.7 million in refinancing for Reside on Jackson, a 93-unit apartment community in Chicago. Kevin McCarthy of Northmarq arranged the Fannie Mae financing on behalf of the borrower, Newcastle Investors. Built in 2016, the property offers a mix of one- and two-bedroom units. Amenities…",
+      "url": "https://rebusinessonline.com/northmarq-provides-24-7m-refinancing-for-chicago-apartment-community/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-14T12:55:26.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "general",
