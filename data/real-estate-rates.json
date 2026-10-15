@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T11:13:12.231Z",
+  "generatedAt": "2026-10-15T16:44:25.206Z",
   "rates": {
     "fedFundsRate": {
       "date": "2026-09-01",
@@ -14,7 +14,7 @@
       "source": "https://fred.stlouisfed.org/series/DGS10"
     },
     "mortgage30Y": {
-      "date": "2026-10-08",
+      "date": "2026-10-15",
       "value": 7.4,
       "label": "30-Year Fixed-Rate Mortgage Average",
       "source": "https://fred.stlouisfed.org/series/MORTGAGE30US"

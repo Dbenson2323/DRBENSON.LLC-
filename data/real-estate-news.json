@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-15T11:13:12.604Z",
+  "generatedAt": "2026-10-15T16:44:25.568Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "LSL Industries, S&#038;C Electric Sign Industrial Leases Totaling 376,503 SF in Glenview, Illinois",
+      "blurb": "GLENVIEW, ILL. — Owner Dermody has inked two new leases at The Logistics Campus in Glenview. LSL Industries LLC has leased 81,225 square feet of Building 4, and S&#38;C Electric Co. has fully leased Building 5, a 295,278-square-foot facility. Positioned just north of Chicago O’Hare International Airport, The…",
+      "url": "https://rebusinessonline.com/lsl-industries-sc-electric-sign-industrial-leases-totaling-376503-sf-in-glenview-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-15T13:16:24.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "multifamily",
