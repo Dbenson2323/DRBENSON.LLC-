@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-15T16:16:46.866Z",
+  "generatedAt": "2026-10-16T16:02:55.982Z",
   "jobs": [
+    {
+      "id": "j1272625558",
+      "title": "Analyst, Impact",
+      "company": "Harrison Street",
+      "companyKey": "harrisonstreet",
+      "logo": "https://logo.clearbit.com/harrisonstreet.com",
+      "specialty": "Alternatives — senior housing, student housing, self-storage & medical office (Chicago-based)",
+      "aum": "~$56B assets under management (approx.)",
+      "location": "Chicago, IL",
+      "salary": "Not listed in posting",
+      "blurb": "Harrison Street Asset Management (\"HSAM\") is a leading global alternative investment management firm focused on real estate, infrastructure, and credit strategies across North America and Europe.  Headquartered in Chicago, Toronto, and London with offices across North America, Europe, Asia and the Middle East, the…",
+      "url": "https://jobs.lever.co/harrisonst/f0ea517c-d48a-44b3-a7cc-e360569a8b96",
+      "source": "Lever",
+      "roleCategory": "Analyst",
+      "postedAt": "2026-10-13T21:14:32.151Z"
+    },
     {
       "id": "j494228509",
       "title": "Senior Associate, Portfolio Management",
