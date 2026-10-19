@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-10-19T12:46:08.779Z",
+  "generatedAt": "2026-10-19T22:13:33.394Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "retail",
+      "title": "MCB Real Estate Buys 81,272 SF Grocery-Anchored Shopping Center in Largo, Florida",
+      "blurb": "LARGO, FLA. — MCB Real Estate has acquired Keene Plaza, an 81,272-square-foot shopping center located at 2150 E. Bay Drive in Largo, roughly 23 miles northeast of Tampa. The seller and sales price were not disclosed. Sprouts Farmers Market and BioLife Plasma Services anchor the retail property, which features a mix…",
+      "url": "https://rebusinessonline.com/mcb-real-estate-buys-81272-sf-grocery-anchored-shopping-center-in-largo-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-19T13:35:27.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "general",
+      "title": "AC Development Completes First Phase of 14-Acre Mixed-Use Development in Golden, Colorado",
+      "blurb": "GOLDEN, COLO. — AC Development, the Coor’s family development company, has completed The Pottery, an office building that is the first phase of Clayworks, a 14-acre redevelopment of the former CoorsTek ceramics manufacturing site in Golden. The project team for The Pottery includes AC Development as developer, Tryba…",
+      "url": "https://rebusinessonline.com/ac-development-completes-first-phase-of-14-acre-mixed-use-development-in-golden-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-19T13:19:14.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Silver Creek Development Sells 2 MSF Industrial Facility in Illinois to Michelin North America for $151M",
+      "blurb": "WILMINGTON, ILL. — Silver Creek Development has sold a 2 million-square-foot industrial facility and adjacent land parcel to Michelin North America for $151 million. Located at 29900 S. Graaskamp Blvd. in Wilmington, about 60 miles southwest of downtown Chicago, the regional distribution property sits on a 91-acre…",
+      "url": "https://rebusinessonline.com/silver-creek-development-sells-2-msf-industrial-facility-in-illinois-to-michelin-north-america-for-151m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-19T13:14:43.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "Draper and Kramer Acquires 268-Unit Apartment Community in Evanston, Illinois",
+      "blurb": "EVANSTON, ILL. — Draper and Kramer Inc. has acquired a 268-unit luxury apartment community in Evanston. The 15-story property, Albion Evanston, will be rebranded as Eva. Draper and Kramer will also assume property management of the community, which was 98.5 percent leased and 98 percent occupied at the time of…",
+      "url": "https://rebusinessonline.com/draper-and-kramer-acquires-268-unit-apartment-community-in-evanston-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-19T13:13:51.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "general",
