@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-19T18:18:59.084Z",
+  "generatedAt": "2026-10-20T16:19:37.644Z",
   "jobs": [
+    {
+      "id": "j1170231245",
+      "title": "Development Manager",
+      "company": "Lincoln Property Company",
+      "companyKey": "lpc",
+      "logo": "https://logo.clearbit.com/lpc.com",
+      "specialty": "Diversified — industrial, multifamily & office developer/manager",
+      "aum": "~$30B+ in assets under management (approx.)",
+      "location": "Chicago, IL",
+      "salary": "Not listed in posting",
+      "blurb": "<p>The Development Manager is responsible for leading all aspects of the pre-development process for Lincoln’s Midwest development projects (industrial, data center, multi-family and mixed-use), from site evaluation and acquisition support through entitlements, design coordination, and construction commencement.  The…",
+      "url": "https://job-boards.greenhouse.io/lpc/jobs/5179114007",
+      "source": "Greenhouse",
+      "roleCategory": "Development",
+      "postedAt": "2026-10-19T23:24:42.000Z"
+    },
     {
       "id": "j1272625558",
       "title": "Analyst, Impact",
@@ -32,22 +48,6 @@
       "source": "Lever",
       "roleCategory": "Asset Management",
       "postedAt": "2026-07-30T13:51:08.467Z"
-    },
-    {
-      "id": "j1170231245",
-      "title": "Development Manager",
-      "company": "Lincoln Property Company",
-      "companyKey": "lpc",
-      "logo": "https://logo.clearbit.com/lpc.com",
-      "specialty": "Diversified — industrial, multifamily & office developer/manager",
-      "aum": "~$30B+ in assets under management (approx.)",
-      "location": "Chicago, IL",
-      "salary": "Not listed in posting",
-      "blurb": "<p>The Development Manager is responsible for leading all aspects of the pre-development process for Lincoln’s Midwest development projects (industrial, data center, multi-family and mixed-use), from site evaluation and acquisition support through entitlements, design coordination, and construction commencement.  The…",
-      "url": "https://job-boards.greenhouse.io/lpc/jobs/5179114007",
-      "source": "Greenhouse",
-      "roleCategory": "Development",
-      "postedAt": "2026-07-23T19:27:52.000Z"
     }
   ]
 }
