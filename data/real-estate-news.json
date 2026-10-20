@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-20T11:17:15.751Z",
+  "generatedAt": "2026-10-20T16:41:15.947Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Habitat, Cabrera Capital Break Ground on LeClaire Courts Mixed-Use Redevelopment in Chicago",
+      "blurb": "CHICAGO — Habitat and Cabrera Capital, in partnership with the Chicago Housing Authority (CHA), have broken ground on the first residential phase of the redevelopment of the LeClaire Courts public housing community, which was completed in the 1950s and demolished in 2011. Replacing a 32-acre site in Chicago’s…",
+      "url": "https://rebusinessonline.com/habitat-cabrera-capital-break-ground-on-leclaire-courts-mixed-use-redevelopment-in-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-20T14:19:27.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "908 Group Breaks Ground on 684-Bed Student Housing Project Near University of Florida",
+      "blurb": "GAINESVILLE, FLA. — 908 Group has broken ground on Chapter House UF, a 684-bed student housing development located at 920 S.W. Depot Ave. in Gainesville near the University of Florida campus. The project is being developed in partnership with Batson-Cook Development Co. and an undisclosed, Fortune 100 insurance…",
+      "url": "https://rebusinessonline.com/908-group-breaks-ground-on-684-bed-student-housing-project-near-university-of-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-20T12:33:00.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "retail",
