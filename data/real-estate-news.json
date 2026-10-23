@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-10-23T11:22:36.232Z",
+  "generatedAt": "2026-10-23T16:50:13.299Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "multifamily",
+      "title": "RedPeak Acquires 101-Unit Manchester Apartments in Denver",
+      "blurb": "DENVER — Denver-based RedPeak has purchased The Manchester, a multifamily community located at 2030 E. 11th Ave. in Denver’s Cheesman Park neighborhood. This is the first time the property has sold since it was developed in 1973. Terms of the transaction were not released. Craig Stack, Bill Morkes and Nate Moyer of…",
+      "url": "https://rebusinessonline.com/redpeak-acquires-101-unit-manchester-apartments-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-23T13:31:51.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "industrial",
+      "title": "SRS Arranges $133M Sale of Central Florida Industrial Property Occupied by Sherwin-Williams",
+      "blurb": "WINTER HAVEN, FLA. —&#160;SRS Real Estate Partners has arranged the $133 million sale of a 685,000-square-foot, single-tenant industrial property in Winter Haven occupied by Sherwin-Willaims. Situated on nearly 40 acres about 46 miles south of Orlando, the property serves as a major distribution center for…",
+      "url": "https://rebusinessonline.com/srs-arranges-133m-sale-of-central-florida-industrial-property-occupied-by-sherwin-williams/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-23T13:26:55.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "general",
+      "title": "CentrePoint Properties Divests of 52,743 SF Mixed-Use Property in Wheat Ridge, Colorado",
+      "blurb": "WHEAT RIDGE, COLO. — CentrePoint Properties has completed the sale of Wilmore Center, a mixed-use property in Wheat Ridge, to HCA HealthONE for $14.5 million. Jon Hendrickson and Aaron Johnson of Cushman &#38; Wakefield represented the seller in the transaction. Situated on 5 acres at 7615 W. 38th Ave., Wilmore…",
+      "url": "https://rebusinessonline.com/centrepoint-properties-divests-of-52743-sf-mixed-use-property-in-wheat-ridge-colorado/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-23T13:23:09.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Thyssenkrupp Inks 769,000 SF Industrial Lease Renewal in Edwardsville, Illinois",
+      "blurb": "EDWARDSVILLE, ILL. — Thyssenkrupp Supply Chain Services has signed a 769,000-square-foot industrial lease renewal and expansion at Lakeview V in Edwardsville near St. Louis. The transaction includes a three-year renewal of 600,000 square feet along with a 169,500-square-foot expansion. The tenant will now occupy the…",
+      "url": "https://rebusinessonline.com/thyssenkrupp-inks-769000-sf-industrial-lease-renewal-in-edwardsville-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-23T13:17:35.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "retail",
+      "title": "Mid-America Arranges Sale of 244,924 SF Shopping Center in Wheaton, Illinois",
+      "blurb": "WHEATON, ILL. — Mid-America Real Estate Corp. has arranged the sale of Rice Lake Square, a grocery-anchored shopping center in Wheaton, a western suburb of Chicago. Pete’s Fresh Market anchors the 244,924-square-foot center. Additional tenants include PetSmart, Massage Envy, Pure Barre, Xfinity, Potbelly, 7Brew and…",
+      "url": "https://rebusinessonline.com/mid-america-arranges-sale-of-244924-sf-shopping-center-in-wheaton-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-23T13:16:58.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Greenstone Partners Brokers $4.1M Sale of Urban Outfitters-Leased Retail Condo in Chicago",
+      "blurb": "CHICAGO — Greenstone Partners has brokered the $4.1 million sale of a 10,600-square-foot, two-level retail condominium in Chicago’s Wicker Park neighborhood that is fully leased to Urban Outfitters. Danny Spitz and Brewster Hague of Greenstone represented the seller, Newcastle Investors. Spitz also brokered…",
+      "url": "https://rebusinessonline.com/greenstone-partners-brokers-4-1m-sale-of-urban-outfitters-leased-retail-condo-in-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-23T13:15:20.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "general",
