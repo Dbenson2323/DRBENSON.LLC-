@@ -1,6 +1,204 @@
 {
-  "generatedAt": "2026-10-23T17:45:39.530Z",
+  "generatedAt": "2026-10-24T16:27:57.932Z",
   "stories": [
+    {
+      "id": "s805519605",
+      "title": "Block’s new voice model sounds eerily human",
+      "blurb": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822"
+    },
+    {
+      "id": "s1644087530",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "blurb": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900"
+    },
+    {
+      "id": "s670086571",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "blurb": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
+    },
+    {
+      "id": "s81469794",
+      "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+      "blurb": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-24T11:12:27.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "code",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png"
+    },
+    {
+      "id": "s1314546602",
+      "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+      "blurb": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic…",
+      "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-24T10:29:31.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png"
+    },
+    {
+      "id": "s685107555",
+      "title": "NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots",
+      "blurb": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on…",
+      "url": "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-24T03:56:29.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "robot",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s1594938050",
+      "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
+      "blurb": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Computer Vision",
+      "publishedAt": "2026-10-23T23:26:53.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-32-scaled.png"
+    },
+    {
+      "id": "s128316243",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "blurb": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-23T23:05:49.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "id": "s854671855",
+      "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+      "blurb": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-23T22:52:40.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "rocket",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-31-scaled.png"
+    },
+    {
+      "id": "s1198488967",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "blurb": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Robotics",
+      "publishedAt": "2026-10-23T21:59:19.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+    },
+    {
+      "id": "s1588025557",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "blurb": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-23T19:06:23.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
+    },
     {
       "id": "s69036698",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -36,6 +234,24 @@
       ],
       "icon": "document",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png"
+    },
+    {
+      "id": "s1938218402",
+      "title": "Securing our frontier model training environment",
+      "blurb": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
     },
     {
       "id": "s911420307",
@@ -6084,222 +6300,6 @@
       ],
       "icon": "rocket",
       "image": null
-    },
-    {
-      "id": "s1554176248",
-      "title": "The Collection of a Real-World, Large-Scale Dataset for Automated Skill Evaluation in Central Line Dressing Change",
-      "blurb": "Central line-associated bloodstream infections (CLABSIs) remain a major source of preventable morbidity and mortality in healthcare settings. Proper execution of the central line dressing change (CLDC) procedure is essential for infection prevention, yet current approaches to competency assessment rely primarily on manual ob- servation by clinical…",
-      "url": "https://arxiv.org/abs/2610.23789v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-16T17:19:09.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1554175287",
-      "title": "Parametric Resonance in Primal-Dual Learning for Slowly Non-Stationary Constrained MDPs",
-      "blurb": "Primal-dual methods for constrained Markov decision processes are analyzed under a two-timescale assumption, with non-stationarity entering through two channels. In the additive channel, where the constraint level oscillates, the dual oscillation saturates at a floor set by the moving optimum and is amplified linearly by the timescale ratio. In the…",
-      "url": "https://arxiv.org/abs/2610.23788v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-16T17:19:08.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1554174326",
-      "title": "DLite: History-free Speculative Decoding for Agentic AI",
-      "blurb": "Speculative decoding has become a mainstream technique for accelerating large language model (LLM) inference by using a lightweight draft model to generate candidate tokens that are subsequently verified by the target model. However, agentic workloads introduce long and continuously evolving contexts and frequent multi-turn interactions. Under such…",
-      "url": "https://arxiv.org/abs/2610.23787v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-16T17:18:54.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1554170482",
-      "title": "Sampling the XY model with an attention-based neural network",
-      "blurb": "We present a transformer-based variational autoregressive network for sampling lattice systems with continuous degrees of freedom and apply it to the two-dimensional XY model near the Berezinskii-Kosterlitz-Thouless transition. The architecture is combined with physics-informed ingredients: locality-informed attention and approximate probabilities. The…",
-      "url": "https://arxiv.org/abs/2610.23783v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-16T17:16:35.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1554146457",
-      "title": "Mesoscopic learning dynamics of extensive-width neural networks",
-      "blurb": "Understanding how stochastic gradient descent learns internal representations in wide neural networks trained on rich target functions is a central problem in machine learning. We study this question in two-layer neural networks learning target functions represented by networks of the same architecture, with arbitrary nonlinearity, and with network width…",
-      "url": "https://arxiv.org/abs/2610.23779v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-16T17:12:43.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1554139730",
-      "title": "Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars",
-      "blurb": "Video diffusion models (VDMs) trained on internet-scale data encode a rich prior on appearance, motion, and physics that is difficult to replicate with explicit 3D rendering and costly 3D data capture. We introduce Video Diffusion Avatars (VDAs), a method that creates photo-realistic, multi-view consistent avatars from a single image by fine-tuning a VDM…",
-      "url": "https://arxiv.org/abs/2610.23772v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-16T17:08:33.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1554116666",
-      "title": "Not All Actions Contribute Equally: Learning Precise Progress Estimation from Imprecise Demonstrations",
-      "blurb": "Progress estimators play an essential role in providing dense reward signals for reinforcement learning in robotic manipulation, but accurately assessing task progress can be much challenging. Existing methods heavily rely on expert data and naively assume that all actions within a demonstration contribute to task success. This assumption often breaks down…",
-      "url": "https://arxiv.org/abs/2610.23769v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-16T17:07:39.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1554113783",
-      "title": "Logic-Guided Graph Denoising Diffusion Models",
-      "blurb": "Graph diffusion models are competitive approaches for generating complex graph-structured data. However, when such distributions have strict structural constraints, diffusion models may fail to capture them exactly, resulting in the generation of invalid graphs. In this paper, we propose a method for grounding graph diffusion models in domain-specific…",
-      "url": "https://arxiv.org/abs/2610.23766v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-16T17:06:07.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1554112822",
-      "title": "Universal Semantic Enhancement for Weakly Supervised Anomaly Detection",
-      "blurb": "Weakly supervised anomaly detection on tabular data is an essential task in many label-scarce applications, since tabular data is widely encountered and it is commonly observed in practice that only a limited number of labeled anomalies are available alongside abundant unlabeled samples. Most existing methods try to learn features that capture the inherent…",
-      "url": "https://arxiv.org/abs/2610.23765v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-16T17:05:51.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1001039299",
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "blurb": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Robotics",
-      "publishedAt": "2026-10-16T16:30:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200"
-    },
-    {
-      "id": "s2092221739",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "blurb": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model,…",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-16T16:30:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "robot",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1586363710",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "blurb": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-16T16:01:37.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
     }
   ]
 }
