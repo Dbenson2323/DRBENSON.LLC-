@@ -1,6 +1,168 @@
 {
-  "generatedAt": "2026-10-24T16:27:57.932Z",
+  "generatedAt": "2026-10-25T16:59:11.637Z",
   "stories": [
+    {
+      "id": "s1006554889",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
+      "blurb": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800"
+    },
+    {
+      "id": "s226626595",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "blurb": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-25T14:10:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849"
+    },
+    {
+      "id": "s1478884542",
+      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+      "blurb": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-token by 1.4x to 11.3x and peak memory by 1.5x to 3.4x without accuracy loss. The post Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to…",
+      "url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-25T12:12:18.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/blog-banner897-scaled.png"
+    },
+    {
+      "id": "s1378163948",
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+      "blurb": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos, against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project…",
+      "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-25T11:32:29.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "code",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/123WP-BLOG-BANNER-454-scaled.png"
+    },
+    {
+      "id": "s696734879",
+      "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
+      "blurb": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findings board, scaling from 1 to 1,024 agents on ProgramBench under a 6-hour budget. The post Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-25T03:32:59.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "document",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/1WP-BLOG-BANNER-454-1-scaled.png"
+    },
+    {
+      "id": "s1866152165",
+      "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+      "blurb": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats appeared first on…",
+      "url": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-25T02:59:08.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-37-scaled.png"
+    },
+    {
+      "id": "s2021600386",
+      "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+      "blurb": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-25T02:30:18.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-36-scaled.png"
+    },
+    {
+      "id": "s885310411",
+      "title": "aideveloper-web/Free-Deepseek: Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational tools, and AI-assisted workflows.",
+      "blurb": "Explore Free DeepSeek AI, a standalone AI application for users interested in artificial intelligence, conversational tools, and AI-assisted workflows.",
+      "url": "https://github.com/aideveloper-web/Free-Deepseek",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-25T00:10:08.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/347546139?v=4"
+    },
+    {
+      "id": "s338697517",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "blurb": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+    },
     {
       "id": "s805519605",
       "title": "Block’s new voice model sounds eerily human",
@@ -18,6 +180,24 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822"
+    },
+    {
+      "id": "s1816533826",
+      "title": "harshitha141307-boop/Cognexa-AI: **Cognexa AI** is an AI-powered innovation platform that transforms creative ideas into practical solutions. It helps students and innovators identify real-world problems, generate ideas, and develop intelligent solutions using Artificial Intelligence. **Vision:** To turn innovative ideas into meaningful real-world impact.",
+      "blurb": "**Cognexa AI** is an AI-powered innovation platform that transforms creative ideas into practical solutions. It helps students and innovators identify real-world problems, generate ideas, and develop intelligent solutions using Artificial Intelligence. **Vision:** To turn innovative ideas into meaningful real-world impact.",
+      "url": "https://github.com/harshitha141307-boop/Cognexa-AI",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-24T15:56:11.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": "https://avatars.githubusercontent.com/u/239285868?v=4"
     },
     {
       "id": "s1644087530",
@@ -161,7 +341,7 @@
         "#0EA5E9"
       ],
       "icon": "rocket",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-31-scaled.png"
+      "image": null
     },
     {
       "id": "s1198488967",
@@ -6119,186 +6299,6 @@
         "#0EA5E9"
       ],
       "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1554890271",
-      "title": "Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding",
-      "blurb": "Speculative decoding typically characterizes speedup by draft tokens accepted per verification round. Lossless verification preserves the target model's output distribution and thus expected completion length, making this metric a meaningful efficiency proxy. Relaxed (lossy) verification accepts tokens that lossless verification would reject, potentially…",
-      "url": "https://arxiv.org/abs/2610.23818v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-16T17:41:19.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1554885466",
-      "title": "MOSS: Multimodal Origami Swamp Robot System",
-      "blurb": "Robotic systems for environmental monitoring and ecological surveying in wetlands and swamps must operate across diverse terrestrial and aquatic conditions. Conventional fixed-geometry wheels cannot adapt their contact geometry to these varying conditions. This work presents MOSS (Multimodal Origami Swamp Robot System), a compact amphibious robotic…",
-      "url": "https://arxiv.org/abs/2610.23813v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-16T17:35:24.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1554884505",
-      "title": "Learning Personalized Memory Gating from Delayed One-Sided Feedback",
-      "blurb": "Long-term memory enables language-model agents to personalize future interactions, but a finite memory bank cannot preserve every extracted fact. Existing memory gating policies are typically shared across users and therefore fail to account for user-specific patterns of future reuse. In this paper, we study memory gating at the fact level. We first…",
-      "url": "https://arxiv.org/abs/2610.23812v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-16T17:34:45.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1554883544",
-      "title": "Explainable Machine Learning Analysis of Temperature Effects on Mechanical Strength of Fiber-Reinforced High-Performance Concrete",
-      "blurb": "Predicting the compressive strength of fiber-reinforced high-performance concrete subjected to temperature exposure is challenging because to the intricate interdependencies of mixture composition, fiber properties, curing conditions, and temperature. A data-driven framework to predict compressive strength utilizing 1,204 experimental records containing a…",
-      "url": "https://arxiv.org/abs/2610.23811v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-16T17:34:24.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1554859519",
-      "title": "Steering beyond Language: Improving Multilingual Training-Free Text Embeddings via Paired-Residual Subspace Removal",
-      "blurb": "While deriving text embeddings directly from frozen LLMs has emerged as a promising direction, existing methods focus almost exclusively on English, leaving multilingual settings largely unexplored. In this work, we present the first systematic study of multilingual training-free text embeddings in LLMs. Our analysis reveals a language-conditioned…",
-      "url": "https://arxiv.org/abs/2610.23807v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-16T17:30:43.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1554853753",
-      "title": "Beyond SAEs: Consistent Concept Discovery with Sparse Coding",
-      "blurb": "Sparse autoencoders (SAEs) explain foundation model representations by decomposing activations into sparse combinations of learned dictionary atoms. However, the learned dictionaries can vary across training runs, limiting the reliability and reproducibility of SAE-based analyses. We propose Consistent Sparse Dictionary Learning (ConSDL), which replaces…",
-      "url": "https://arxiv.org/abs/2610.23801v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-16T17:25:11.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1554205078",
-      "title": "Task-aware Kernel Stein certificates for Rényi differential privacy",
-      "blurb": "Rènyi differential privacy, based on Rènyi divergence, has become a notion of choice for privacy guarantees. However, outside the Gaussian setting, Rènyi divergence can be difficult to compute. In particular, Rènyi differential privacy guarantees that exploit task-specific information, as in Rènyi Pufferfish privacy, can be challenging. Here we use kernel…",
-      "url": "https://arxiv.org/abs/2610.23798v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-16T17:24:09.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1554203156",
-      "title": "FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper",
-      "blurb": "Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUTRANSFORMER, a CUDA implementation of a Llama-style Transformer block for NVIDIA Hopper GPUs. It applies CODA's GEMM-plus-epilogue approach…",
-      "url": "https://arxiv.org/abs/2610.23796v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-16T17:22:01.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1554202195",
-      "title": "Persistent Planar Memory for Video World Models",
-      "blurb": "Video world models that generate and explore environments at scale need a persistent 3D memory of what they have produced. Plane primitives offer a natural candidate: a compact set of oriented planes captures the dominant structural elements (e.g., walls, floors, facades) of indoor and outdoor scenes, while requiring only 7 parameters per primitive. We…",
-      "url": "https://arxiv.org/abs/2610.23795v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-16T17:21:54.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1554198351",
-      "title": "DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery",
-      "blurb": "Computational drug discovery requires agents to compose scientific operations and adapt to changing evidence and constraints. Here we introduce DrugHarness, an evolvable agent harness coupling composable scientific execution with conditional skill induction. Its environment integrates over 80 scientific operations, biomedical resources and task-specific…",
-      "url": "https://arxiv.org/abs/2610.23791v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-16T17:20:19.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
       "image": null
     }
   ]
