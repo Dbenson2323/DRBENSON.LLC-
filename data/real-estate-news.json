@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-10-26T12:38:37.916Z",
+  "generatedAt": "2026-10-26T22:31:48.288Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "industrial",
+      "title": "EastGroup Buys Three-Building Logistics Park in Thornton, Colorado for $94.5M",
+      "blurb": "THORNTON, COLO. — EastGroup Properties has acquired 25 Commerce Park, a Class A industrial campus in Thornton, from Rockefeller Group for $94.5 million. Jeremy Ballenger and Tyler Carner of CBRE represented the seller in the deal. CBRE’s Todd Witty and Daniel Close fully leased the project prior to being marketed for…",
+      "url": "https://rebusinessonline.com/eastgroup-buys-three-building-logistics-park-in-thornton-colorado-for-94-5m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-26T13:18:26.000Z"
+    },
+    {
+      "market": "sanfrancisco",
+      "assetClass": "multifamily",
+      "title": "MidPen Housing Completes 176-Unit Ira D. Hall Square Apartments in Silicon Valley",
+      "blurb": "SUNNYVALE, CALIF. — MidPen Housing has completed and opened Ira D. Hall Square in Sunnyvale. The 176-unit property comprises studios, one-, two- and three-bedroom units that are reserved for residents earning up to 30 to 70 percent of the area median income, which is approximately $43,170 to $100,730 for a one-person…",
+      "url": "https://rebusinessonline.com/midpen-housing-completes-176-unit-ira-d-hall-square-apartments-in-silicon-valley/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-26T13:16:59.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "JLL Brokers $10.1M Sale of Retail Strip Center in Lombard, Illinois",
+      "blurb": "LOMBARD, ILL. — JLL Capital Markets has arranged the $10.1 million sale of a 21,071-square-foot retail strip center in Lombard. Built in 2003 and fully renovated in 2026 for medical tenancy, the property is fully leased to Duly Health and Care, Midwest Orthopaedics at Rush and Potbelly Sandwich Works. Alex Sharrin,…",
+      "url": "https://rebusinessonline.com/jll-brokers-10-1m-sale-of-retail-strip-center-in-lombard-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-26T13:01:31.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "multifamily",
