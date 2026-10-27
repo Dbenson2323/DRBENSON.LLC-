@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:49:17.315Z",
+  "generatedAt": "2026-10-27T22:00:38.190Z",
   "rates": {
     "fedFundsRate": {
       "date": "2026-09-01",
@@ -8,7 +8,7 @@
       "source": "https://fred.stlouisfed.org/series/FEDFUNDS"
     },
     "treasury10Y": {
-      "date": "2026-10-23",
+      "date": "2026-10-26",
       "value": 5,
       "label": "10-Year Treasury Constant Maturity Rate",
       "source": "https://fred.stlouisfed.org/series/DGS10"
