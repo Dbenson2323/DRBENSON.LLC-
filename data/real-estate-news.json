@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-27T11:54:55.871Z",
+  "generatedAt": "2026-10-27T17:49:17.727Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "multifamily",
+      "title": "JLL Arranges $333.3M Refinancing for 1,184-Unit Multifamily Portfolio Near Denver",
+      "blurb": "DENVER — JLL Capital Markets has arranged $333.3 million in bridge financing for Palomino Park, a 1,184-unit multifamily portfolio located in Highlands Ranch, an unincorporated, master-planned community 12 miles south of Denver. Greystar provided the floating-rate loan for the borrower, a real estate fund advised by…",
+      "url": "https://rebusinessonline.com/jll-arranges-333-3m-refinancing-for-1184-unit-multifamily-portfolio-near-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-27T14:47:32.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "Associated Bank Provides $16.5M in Financing for Multifamily Property in Libertyville, Illinois",
+      "blurb": "LIBERTYVILLE, ILL. — Associated Bank has provided a $16.5 million loan toward the $22 million acquisition of Eleven5 Lake Apartments in Libertyville. The property features 34 units, 41 parking spaces and 25,147 square feet of commercial space. The apartments were 97 percent occupied at the time of acquisition. The…",
+      "url": "https://rebusinessonline.com/associated-bank-provides-16-5m-in-financing-for-multifamily-property-in-libertyville-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-27T14:17:26.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "industrial",
