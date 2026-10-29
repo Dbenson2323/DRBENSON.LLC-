@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-10-29T12:42:21.769Z",
+  "generatedAt": "2026-10-29T22:38:37.153Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Venture One, BGO to Break Ground on 719,200 SF Spec Industrial Facility in Geneva, Illinois",
+      "blurb": "GENEVA, ILL. — Venture One Real Estate, in partnership with BGO, will break ground on Venture Park Geneva, a 719,200-square-foot speculative industrial development in Geneva. The project site, spanning 54 acres, is located within the Fox Valley industrial submarket and offers convenient access to I-88 via the full…",
+      "url": "https://rebusinessonline.com/venture-one-bgo-to-break-ground-on-719200-sf-spec-industrial-facility-in-geneva-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-29T13:40:56.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "SRS Negotiates $8.9M Ground Lease Sale of Miami Restaurant Leased to Chick-fil-A",
+      "blurb": "MIAMI — SRS Real Estate Partners has negotiated the $8.9 million ground lease sale of a restaurant property located at 18240 S. Dixie Highway in Miami. Chick-fil-A occupies the 5,399-square-foot property, which was built in 2024, on an absolute triple-net, corporate-guaranteed lease with 13 years remaining on the…",
+      "url": "https://rebusinessonline.com/srs-negotiates-8-9m-ground-lease-sale-of-miami-restaurant-leased-to-chick-fil-a/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-29T13:36:51.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "hospitality",
