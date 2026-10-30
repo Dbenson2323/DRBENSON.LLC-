@@ -1,7 +1,6 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import Link from "next/link";
 import StoryCard from "./components/StoryCard";
 import CapabilityCard from "./components/CapabilityCard";
 
@@ -111,9 +110,6 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
     <div className="min-h-screen bg-white text-gray-900">
       {/* Hero / search */}
       <header className="pt-14 pb-6 px-6 flex flex-col items-center text-center border-b border-gray-200">
-        <Link href="/" className="text-xs text-gray-400 hover:text-gray-900 mb-6 self-start ml-2 sm:ml-8">
-          ← Back to home
-        </Link>
         <h1 className="text-4xl md:text-5xl font-serif font-bold tracking-tight text-gray-900">
           AI Research Feed
         </h1>
@@ -177,7 +173,7 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
       {tab === "feed" ? (
         <>
           {/* Category chips */}
-          <div className="sticky top-0 z-10 backdrop-blur-md bg-white/90 border-b border-gray-200 px-4 py-3 overflow-x-auto">
+          <div className="sticky top-16 z-10 backdrop-blur-md bg-white/90 border-b border-gray-200 px-4 py-3 overflow-x-auto">
             <div className="flex gap-2 justify-center min-w-max mx-auto max-w-4xl">
               {categories.map((cat) => (
                 <button
@@ -219,7 +215,7 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
           </main>
 
           <aside className="hidden lg:block py-4">
-            <div className="sticky top-20 max-h-[calc(100vh-6rem)] overflow-y-auto rounded-xl border border-gray-200 bg-gray-50 p-4">
+            <div className="sticky top-32 max-h-[calc(100vh-9rem)] overflow-y-auto rounded-xl border border-gray-200 bg-gray-50 p-4">
               <p className="text-[10px] font-semibold uppercase tracking-wide text-gray-400 mb-3">
                 How the scores work
               </p>

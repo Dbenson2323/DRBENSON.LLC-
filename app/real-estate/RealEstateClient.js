@@ -1,7 +1,6 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import Link from "next/link";
 import RateCard from "./components/RateCard";
 import MarketOverview from "./components/MarketOverview";
 import MarketMetricCard from "./components/MarketMetricCard";
@@ -61,9 +60,6 @@ export default function RealEstateClient({ rates, ratesGeneratedAt, news, metric
     <div className="min-h-screen bg-[#F6F1E7] text-[#2A241C]">
       {/* Hero */}
       <header className="relative px-6 pt-14 pb-10 text-center border-b border-[#D8CDB8] bg-[#FBF8F0]">
-        <Link href="/" className="text-xs text-[#9C927C] hover:text-[#2A241C] block mb-6">
-          ← Back to home
-        </Link>
         <button
           onClick={handleRefresh}
           title="Reload this page with the latest published data"
