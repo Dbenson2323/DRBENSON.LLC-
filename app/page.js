@@ -95,7 +95,7 @@ export default function HomePage() {
           <h2 className="text-3xl font-bold">Let&apos;s connect</h2>
           <p className="mt-2 text-white/60">The best way to reach me is email or LinkedIn.</p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
-            <SocialLink href="mailto:info@drbenson.online" icon={<MailIcon className="w-4 h-4" />} label="Email" />
+            <SocialLink href="mailto:dukerenobenson@gmail.com" icon={<MailIcon className="w-4 h-4" />} label="Email" />
             <SocialLink href="https://www.linkedin.com/in/dukebenson/" icon={<LinkedInIcon className="w-4 h-4 rounded" />} label="LinkedIn" />
             <SocialLink href="https://www.instagram.com/dukebenson_/" icon={<InstagramIcon className="w-4 h-4" />} label="Instagram" />
             <SocialLink href={null} icon={<XIcon className="w-4 h-4" />} label="Twitter/X" />
