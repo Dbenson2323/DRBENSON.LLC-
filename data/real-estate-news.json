@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-10-30T12:33:36.774Z",
+  "generatedAt": "2026-10-30T22:08:05.104Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "retail",
+      "title": "Core Acquisitions, Midloch Investment Buy Shopping Center Near Denver for $30.2M",
+      "blurb": "LAKEWOOD, COLO. — Deerfield, Ill.-based Core Acquisitions and Chicago-based Midloch Investment Partners have acquired Lamar Station Plaza, a regional shopping center in Lakewood, approximately five miles west of downtown Denver. An undisclosed seller sold the asset for $30.2 million. Lamar Station Plaza features…",
+      "url": "https://rebusinessonline.com/core-acquisitions-midloch-investment-buy-shopping-center-near-denver-for-30-2m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-10-30T14:16:36.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "industrial",
