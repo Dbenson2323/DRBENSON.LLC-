@@ -1,6 +1,186 @@
 {
-  "generatedAt": "2026-10-30T18:27:16.830Z",
+  "generatedAt": "2026-10-31T17:33:04.446Z",
   "stories": [
+    {
+      "id": "s1713563001",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "blurb": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+    },
+    {
+      "id": "s434875081",
+      "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+      "blurb": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task. The post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-31T10:38:14.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s34241221",
+      "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+      "blurb": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels. The post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-31T10:10:28.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "code",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s1679605217",
+      "title": "Seshan24/Natural-Language-Processing-NLP-Module: A collection of practical exercises, assignments, and Python implementations for the Natural Language Processing (NLP) module of the Higher National Diploma (HND) in Computer Science with Artificial Intelligence at NIBM.",
+      "blurb": "A collection of practical exercises, assignments, and Python implementations for the Natural Language Processing (NLP) module of the Higher National Diploma (HND) in Computer Science with Artificial Intelligence at NIBM.",
+      "url": "https://github.com/Seshan24/Natural-Language-Processing-NLP-Module",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-31T06:06:27.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/180915039?v=4"
+    },
+    {
+      "id": "s819616071",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "blurb": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-31T01:20:05.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
+    },
+    {
+      "id": "s23633857",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "blurb": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T22:56:13.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847"
+    },
+    {
+      "id": "s1419615886",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "blurb": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T21:54:34.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1371419265",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "blurb": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-30T21:52:03.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
+    },
+    {
+      "id": "s1846008069",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "blurb": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T21:26:59.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
+    },
+    {
+      "id": "s932526289",
+      "title": "Cracks are emerging in the AI spending boom",
+      "blurb": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T21:17:40.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
+    },
     {
       "id": "s1194153205",
       "title": "nemotron-halloween",
@@ -18,6 +198,24 @@
       ],
       "icon": "globe",
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png"
+    },
+    {
+      "id": "s1959111869",
+      "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+      "blurb": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent. The post Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9% appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-30T17:53:37.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "document",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-88881-scaled.png"
     },
     {
       "id": "s1912707881",
@@ -38,9 +236,27 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
     },
     {
+      "id": "s1093063619",
+      "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+      "blurb": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:34:15.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-1-scaled.png"
+    },
+    {
       "id": "s204216064",
       "title": "Google’s first data center satellite is online and writing poetry",
-      "blurb": "The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "blurb": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
       "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
       "sourceName": "TechCrunch AI",
       "sourceType": "journalism",
@@ -54,6 +270,24 @@
       ],
       "icon": "chip",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1241548898",
+      "title": "mawaz-dev/AI-Travel-Tourist-Guide: It uses Artificial Intelligence to recommend tourist attractions, suggest travel itineraries, and provide personalized travel information.",
+      "blurb": "It uses Artificial Intelligence to recommend tourist attractions, suggest travel itineraries, and provide personalized travel information.",
+      "url": "https://github.com/mawaz-dev/AI-Travel-Tourist-Guide",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T16:08:37.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/176558870?v=4"
     },
     {
       "id": "s1653957659",
@@ -182,6 +416,24 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200"
     },
     {
+      "id": "s241555758",
+      "title": "ThreadDesolated/Xiamen-University-Artificial-Intelligence-Challenge: AutoLab：让 Agent 像研究生一样做实验——指标即奖励、失败即归因、配方可迁移、实验可一键复现（第六届厦门大学人工智能挑战赛·赛道二，队伍：泥虾）",
+      "blurb": "AutoLab：让 Agent 像研究生一样做实验——指标即奖励、失败即归因、配方可迁移、实验可一键复现（第六届厦门大学人工智能挑战赛·赛道二，队伍：泥虾）",
+      "url": "https://github.com/ThreadDesolated/Xiamen-University-Artificial-Intelligence-Challenge",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T12:33:51.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/316045993?v=4"
+    },
+    {
       "id": "s900159196",
       "title": "Making it easier for websites to express AI training preferences",
       "blurb": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
@@ -288,6 +540,24 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
+    },
+    {
+      "id": "s571587877",
+      "title": "Fair use benefits everyone",
+      "blurb": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
     },
     {
       "id": "s1908166065",
@@ -6030,276 +6300,6 @@
       ],
       "icon": "eye",
       "image": null
-    },
-    {
-      "id": "s1911683493",
-      "title": "Progress Probes $P^2$: Lightweight Runtime Monitoring for Vision-Language-Action Models",
-      "blurb": "Vision-Language-Action (VLA) models can perform diverse manipulation tasks directly from visual observations and natural language instructions, but they remain prone to mistakes and unpredictable failures. Deploying these policies without continuous human supervision will require robust runtime monitors that detect when the policy has gone off-course.…",
-      "url": "https://arxiv.org/abs/2610.31613v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:40:19.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1911684454",
-      "title": "Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy",
-      "blurb": "We study learning a discrete distribution under person-level differential privacy in the batched setting. Given $n$ users, each contributing $m$ i.i.d. samples from an unknown distribution $μ$ over $[k]$, we seek an estimate of $μ$ with total-variation error $α$. We give polynomial-time algorithms under both pure and approximate differential privacy. Under…",
-      "url": "https://arxiv.org/abs/2610.31612v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-22T17:40:13.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1911708479",
-      "title": "Humanoid Mobility via Attention-based Contacts",
-      "blurb": "Humanoid mobility over complex terrain requires accurate foot placement and coordinated whole-body motion capable of robust adaptation. Reinforcement learning (RL) policies trained without motion references generalize well across terrains, yet eliciting effective whole-body coordination through reward design and exploration alone remains challenging. In…",
-      "url": "https://arxiv.org/abs/2610.31608v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-22T17:37:36.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1911710401",
-      "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
-      "blurb": "Purpose: To describe an evidence-aware retrieval evaluation protocol for a clinical retrieval-augmented generation (RAG) system over breast lesion management literature, addressing the dependence of retrieval scores on annotation coverage. Methods: An 18-document corpus and an 18-query development benchmark, with one Yes/No or WH-question per document,…",
-      "url": "https://arxiv.org/abs/2610.31606v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:36:14.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1550998053",
-      "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
-      "blurb": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:33:25.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-27-scaled.png"
-    },
-    {
-      "id": "s1912367725",
-      "title": "CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers",
-      "blurb": "Counterfactual explanation methods have been introduced for unimodal settings, with dedicated frameworks for tabular, timeseries, text, and image data, yet no post-hoc method has been designed for classifiers that learn from multimodal inputs. Existing explainability methods for multimodal classifiers apply modality-specific attribution independently to…",
-      "url": "https://arxiv.org/abs/2610.31594v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-22T17:26:58.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1912368686",
-      "title": "Simulated Control Evals",
-      "blurb": "Control evaluations measure whether safeguards can prevent an AI model from causing undesired outcomes even when it is intentionally trying to do so. These evaluations typically use purpose-built control settings and extrapolate their results to a model's deployment. However, the effectiveness of safeguards in deployment can depend on features of…",
-      "url": "https://arxiv.org/abs/2610.31593v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:26:42.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s855850823",
-      "title": "Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0",
-      "blurb": "Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-22T16:56:12.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "code",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
-    },
-    {
-      "id": "s616109168",
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "blurb": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T16:47:17.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799"
-    },
-    {
-      "id": "s1073989571",
-      "title": "Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores",
-      "blurb": "Cohere Rerank 5 ships in Pro and Fast tiers with a 32K context window, Context Focus passage extraction and calibrated relevance scores. Pro scores 82.2 on BRIGHT and costs $0.05 per 1M tokens. The post Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T16:31:31.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1258356436",
-      "title": "A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing",
-      "blurb": "Explore how to audit and rebuild Datalab's OmniParseBench, test parser ranking certainty with document-level bootstrapping, and evaluate Tesseract and Indra OCR performance on a custom sample. The post A Developer’s Guide to OmniParseBench: Leaderboard Benchmarks and OCR Testing appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/22/omniparsebench-document-parsing-leaderboard-guide/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-22T16:11:52.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s387695627",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "blurb": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T16:11:31.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/VEmSzlLjei8J3cUVNe7G6.png"
-    },
-    {
-      "id": "s545709956",
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "blurb": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/wayve-uber-uk.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1502149395",
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "blurb": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T15:03:58.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676"
-    },
-    {
-      "id": "s1504256813",
-      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "blurb": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast…",
-      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T15:00:02.000Z",
-      "factualScore": 94,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ethernet-corp-blog-minerva-kv-1280x680-5595752.png"
     }
   ]
 }
