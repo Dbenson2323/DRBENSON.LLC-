@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T12:00:28.469Z",
+  "generatedAt": "2026-10-31T17:14:09.576Z",
   "news": [
     {
       "market": "denver",
@@ -801,33 +801,6 @@
       "url": "https://rebusinessonline.com/interra-realty-brokers-19-2m-sale-of-chicago-apartment-building/",
       "sourceName": "REBusinessOnline",
       "publishedAt": "2026-09-17T12:58:24.000Z"
-    },
-    {
-      "market": "miami",
-      "assetClass": "retail",
-      "title": "Nuveen Sells 207,877 SF Shopping Center in Palm Beach Gardens, Florida",
-      "blurb": "PALM BEACH GARDENS, FLA. — Nuveen Real Estate has sold Promenade Shopping Plaza, a 207,877-square-foot shopping center located in Palm Beach Gardens. Boston-based Mount Vernon Co. purchased the Publix-anchored center. Danny Finkle, Jorge Portela and Kim Flores of JLL represented Nuveen in the transaction. The sales…",
-      "url": "https://rebusinessonline.com/nuveen-sells-207877-sf-shopping-center-in-palm-beach-gardens-florida/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-16T14:38:19.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "general",
-      "title": "Greenstone Partners Brokers $4.4M Sale of Condo Development Site in Chicago’s West Loop",
-      "blurb": "CHICAGO — Greenstone Partners has brokered the $4.4 million sale of 1276 W. Washington Blvd., a development site in Chicago’s West Loop neighborhood. Danny Spitz and Malek Abdulsamad of Greenstone represented the buyer and seller. The property consists of a 14,850-square-foot parcel of land owned by a longtime…",
-      "url": "https://rebusinessonline.com/greenstone-partners-brokers-4-4m-sale-of-condo-development-site-in-chicagos-west-loop/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-16T13:13:17.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "general",
-      "title": "Switchyards Inks Leases for Two New Coworking Spaces in Chicago",
-      "blurb": "CHICAGO — Coworking concept Switchyards has inked two leases for additional locations in Chicago. JLL brokered both deals. Sarah Silva and Nicole Becker of JLL represented Switchyards and landlord Range Group in two simultaneous transactions — 2440 N. Lincoln Ave. in Lincoln Park and 1046 W. Kinzie St. in Fulton…",
-      "url": "https://rebusinessonline.com/switchyards-inks-leases-for-two-new-coworking-spaces-in-chicago/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-16T13:12:30.000Z"
     }
   ]
 }
