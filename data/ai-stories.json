@@ -1,6 +1,312 @@
 {
-  "generatedAt": "2026-11-01T18:18:31.437Z",
+  "generatedAt": "2026-11-02T22:12:28.120Z",
   "stories": [
+    {
+      "id": "s155889427",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "blurb": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T19:25:59.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675"
+    },
+    {
+      "id": "s1403265716",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "blurb": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T19:19:17.000Z",
+      "factualScore": 58,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1355939290",
+      "title": "Raising the quality of insights in agentic analytics",
+      "blurb": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T17:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-cover-2026.png"
+    },
+    {
+      "id": "s963828629",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "blurb": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T16:30:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895"
+    },
+    {
+      "id": "s1358039194",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "blurb": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-02T16:23:21.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1407776487",
+      "title": "Introducing the Grid Protectors Program",
+      "blurb": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T15:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s1367274084",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "blurb": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-02T15:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800"
+    },
+    {
+      "id": "s3721040",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "blurb": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1281551426",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "blurb": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-02T13:57:53.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "s824493316",
+      "title": "Stop counting tokens, start counting what ships",
+      "blurb": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T13:10:32.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?w=840"
+    },
+    {
+      "id": "s938532240",
+      "title": "The agentic web is here",
+      "blurb": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T09:35:19.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/spot1.jpg"
+    },
+    {
+      "id": "s1617778387",
+      "title": "LifeVal",
+      "blurb": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "url": "https://openai.com/index/lifeval",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-02T09:00:00.000Z",
+      "factualScore": 94,
+      "qualityScore": 85,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1822937025",
+      "title": "Qodo builds context into AI code review with Codex",
+      "blurb": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s1787418467",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "blurb": "Data centers are deeply unpopular. But what if we called them something else?",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
+    {
+      "id": "s1424069852",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "blurb": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680"
+    },
+    {
+      "id": "s463718739",
+      "title": "mk7002/aia: artificial intelligence assistants",
+      "blurb": "artificial intelligence assistants",
+      "url": "https://github.com/mk7002/aia",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-01T17:28:14.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/50791064?v=4"
+    },
+    {
+      "id": "s1381933784",
+      "title": "harshada25more/artificial-intelligence-: practicals of AI lab",
+      "blurb": "practicals of AI lab",
+      "url": "https://github.com/harshada25more/artificial-intelligence-",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-01T16:15:46.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/230827936?v=4"
+    },
     {
       "id": "s1356497639",
       "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
@@ -36,6 +342,24 @@
       ],
       "icon": "document",
       "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-scaled.png"
+    },
+    {
+      "id": "s379310397",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "blurb": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-01T02:22:10.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800"
     },
     {
       "id": "s266525860",
@@ -272,6 +596,204 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
     },
     {
+      "id": "s1000050063",
+      "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
+      "blurb": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackout), which masks unviewed regions during training and uses unmasked images at inference. Eight experts repeatedly read the same 80 chest X-rays (CXRs). We…",
+      "url": "https://arxiv.org/abs/2610.42152v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-30T17:59:59.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1000073127",
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "blurb": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time scaling and fine-grained controllability…",
+      "url": "https://arxiv.org/abs/2610.42149v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:59:43.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000074088",
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "blurb": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix recomputation overheads or distorted output…",
+      "url": "https://arxiv.org/abs/2610.42148v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:59:38.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000075049",
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "blurb": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer selects a subset of keys for the…",
+      "url": "https://arxiv.org/abs/2610.42147v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T17:59:34.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s1000076010",
+      "title": "Hierarchical World Models with Implicit Dynamics",
+      "blurb": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search complexity. Existing hierarchical methods often use rigid macro-actions or latent skills, leading to brittle representations and limited…",
+      "url": "https://arxiv.org/abs/2610.42146v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-10-30T17:59:25.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1000076971",
+      "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+      "blurb": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulation due to the compactness and computational efficiency of the primitive-based representation. Prior work has primarily focused on geometry-aware shape…",
+      "url": "https://arxiv.org/abs/2610.42145v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-30T17:59:14.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1000080815",
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "blurb": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong…",
+      "url": "https://arxiv.org/abs/2610.42141v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-30T17:58:48.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1000102918",
+      "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+      "blurb": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplification results. Most sampling schemes with provable privacy amplification, including Poisson sampling and random allocation, result in…",
+      "url": "https://arxiv.org/abs/2610.42139v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T17:58:42.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s1000105801",
+      "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+      "blurb": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically learn these tasks jointly, a demanding objective given the scarcity of 4D supervision. We show that strong pretrained 2D trackers and 3D geometry models provide…",
+      "url": "https://arxiv.org/abs/2610.42136v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-30T17:58:33.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1000106762",
+      "title": "A Better Critic Matters for Distribution Matching Distillation",
+      "blurb": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic needs, in capacity and in information, to provide a reliable training signal. On the capacity side, controlled experiments across seven SiT…",
+      "url": "https://arxiv.org/abs/2610.42135v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-10-30T17:58:26.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1000108684",
+      "title": "Instance-dependent sequential limits as an exact information ledger",
+      "blurb": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a statistic, a testing step that turns a class guarantee into a requirement on the history, and optimization over alternatives and allocations. Only…",
+      "url": "https://arxiv.org/abs/2610.42133v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T17:57:44.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
       "id": "s1194153205",
       "title": "nemotron-halloween",
       "blurb": "nemotron-halloween",
@@ -290,6 +812,42 @@
       "image": "https://cdn-uploads.huggingface.co/production/uploads/6ab2a746c7d0655b3d8dfbb9/fownH6rn05tSp1jDBTz8m.png"
     },
     {
+      "id": "s1000133670",
+      "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+      "blurb": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision model remains challenging: the teacher expresses preferences through a ranked list of document ID sequences, while the student determines the ranking using…",
+      "url": "https://arxiv.org/abs/2610.42128v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:56:58.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000135592",
+      "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+      "blurb": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance independently of observation quantity. Materials and Methods: In-hospital mortality was predicted at 48 hours using MIMIC-III, MIMIC-IV, and…",
+      "url": "https://arxiv.org/abs/2610.42126v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T17:56:10.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
       "id": "s1959111869",
       "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
       "blurb": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent. The post Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9% appeared first on MarkTechPost .",
@@ -305,6 +863,114 @@
         "#0EA5E9"
       ],
       "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1000163461",
+      "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+      "blurb": "Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase gradient dynamics: a well-specified two-neuron ReLU teacher-student model under isotropic Gaussian inputs, trained by population gradient flow from small…",
+      "url": "https://arxiv.org/abs/2610.42118v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-30T17:51:35.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000164422",
+      "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+      "blurb": "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in private optimization and in communication-efficient aggregation. The existing privacy loss distribution (PLD) accountant for this scheme runs in time quadratic in…",
+      "url": "https://arxiv.org/abs/2610.42117v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T17:51:03.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s1000165383",
+      "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+      "blurb": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked for inference. When the same context is reused across models, however, each newly selected target model typically has to process it again, repeatedly…",
+      "url": "https://arxiv.org/abs/2610.42116v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:50:49.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1000169227",
+      "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+      "blurb": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but they either fail to match attention's expressiveness (e.g., sliding-window or linear attention variants with fixed-size state) or only achieve constant-factor…",
+      "url": "https://arxiv.org/abs/2610.42112v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:48:37.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000170188",
+      "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
+      "blurb": "Atmospheric fronts are associated with much of the high-impact weather in the mid-latitudes, yet their identification and classification remain largely manual and subjective. Existing deep learning approaches rely primarily on gridded reanalysis or forecast data, limiting their applicability to satellite observations available for time-critical…",
+      "url": "https://arxiv.org/abs/2610.42111v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-30T17:48:20.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "code",
+      "image": null
+    },
+    {
+      "id": "s1000192291",
+      "title": "Regret-Optimal Wasserstein-Robust Linear Regression",
+      "blurb": "Distributionally robust optimization (DRO) minimizes worst-case risk under distributional uncertainty, but its decisions can be suboptimal in terms of their excess risk, or regret. We study this gap for multivariate least-squares regression, assuming that the observed source law and unknown target law differ by an adversarial 2-Wasserstein perturbation of…",
+      "url": "https://arxiv.org/abs/2610.42109v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-30T17:47:58.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "shield",
       "image": null
     },
     {
@@ -326,6 +992,186 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
     },
     {
+      "id": "s1000195174",
+      "title": "Hard Constraint Projection in a Physics Informed Neural Network (Burgers)",
+      "blurb": "Physics informed machine learning provides a framework to study and simulate fluid dynamics, potentially at a fraction of the computational cost of traditional numerical methods, with the goal of improving the explainability, accuracy and robustness of purely data driven machine learning methods. In this work, we extend the hard constraint projection (HCP)…",
+      "url": "https://arxiv.org/abs/2610.42106v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-30T17:47:01.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000197096",
+      "title": "Hyperbolic Inverse Reinforcement Learning",
+      "blurb": "Inverse reinforcement learning (IRL) seeks to infer the reward function underlying observed behavior, but its predictive accuracy and interpretability depend on how that reward is computed from the underlying features. While prior IRL reward functions have been implemented through a variety of techniques including linear weights, neural networks, or other…",
+      "url": "https://arxiv.org/abs/2610.42104v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-30T17:46:04.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000200940",
+      "title": "Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+      "blurb": "Deep reinforcement learning (RL) is a powerful framework for sequential decision-making. Despite many high-profile successes in recent years, deep RL is known to be brittle. An emerging line of research attributes this brittleness to a loss of plasticity in neural networks. However, plasticity loss has so far been understudied in stochastic environments.…",
+      "url": "https://arxiv.org/abs/2610.42100v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-30T17:43:04.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000849615",
+      "title": "ROOF: Learning Humanoid Fall Recovery under Overhead Constraints",
+      "blurb": "A fallen humanoid beneath an overhead obstacle faces a coupled recovery problem. It must create clearance while organizing support for a stable rise, since attempting to stand before making room can further increase obstruction. We introduce a reinforcement learning method with contact-supported geometric escape guidance, which rewards incremental…",
+      "url": "https://arxiv.org/abs/2610.42097v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-30T17:41:32.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1000850576",
+      "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+      "blurb": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, whereas only a portion of the scene causes actions. WAMs fitted to demonstrations do not, in general, guarantee that they will generate actions solely from the…",
+      "url": "https://arxiv.org/abs/2610.42096v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-30T17:40:00.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1000854420",
+      "title": "Rethinking Asymmetry in Self-Supervised 3D Geometry Learning",
+      "blurb": "Self-supervised learning relies on asymmetry between what a model observes and what it must explain. Recent methods learn 3D geometry from unposed images by predicting cameras and scene structure, then rendering held-out views. To avoid trivial solutions, they impose this asymmetry in the input space, restricting how views interact through separate…",
+      "url": "https://arxiv.org/abs/2610.42092v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T17:38:39.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000881328",
+      "title": "Cost-Aware Stopping for Freeze-Thaw Bayesian Optimization: When Does One-Step Lookahead Suffice?",
+      "blurb": "Freeze-thaw Bayesian optimization (BO) evaluates candidates in resumable increments but usually stops at a budget or convergence test. We maximize a budget-free utility, the best observed score minus a cost per increment, with a one-step lookahead: advance the candidate with the largest expected improvement (EI) under a fixed surrogate, and stop once no EI…",
+      "url": "https://arxiv.org/abs/2610.42085v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-30T17:36:06.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1000882289",
+      "title": "RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models",
+      "blurb": "Continuous diffusion language models show promising potential in text generation tasks, but are prone to problems such as text repetition, semantic drift, and generation quality degradation when the generation length exceeds the training length. To address these challenges, we propose RangeSWA, a training-free length extrapolation method. The method…",
+      "url": "https://arxiv.org/abs/2610.42084v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:35:48.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1000884211",
+      "title": "Think in 360°: Benchmarking and Bootstrapping Panoramic Video Reasoning",
+      "blurb": "A panoramic video captures all directions around the camera, but relevant evidence can appear in different directions and at different times. Understanding it requires models to connect observations across the viewing sphere and time. We introduce PanoVideoBench, the first manually annotated benchmark for comprehensive panoramic video understanding. Its…",
+      "url": "https://arxiv.org/abs/2610.42082v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:35:02.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000885172",
+      "title": "Differentially Private Synthetic Data from Sliced Chebyshev Moments",
+      "blurb": "Research on practical differentially private (DP) synthetic data has largely focused on methods that approximately preserve low-dimensional marginals of a target distribution, and can thus only hope to preserve higher-dimensional, global structure as a lucky by-product. At the same time, existing methods that target global accuracy guarantees pay a price…",
+      "url": "https://arxiv.org/abs/2610.42081v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-10-30T17:34:58.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
       "id": "s1093063619",
       "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
       "blurb": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkTechPost .",
@@ -341,6 +1187,114 @@
         "#22D3EE"
       ],
       "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000938027",
+      "title": "RAMA: Retrieval-Augmented Multi-Agent Routing with Episodic Memory for LEO Satellite Networks",
+      "blurb": "Low-Earth orbit (LEO) satellite networks present a challenging routing environment due to rapidly changing topology, traffic, and link conditions. Existing deep reinforcement learning (DRL) routing methods typically rely on current observations and information encoded in network weights, limiting their ability to exploit successful past experiences. We…",
+      "url": "https://arxiv.org/abs/2610.42068v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-10-30T17:26:50.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "code",
+      "image": null
+    },
+    {
+      "id": "s1000939949",
+      "title": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
+      "blurb": "AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. We introduce the Knowledge Layer Model (KLM), an open, implementation-neutral specification for inference records with versioned epistemic assessments, evidence relations, and explicit unknowns. SEDIM, the knowledge and evidence architecture of Nage AI OS, is…",
+      "url": "https://arxiv.org/abs/2610.42066v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-10-30T17:26:18.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s1000945715",
+      "title": "PersonaChatBench: Evaluating Chat Assistants with Diverse Simulated Users",
+      "blurb": "Conversational assistants are expected to help people with diverse backgrounds, preferences, and communication styles. Yet evaluations centered on a single cooperative user provide limited insight into how reliably an assistant serves users with different personas. We introduce PersonaChatBench, a framework for evaluating task competence and responsiveness…",
+      "url": "https://arxiv.org/abs/2610.42060v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:23:14.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1000971662",
+      "title": "CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness",
+      "blurb": "Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training language models to reason. However, RLVR typically relies solely on outcome correctness, which does not guarantee that the CoT causally contributes to the final answer. Without this connection, outcome rewards may fail to reinforce high-quality reasoning.…",
+      "url": "https://arxiv.org/abs/2610.42054v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-10-30T17:18:35.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000972623",
+      "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
+      "blurb": "Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body controllers offer more efficient reflexes, but struggle to generalize. While pairing a deliberative brain (foundation models) with a reactive cerebellum…",
+      "url": "https://arxiv.org/abs/2610.42053v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-30T17:18:13.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1000996648",
+      "title": "A Hybrid Path Planning Framework for Assistive Wheelchair Navigation in Dynamic Pedestrian Environments",
+      "blurb": "Autonomous wheelchairs can improve the quality of life for individuals with mobility impairments by providing greater independence. However, reliable navigation especially in human environments is a major challenge due to factors such as dynamic obstacles, unpredictable pedestrian behavior, and the users' need to complete multiple stops along the way…",
+      "url": "https://arxiv.org/abs/2610.42049v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-10-30T17:16:59.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
       "image": null
     },
     {
@@ -414,6 +1368,24 @@
       ],
       "icon": "rocket",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg"
+    },
+    {
+      "id": "s424989490",
+      "title": "Speeding up planning decisions with AI",
+      "blurb": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "sourceName": "Google DeepMind",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T14:18:30.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://lh3.googleusercontent.com/AnSfPLyNIwSu1XsT_WUP3aYfQrc9jo8lwlotms7NmryT7RhWXnwdF4_zzYBMlJOcNT1U_ZbDMCM7AzpnFDPeYKJDardybJGlm447xeEXo1eQqgjCEg=w528-h297-n-nu-rw-lo"
     },
     {
       "id": "s1599264378",
@@ -504,6 +1476,24 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200"
+    },
+    {
+      "id": "s1248283936",
+      "title": "liujiayuGIS/gaia: GAIA — Geospatial Artificial Intelligence Assistant · 地理空间人工智能助手盖亚",
+      "blurb": "GAIA — Geospatial Artificial Intelligence Assistant · 地理空间人工智能助手盖亚",
+      "url": "https://github.com/liujiayuGIS/gaia",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-10-30T12:53:19.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/153276452?v=4"
     },
     {
       "id": "s241555758",
@@ -5309,996 +6299,6 @@
         "#22D3EE"
       ],
       "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1880282818",
-      "title": "A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control",
-      "blurb": "Physics-constrained machine learning (PCML) integrates domain knowledge, first-principles, and physical constraints into AI/ML models. In this work, we present a step-by-step tutorial of a modular PCML framework, KKT-HardNet, and illustrate how it could be used for hybrid modeling, process simulation, optimization and model predictive control in a single…",
-      "url": "https://arxiv.org/abs/2610.32914v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-23T17:17:11.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1880286662",
-      "title": "Recommender regret for improving regularised RL estimation with bandits and MCTS",
-      "blurb": "Regularised reinforcement learning (RL) algorithms rely on estimators, like Monte Carlo tree search or one-step look-ahead, to provide policy, value, or Q-value estimates in training and inference. However, existing bandit-based estimation frameworks evaluate sampling efficiency, not the quality of estimates. We address this by formalising estimate…",
-      "url": "https://arxiv.org/abs/2610.32910v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-23T17:14:15.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1880307804",
-      "title": "HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training",
-      "blurb": "HoloBoxing presents a simple recipe for learning humanoid boxing by building on a pretrained whole-body controller. The recipe separates reusable motor skills from task decisions: a compact planner requests future body-point targets, while the frozen controller handles joint-level execution. A learned decoder maps 32-dimensional actions to structured…",
-      "url": "https://arxiv.org/abs/2610.32909v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-23T17:11:28.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1880968011",
-      "title": "LoCA: Enabling Multi-Modality in Geospatial Location Encoders",
-      "blurb": "Location encoders map geographic coordinates to high-dimensional descriptors through contrastive alignment with paired Earth Observation imagery. We prove that this construction is structurally limited: any Lipschitz location encoder produces an output of intrinsic dimension at most 2, regardless of architecture or bandwidth, which forces the contrastive…",
-      "url": "https://arxiv.org/abs/2610.32894v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-23T17:01:04.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s69036698",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "blurb": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T17:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1880970894",
-      "title": "Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations",
-      "blurb": "Large Language Models (LLMs) are increasingly used to optimize code for performance. This practice often assumes that improvements in execution speed naturally translate into overall lower energy consumption. We challenge this assumption empirically by measuring whether performance-optimized code produced by LLM self-refinement pipelines is also…",
-      "url": "https://arxiv.org/abs/2610.32891v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T16:58:01.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1880971855",
-      "title": "Closing the Modality Gap via Simplex-Constrained Representations",
-      "blurb": "While multimodal contrastive models like CLIP and CLAP successfully learn shared representations, their embeddings typically exhibit a persistent \\emph{modality gap}. We propose addressing this separation through a purely geometric approach: changing the embedding domain from the unit sphere, $S^{d-1}$, to the probability simplex, $Δ^{d-1}$. Although both…",
-      "url": "https://arxiv.org/abs/2610.32890v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-23T16:57:48.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1880993958",
-      "title": "When Human Corrections Travel: Safety in Federated VLA Adaptation",
-      "blurb": "Vision-language-action (VLA) policies can adapt to local human intervention, while federated learning can combine distributed robot experience without pooling raw records. We examine their prospective intersection: sharing adaptations derived from diverse human corrections across tasks, environments, people, and robot embodiments. Corrections differ in…",
-      "url": "https://arxiv.org/abs/2610.32888v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-23T16:56:03.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1880994919",
-      "title": "Reinforcement Learning with Multi-Step Transition Predictions: A Bellman Theory",
-      "blurb": "Multi-step predictions of future transition realizations can improve reinforcement learning, but their value remains difficult to quantify. Directly including these predictions in the state can lead to exponential state-space growth, making direct dynamic programming computationally expensive. We study discounted finite MDPs under a block-feedback…",
-      "url": "https://arxiv.org/abs/2610.32887v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T16:55:37.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1880997802",
-      "title": "VTRL-Med: Progressive Visual Refinement with Topology-Guided Regularization for Medical Image Clustering",
-      "blurb": "Deep clustering offers a promising approach for analyzing large unlabeled medical image datasets, yet prevailing methods still face two limitations: they may neglect class-agnostic structural priors that capture object boundaries and regions, and they do not explicitly encode topological patterns (e.g., connectivity and holes). These sources of information…",
-      "url": "https://arxiv.org/abs/2610.32884v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-23T16:50:55.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1881000685",
-      "title": "NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding",
-      "blurb": "Reinforcement learning (RL) post-training improves the reasoning capabilities of large language models, but its cost is dominated by autoregressive rollout generation, which can exceed 70% of training time. Existing speculative-decoding methods are poorly suited to this setting: model-based drafters consume scarce GPU memory and may become misaligned as…",
-      "url": "https://arxiv.org/abs/2610.32881v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T16:47:29.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1881001646",
-      "title": "Multimodal Generative AI Assists Comprehensive Echocardiographic Interpretation",
-      "blurb": "Echocardiography is the cornerstone of cardiovascular diagnostics, yet its global utility is constrained by a critical shortage of experienced interpreters. Current artificial intelligence (AI) solutions remain limited, typically operating as opaque \"black boxes\" or focusing on narrow tasks that fail to capture the holistic, guideline-driven reasoning of a…",
-      "url": "https://arxiv.org/abs/2610.32880v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T16:47:01.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1881023749",
-      "title": "Advancing SVD-based LLM Compression via Layer-Wise Error Model Search",
-      "blurb": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs. However, existing methods face two key limitations: (i) global rank allocation, where uncalibrated error proxies fail to capture complex error propagation, and (ii) decomposition quality, where Fisher-based estimators suffer from severe rank collapse. In…",
-      "url": "https://arxiv.org/abs/2610.32878v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T16:46:00.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "code",
-      "image": null
-    },
-    {
-      "id": "s779078397",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "blurb": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-23T16:15:50.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/7F9q8BZloWigwe7m5YGLG.png"
-    },
-    {
-      "id": "s1938218402",
-      "title": "Securing our frontier model training environment",
-      "blurb": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-23T10:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s911420307",
-      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
-      "blurb": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared…",
-      "url": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-23T08:58:47.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2196.png"
-    },
-    {
-      "id": "s1696068008",
-      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-      "blurb": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T06:05:10.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png"
-    },
-    {
-      "id": "s1752860376",
-      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
-      "blurb": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-23T05:28:21.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
-    },
-    {
-      "id": "s337210674",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "blurb": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Robotics",
-      "publishedAt": "2026-10-23T04:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800"
-    },
-    {
-      "id": "s832458045",
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "blurb": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-10-23T02:00:13.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/kz-post-note-gtc-berliin-2026-1920x1080-1.jpg"
-    },
-    {
-      "id": "s1254584296",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "blurb": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-23T00:45:37.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590"
-    },
-    {
-      "id": "s65849036",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "blurb": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1867038371",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "blurb": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://huggingface.co/blog/assets/torch-neuronx-model-support/thumbnail.jpg"
-    },
-    {
-      "id": "s1168196856",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "blurb": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "url": "https://openai.com/index/anima",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-23T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1000216386",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "blurb": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T22:24:34.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png"
-    },
-    {
-      "id": "s1442504542",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "blurb": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-22T22:08:24.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
-    },
-    {
-      "id": "s2107170317",
-      "title": "Designing an AI serving harness built to last",
-      "blurb": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
-      "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "sourceName": "MIT Technology Review",
-      "sourceType": "journalism",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-22T21:17:29.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840"
-    },
-    {
-      "id": "s1257684922",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "blurb": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T19:07:09.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
-    },
-    {
-      "id": "s699427860",
-      "title": "Build more responsive apps with the Decisions API",
-      "blurb": "Fast, focused, low-cost decisions for any application.",
-      "url": "https://openai.com/index/decisions-api",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 77,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1842230586",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "blurb": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988"
-    },
-    {
-      "id": "s1568510374",
-      "title": "Canva releases its first image generation model",
-      "blurb": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-22T19:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
-    },
-    {
-      "id": "s1212517669",
-      "title": "The Foundations of Scalable AI",
-      "blurb": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn…",
-      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "sourceName": "MIT Technology Review",
-      "sourceType": "journalism",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-22T18:48:04.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png"
-    },
-    {
-      "id": "s1203847724",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "blurb": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-22T18:43:53.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024"
-    },
-    {
-      "id": "s1911506669",
-      "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
-      "blurb": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this paper, we introduce FlexPart, a unified image-to-3D part generation framework that supports variable-granularity geometric conditions within a single model. By…",
-      "url": "https://arxiv.org/abs/2610.31671v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-22T17:59:53.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1911507630",
-      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-      "blurb": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether…",
-      "url": "https://arxiv.org/abs/2610.31670v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:59:51.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1911529733",
-      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
-      "blurb": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their different objectives, both concern the relationship between video observations and an evolving world. This survey adopts world modeling as a unifying lens…",
-      "url": "https://arxiv.org/abs/2610.31668v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-22T17:59:50.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1911530694",
-      "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-      "blurb": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix,…",
-      "url": "https://arxiv.org/abs/2610.31667v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-22T17:59:48.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1911534538",
-      "title": "Phase Transition from Random Features to Fully Trainable Networks",
-      "blurb": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adaptive representations. This paper quantifies a phase transition pattern in approximation bounds and observes analogous behavior in training errors: a rapid but…",
-      "url": "https://arxiv.org/abs/2610.31663v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-22T17:59:29.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1911535499",
-      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-      "blurb": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthiness of the decision. The decision and confidence score need not be produced by the same model: for example, one agent may propose a decision, while a separate…",
-      "url": "https://arxiv.org/abs/2610.31662v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:59:22.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1911536460",
-      "title": "OpenTac: An Open Ecosystem for Customizable, Scalable, and Transferable 3D Tactile Sensing",
-      "blurb": "We present OpenTac, a novel sensor and a full-stack ecosystem for tactile skins that are highly customizable, scalable, and readily deployed in downstream robot control and learning applications. Our core contribution is twofold. First, we develop a scalable resistive tactile skin with a structured deformable overlay that converts tangential loading into…",
-      "url": "https://arxiv.org/abs/2610.31661v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-22T17:59:06.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1911558563",
-      "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-      "blurb": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training images. Proactive dataset-use auditing plants a shared signal in a dataset before release, then later checks whether that signal appears in a suspect model's…",
-      "url": "https://arxiv.org/abs/2610.31659v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-22T17:59:03.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1911560485",
-      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-      "blurb": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on calibration data under explicit costs, then evaluate that frozen policy once on held-out test data. On a public 47,837-ticket, eight-class corpus, we compare four…",
-      "url": "https://arxiv.org/abs/2610.31657v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:58:52.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1911561446",
-      "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
-      "blurb": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical recurrent agents compress experience into hidden states, while transformer-based agents retrieve from past trajectories at quadratic memory and computation…",
-      "url": "https://arxiv.org/abs/2610.31656v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T17:58:27.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1911566251",
-      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
-      "blurb": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or disconnected parts. We argue that providing agents with tools for assembling builds and verifying their physical feasibility…",
-      "url": "https://arxiv.org/abs/2610.31651v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:57:20.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "code",
-      "image": null
-    },
-    {
-      "id": "s1911567212",
-      "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
-      "blurb": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action even though the user request is benign and every returned statement is true. We introduce \\bench{}, an executable benchmark for evaluating unsafe execution,…",
-      "url": "https://arxiv.org/abs/2610.31650v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:57:04.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1911588354",
-      "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
-      "blurb": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images with uneven illumination, blur, and occlusions. Purifying such inputs requires deciding when to intervene and preserving the visual cues needed for 3D generation, while leaving clean inputs unchanged. We introduce Gate3DGen, a selective…",
-      "url": "https://arxiv.org/abs/2610.31649v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-22T17:57:02.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1911591237",
-      "title": "Low-Bit N-Gram Embeddings for Language Models",
-      "blurb": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive tokens, which the model retrieves during processing. However, they can require substantial memory: DeepSeek-V4.1-Flash, for example, allocates 196 billion…",
-      "url": "https://arxiv.org/abs/2610.31646v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:56:13.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1911592198",
-      "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields",
-      "blurb": "Monocular models recover 3D geometry from a single image in one pass, but most assume a pinhole camera and produce distorted geometry on the wide-angle imagery produced by fisheye and panoramic lenses. Camera-aware models remove this assumption by predicting a per-pixel ray field. However, they represent different camera geometries using a single fixed…",
-      "url": "https://arxiv.org/abs/2610.31645v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-22T17:55:30.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1911593159",
-      "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
-      "blurb": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neural-native data formats are gathering interest in the scientific community due to their compactness, resolution-agnosticism and amenability to direct neural processing. On the other hand, gigapixel images are becoming increasingly…",
-      "url": "https://arxiv.org/abs/2610.31644v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-22T17:55:10.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1911595081",
-      "title": "A Fix for Softmax and Cross-Entropy",
-      "blurb": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much larger than the others, resulting in gradients that no longer sum to zero. The second bug, Softmax Cancellation, occurs when student logits are close to teacher…",
-      "url": "https://arxiv.org/abs/2610.31642v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:54:56.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1911596042",
-      "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
-      "blurb": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video states, yet they differ substantially in training difficulty. Removal can be effectively bootstrapped from video inpainting and further adapted to erase object-related interaction effects. Injection, however, requires large-scale paired…",
-      "url": "https://arxiv.org/abs/2610.31641v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-22T17:54:03.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1911597003",
-      "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
-      "blurb": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering. However, their use in spatial tasks is limited by imprecise camera control, spatial and temporal inconsistencies, and entangled camera motion with scene dynamics. Existing approaches, such as task-specific fine-tuning and post-process…",
-      "url": "https://arxiv.org/abs/2610.31640v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-22T17:53:03.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1911618145",
-      "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
-      "blurb": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while…",
-      "url": "https://arxiv.org/abs/2610.31639v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-22T17:52:56.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1911621028",
-      "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
-      "blurb": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather than a classifier: a tool-using agent explores the corpus through a read-only, budgeted API and compiles each finding into an executable test, which a native…",
-      "url": "https://arxiv.org/abs/2610.31636v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-22T17:52:22.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1911621989",
-      "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
-      "blurb": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of frames. Long videos must therefore be processed as overlapping chunks. This division produces independent local reconstructions with inconsistent coordinate…",
-      "url": "https://arxiv.org/abs/2610.31635v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-22T17:51:10.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "eye",
       "image": null
     }
   ]
