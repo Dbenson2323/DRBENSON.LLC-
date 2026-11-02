@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-02T05:29:16.323Z",
+  "generatedAt": "2026-11-02T15:22:27.299Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "SAMPA USA to Open 62,000 SF Distribution Facility in Bartlett, Illinois",
+      "blurb": "BARTLETT, ILL. — SAMPA USA is expanding its Midwest presence with a new 62,000-square-foot facility at 2305 Kenyon Road in Bartlett. SAMPA USA, a Turkish company, will relocate from Romeoville and will utilize the new location as its Midwest distribution hub. Dan Brown of Brown Commercial Group represented the…",
+      "url": "https://rebusinessonline.com/sampa-usa-to-open-62000-sf-distribution-facility-in-bartlett-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-02T14:01:00.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "RE/MAX Commercial Arranges $4.5M Sale of Mixed-Use Block in Norridge, Illinois",
+      "blurb": "NORRIDGE, ILL. — Jason Bitton of RE/MAX Commercial has arranged the $4.5 million sale of a mixed-use block totaling roughly 41,000 square feet on 1.9 acres in Norridge. A private investor was the seller. William Gold of Troy Realty Ltd. represented the buyer, Prospect Heights-based 1st Liberty Management Inc. The…",
+      "url": "https://rebusinessonline.com/re-max-commercial-arranges-4-5m-sale-of-mixed-use-block-in-norridge-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-02T14:00:00.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "retail",
@@ -720,42 +738,6 @@
       "url": "https://rebusinessonline.com/chicagos-1901-project-owners-reveal-renderings-for-new-music-hall/",
       "sourceName": "REBusinessOnline",
       "publishedAt": "2026-09-21T12:33:03.000Z"
-    },
-    {
-      "market": "denver",
-      "assetClass": "multifamily",
-      "title": "Thompson Thrift Opens 276-Unit Apartment Property in Colorado Springs",
-      "blurb": "COLORADO SPRINGS, COLO. —&#160;Thompson Thrift has opened Switch, a multifamily community in Colorado Springs. Thompson Thrift 2023 Multifamily Development L.P. provided equity for the development. Situated on 11 acres at the intersection of Voyager Parkway and North Gate Boulevard, Switch features 276 one-, two- and…",
-      "url": "https://rebusinessonline.com/thompson-thrift-opens-276-unit-apartment-property-in-colorado-springs/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-18T13:16:26.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "industrial",
-      "title": "BWE Arranges $48M Refinancing for 978,000 SF Industrial Property in DeKalb, Illinois",
-      "blurb": "DEKALB, ILL. — BWE has arranged $48 million to refinance a 978,000-square-foot logistics facility occupied by 3M in DeKalb. Mike Guterman of BWE arranged the fixed-rate loan, which features a 55 percent loan-to-value ratio. Griffin Capital, a southern California-based real estate investment and management company,…",
-      "url": "https://rebusinessonline.com/bwe-arranges-48m-refinancing-for-978000-sf-industrial-property-in-dekalb-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-18T13:06:37.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "industrial",
-      "title": "Cawley CRE Negotiates 577,422 SF Industrial Lease in Crest Hill, Illinois",
-      "blurb": "CREST HILL, ILL. — Cawley Commercial Real Estate has negotiated a lease for a newly constructed industrial facility totaling 577,422 square feet in Crest Hill on behalf of MWI Property Group. The tenant is a global logistics company. Situated on 37 acres within Crest Hill Business Park, the cross-docked warehouse…",
-      "url": "https://rebusinessonline.com/cawley-cre-negotiates-577422-sf-industrial-lease-in-crest-hill-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-18T13:06:02.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "general",
-      "title": "Inland Acquires 859-Unit Self-Storage Facility in Joliet, Illinois",
-      "blurb": "JOLIET, ILL. — Inland Real Estate Acquisitions LLC has purchased an 859-unit self-storage facility in Joliet, about 40 miles southwest of Chicago. Mark Cosenza and Brett Smith completed the transaction on behalf of an Inland affiliate. Previously an ExtraSpace Self Storage property, the facility will be rebranded and…",
-      "url": "https://rebusinessonline.com/inland-acquires-859-unit-self-storage-facility-in-joliet-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-18T13:03:00.000Z"
     }
   ]
 }
