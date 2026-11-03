@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-02T15:22:27.299Z",
+  "generatedAt": "2026-11-03T00:49:54.458Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "hospitality",
+      "title": "Gencom, White Bridge Capital Purchase 652-Room InterContinental Miami Hotel",
+      "blurb": "MIAMI — A partnership between Gencom and locally based White Bridge Capital has purchased the InterContinental Miami, a 652-room hotel located at 100 Chopin Plaza in downtown Miami. Strategic Hotels &#38; Resorts sold the hotel. The sales price was not disclosed, but Bloomberg reports it traded for approximately $300…",
+      "url": "https://rebusinessonline.com/gencom-white-bridge-capital-purchase-652-room-intercontinental-miami-hotel/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-02T15:40:05.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "general",
