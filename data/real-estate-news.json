@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-03T13:56:50.885Z",
+  "generatedAt": "2026-11-03T23:05:55.979Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "industrial",
+      "title": "Colliers Secures $8.5M Sale of Industrial Building in Denver",
+      "blurb": "DENVER — Colliers Denver Investment Services Group has arranged the sale of 4001 Holly Street, a multi-tenant industrial building on 2.5 acres in Denver’s North Central submarket. DMS Real Estate sold the asset to Watumull Properties Corp. for $8.5 million. T.J. Smith, Nick Rice and Brad Calbert of Colliers Denver…",
+      "url": "https://rebusinessonline.com/colliers-secures-8-5m-sale-of-industrial-building-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-03T16:18:13.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "retail",
+      "title": "Colliers Negotiates $14M Sale of Shopping Center in Gulf Breeze, Florida",
+      "blurb": "GULF BREEZE, FLA. — Colliers has negotiated the $14 million sale of Live Oak Village, a 107,065-square-foot shopping center located at 1151 Gulf Breeze Parkway in Gulf Breeze, a beach town in Florida’s Panhandle. Brad Peterson and Whitaker Leonhardt of Colliers represented the seller, Exposition Properties, in the…",
+      "url": "https://rebusinessonline.com/colliers-negotiates-14m-sale-of-shopping-center-in-gulf-breeze-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-03T15:07:07.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "hospitality",
