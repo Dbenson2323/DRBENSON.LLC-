@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-04T14:10:21.381Z",
+  "generatedAt": "2026-11-04T23:29:02.248Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Colliers Arranges $70.6M Sale of Chicago Educational Facility",
+      "blurb": "CHICAGO — Colliers has arranged the $70.6 million sale of a purpose-built educational facility at 161 W. 9th St. within Chicago’s Roosevelt Collection. The 102,000-square-foot property is fully occupied by the British International School of Chicago, South Loop, under a long-term absolute net lease. W. P. Carey…",
+      "url": "https://rebusinessonline.com/colliers-arranges-70-6m-sale-of-chicago-educational-facility/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-04T15:14:33.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "industrial",
