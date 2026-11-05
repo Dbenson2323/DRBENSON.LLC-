@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-05T06:05:20.534Z",
+  "generatedAt": "2026-11-05T19:46:30.558Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "retail",
+      "title": "Continental Realty Buys Quebec Village Shopping Center Near Denver for $31M",
+      "blurb": "CENTENNIAL, COLO. — Continental Realty Corp. (CRC) has acquired Quebec Village Shopping Center, located at 8223 S. Quebec St. in Centennial, from Kensington Development Partners for $31 million. This adds to CRC’s regional portfolio, which includes the 266,000-square-foot Thornton Town Center that the company…",
+      "url": "https://rebusinessonline.com/continental-realty-buys-quebec-village-shopping-center-near-denver-for-31m/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-05T14:48:26.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "R2 Cos., Lagfin Complete Office-to-Residential Conversion Project in Chicago",
+      "blurb": "CHICAGO — R2 Cos. and Lagfin, the building’s owner, have completed development of the office-to-residential conversion at 79 W. Monroe in downtown Chicago’s Loop. Ware Malcomb’s Chicago office provided architecture and interior design services for the renovation of the historic 14-story building, which included…",
+      "url": "https://rebusinessonline.com/r2-cos-lagfin-complete-office-to-residential-conversion-project-in-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-05T14:38:43.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "JLL Arranges $25M Sale of FourNorth Apartments in Metro Chicago",
+      "blurb": "ARLINGTON HEIGHTS, ILL. — JLL Capital Markets has arranged the $25 million sale of FourNorth Apartments, a 76-unit boutique community in Arlington Heights. Completed in 2024, the property offers studio, one- and two-bedroom floor plans averaging 796 square feet. Amenities include a fitness center, resident lounge…",
+      "url": "https://rebusinessonline.com/jll-arranges-25m-sale-of-fournorth-apartments-in-metro-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-05T14:37:27.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Meridian Constructs 50,463 SF Industrial Build-to-Suit Project in Bartlett, Illinois",
+      "blurb": "BARTLETT, ILL. — Meridian Design Build has completed a 50,463-square-foot truck maintenance and tire storage facility for Pava Logistics within Blue Heron Business Park in Bartlett. The building marks the third build-to-suit project that Meridian has constructed within the park, which is owned by Abbott Land &#38;…",
+      "url": "https://rebusinessonline.com/meridian-completes-50463-sf-industrial-build-to-suit-project-in-bartlett-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-05T14:34:26.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "general",
@@ -747,33 +783,6 @@
       "url": "https://rebusinessonline.com/cawley-cre-arranges-sale-of-340000-sf-industrial-property-in-plainfield-illinois/",
       "sourceName": "REBusinessOnline",
       "publishedAt": "2026-09-22T12:56:59.000Z"
-    },
-    {
-      "market": "sanfrancisco",
-      "assetClass": "industrial",
-      "title": "Newmark Brokers Sale of Four-Building Industrial Portfolio in Silicon Valley",
-      "blurb": "MILPITAS, CALIF. —&#160;Newmark has arranged the sale of The Cadillac Court Industrial Portfolio, an industrial campus in Milpitas. An undisclosed seller sold the four-building property to Galvanize Real Estate, the sustainable real estate strategy of Galvanize, for an undisclosed price. Steve Golubchik, Edmund…",
-      "url": "https://rebusinessonline.com/newmark-brokers-sale-of-four-building-industrial-portfolio-in-silicon-valley/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-21T14:19:51.000Z"
-    },
-    {
-      "market": "denver",
-      "assetClass": "multifamily",
-      "title": "Livmark, Hillside to Develop 185-Unit Multifamily Community in Longmont, Colorado",
-      "blurb": "LONGMONT, COLO. —&#160;Livmark Communities and Hillside Commercial Group have started construction of Fielder at Fox Hill, an apartment and townhome property adjacent to Fox Hill Country Club golf course in Longmont. Landmark Construction Solutions is serving as general contractor and Greystar will manage the…",
-      "url": "https://rebusinessonline.com/livmark-hillside-to-develop-185-unit-multifamily-community-in-longmont-colorado/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-21T14:17:43.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "general",
-      "title": "Chicago’s 1901 Project Owners Reveal Renderings for New Music Hall",
-      "blurb": "CHICAGO — The 1901 Project owners have revealed renderings for the new Music Hall, a purpose-built live performance venue taking shape on the United Center campus in Chicago. Set to open in 2028 as a centerpiece of the first phase of the 1901 Project, the Music Hall will accommodate 6,000 guests and is being built…",
-      "url": "https://rebusinessonline.com/chicagos-1901-project-owners-reveal-renderings-for-new-music-hall/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-21T12:33:03.000Z"
     }
   ]
 }
