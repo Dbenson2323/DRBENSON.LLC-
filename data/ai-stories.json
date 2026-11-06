@@ -1,6 +1,402 @@
 {
-  "generatedAt": "2026-11-05T20:30:04.701Z",
+  "generatedAt": "2026-11-06T19:53:15.918Z",
   "stories": [
+    {
+      "id": "s1264943697",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "blurb": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T18:44:38.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800"
+    },
+    {
+      "id": "s730292778",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "blurb": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+    },
+    {
+      "id": "s1040257515",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "blurb": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1368458052.jpg?resize=1200,750"
+    },
+    {
+      "id": "s1716196921",
+      "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+      "blurb": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128. The post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-06T17:28:04.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "code",
+      "image": null
+    },
+    {
+      "id": "s956751168",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "blurb": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T17:23:52.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800"
+    },
+    {
+      "id": "s997888897",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "blurb": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real…",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "sourceName": "NVIDIA Blog",
+      "sourceType": "official",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-06T16:00:35.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "document",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png"
+    },
+    {
+      "id": "s344800332",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "blurb": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-06T15:54:47.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
+    },
+    {
+      "id": "s421668544",
+      "title": "maldiniecimilane-lgtm/samir-ai: AI - My Artificial Intelligence",
+      "blurb": "AI - My Artificial Intelligence",
+      "url": "https://github.com/maldiniecimilane-lgtm/samir-ai",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T14:20:18.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/344351596?v=4"
+    },
+    {
+      "id": "s594888311",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "blurb": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T14:10:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725"
+    },
+    {
+      "id": "s1581886542",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "blurb": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "sourceName": "Hugging Face",
+      "sourceType": "opensource",
+      "category": "Robotics",
+      "publishedAt": "2026-11-06T14:00:48.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/OAJMu2jr7i5jVAbmsKdZW.jpeg"
+    },
+    {
+      "id": "s1925367418",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "blurb": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T13:02:16.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+    },
+    {
+      "id": "s1175477728",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "blurb": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Robotics",
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675"
+    },
+    {
+      "id": "s1712526599",
+      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "blurb": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "sourceName": "MIT Technology Review",
+      "sourceType": "journalism",
+      "category": "Robotics",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600"
+    },
+    {
+      "id": "s386560854",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "blurb": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
+    {
+      "id": "s998491382",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "blurb": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T06:28:32.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
+    },
+    {
+      "id": "s2117251149",
+      "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+      "blurb": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned. The post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T04:25:07.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-12-scaled.png"
+    },
+    {
+      "id": "s914130832",
+      "title": "git-aarvin/mei: Is intelligence, artificial?",
+      "blurb": "Is intelligence, artificial?",
+      "url": "https://github.com/git-aarvin/mei",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T03:32:07.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/343625742?v=4"
+    },
+    {
+      "id": "s620540263",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "blurb": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1218992397",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "blurb": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "sourceName": "Hugging Face",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png"
+    },
+    {
+      "id": "s892207757",
+      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+      "blurb": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T22:58:21.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1763790880",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "blurb": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-05T22:40:55.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675"
+    },
+    {
+      "id": "s57859767",
+      "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+      "blurb": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training. The post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-05T21:33:00.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
+    },
     {
       "id": "s862128608",
       "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
@@ -18,6 +414,24 @@
       ],
       "icon": "brain",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1.png"
+    },
+    {
+      "id": "s1576324098",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "blurb": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-05T20:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
     },
     {
       "id": "s2062251776",
@@ -92,9 +506,639 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798"
     },
     {
+      "id": "s1887912307",
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "blurb": "User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are inherently dense and opaque, limiting interpretability. To address this gap, we argue that user embeddings can be understood as sparse superpositions of…",
+      "url": "https://arxiv.org/abs/2611.08487v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-05T18:59:42.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1887913268",
+      "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+      "blurb": "Scientific figures give research ideas a visual form through choices of abstraction, composition, and emphasis. Generative AI offers new ways to realize these choices, raising questions about explanatory clarity and purposeful visual expression. We examine these questions through a visual retrospective of 371 motivation and framework figures from 200…",
+      "url": "https://arxiv.org/abs/2611.08486v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-05T18:59:33.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1887914229",
+      "title": "Where and Why is Grounded Reasoning Useful?",
+      "blurb": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To do so, we introduce a chain-of-thought…",
+      "url": "https://arxiv.org/abs/2611.08485v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-05T18:59:32.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1887916151",
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "blurb": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population…",
+      "url": "https://arxiv.org/abs/2611.08483v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:59:29.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "code",
+      "image": null
+    },
+    {
+      "id": "s1887941137",
+      "title": "Scientist World: Grow a Research World for AI-Scientists",
+      "blurb": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-Scientists, that world is readable but not runnable, so we build Scientist World for them: every research paper becomes an executable environment. Our…",
+      "url": "https://arxiv.org/abs/2611.08478v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-05T18:58:17.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1887942098",
+      "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+      "blurb": "Modern video models possess strong visual priors, yet do not natively represent human action in metric 3D space. We present EgoGeneralist, which adapts pretrained video generators to unify action-conditioned egocentric video generation, pose estimation, and joint action-video generation. Our role-adaptive action renderer provides video-native…",
+      "url": "https://arxiv.org/abs/2611.08477v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Computer Vision",
+      "publishedAt": "2026-11-05T18:58:13.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1887946903",
+      "title": "XStack: A Benchmark for ML Repo Migration",
+      "blurb": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building and testing across frameworks and hardware. This migration is (1) a practical need, since it unlocks different hardware…",
+      "url": "https://arxiv.org/abs/2611.08472v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:55:54.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s1887969967",
+      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
+      "blurb": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an…",
+      "url": "https://arxiv.org/abs/2611.08469v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-11-05T18:55:31.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": null
+    },
+    {
+      "id": "s1887973811",
+      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
+      "blurb": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars…",
+      "url": "https://arxiv.org/abs/2611.08465v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:54:40.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1887976694",
+      "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
+      "blurb": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial corrective data: existing approaches learn to recover from failures by directly associating corrective actions with the observations in which they were demonstrated.…",
+      "url": "https://arxiv.org/abs/2611.08462v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-11-05T18:53:16.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1888000719",
+      "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
+      "blurb": "Learning dexterous manipulation from limited visual demonstrations is challenging because policies must acquire both perceptual grounding and precise control, while reinforcement learning (RL) in simulation can acquire rich control behaviors from large-scale interaction with privileged information. We introduce \\textbf{Latent RL Prior}, a two-stage…",
+      "url": "https://arxiv.org/abs/2611.08458v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-11-05T18:50:06.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1888001680",
+      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
+      "blurb": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step sizes can make training inefficient and are rarely used in…",
+      "url": "https://arxiv.org/abs/2611.08457v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-05T18:48:50.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1888005524",
+      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
+      "blurb": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relative Policy Optimization (GRPO) across task difficulty,…",
+      "url": "https://arxiv.org/abs/2611.08453v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-11-05T18:47:05.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1888006485",
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "blurb": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures…",
+      "url": "https://arxiv.org/abs/2611.08452v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-05T18:45:36.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1888029549",
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "blurb": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions…",
+      "url": "https://arxiv.org/abs/2611.08449v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:44:43.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1888033393",
+      "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
+      "blurb": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime persists and can switch within an episode, and each action combines an operation with state-dependent arguments whose feasible values…",
+      "url": "https://arxiv.org/abs/2611.08445v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-05T18:37:07.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1888037237",
+      "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
+      "blurb": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale to continuous monitoring of perceived safety along a route. We present an edge-assisted crowdsensing system: handlebar cameras supply street-level frames, a…",
+      "url": "https://arxiv.org/abs/2611.08441v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:33:58.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1888059340",
+      "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+      "blurb": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later release adds an augmentation that presents labels in…",
+      "url": "https://arxiv.org/abs/2611.08439v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-05T18:31:24.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1888060301",
+      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+      "blurb": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how…",
+      "url": "https://arxiv.org/abs/2611.08438v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-11-05T18:30:54.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1888062223",
+      "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
+      "blurb": "We introduce SM4RT, a multi-task cascade feed-forward model for dynamic scene reconstruction from RGB videos. While existing feed-forward approaches typically address geometry reconstruction and motion estimation separately--and often predict motions in a single coordinate frame that must account for camera movement--SM4RT solves these tasks sequentially…",
+      "url": "https://arxiv.org/abs/2611.08436v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-05T18:28:38.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1888065106",
+      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+      "blurb": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state, includes another person's health facts, or lacks a safety…",
+      "url": "https://arxiv.org/abs/2611.08433v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:27:20.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1888090092",
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "blurb": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels:…",
+      "url": "https://arxiv.org/abs/2611.08428v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:22:24.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1888092975",
+      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
+      "blurb": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely, calibrated, and informative while being efficient enough…",
+      "url": "https://arxiv.org/abs/2611.08425v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-05T18:21:07.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "eye",
+      "image": null
+    },
+    {
+      "id": "s1888096819",
+      "title": "Data-driven discovery of intrinsic Lie point symmetries of differential equation systems",
+      "blurb": "Discovering continuous symmetries directly from differential-equation data can reveal geometric structure for model reduction and scientific machine learning without symbolic determining equations or a closed-form representation of the governing system. We formulate intrinsic Lie point-symmetry discovery as an operator-theoretic problem on sampled…",
+      "url": "https://arxiv.org/abs/2611.08421v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-05T18:19:28.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1888097780",
+      "title": "On the limitations of molecular representations",
+      "blurb": "Molecular representations such as fingerprints and learned embeddings play a central role in cheminformatics and small-molecule machine learning. They serve as the primary input for a diverse array of tasks, including clustering, dataset splitting, and virtual screening, yet their evaluation is often limited to downstream model performance on narrow…",
+      "url": "https://arxiv.org/abs/2611.08420v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-05T18:19:19.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1888120844",
+      "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
+      "blurb": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve, they can discover valid solutions that existing verifiers reject, while changes to evaluation infrastructure can…",
+      "url": "https://arxiv.org/abs/2611.08417v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:18:39.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1888123727",
+      "title": "Spectral and Subspace Dynamics of LoRA in Supervised Fine-Tuning and Reinforcement Learning",
+      "blurb": "Low-rank adaptation (LoRA) is commonly used in both supervised fine-tuning (SFT) and reinforcement learning (RL), often under similar optimizer settings. Yet, how the different dynamics of the two stages manifest in the low-rank increment that LoRA optimizes remains unclear. Tracking the singular spectrum and subspaces of LoRA updates on mathematical…",
+      "url": "https://arxiv.org/abs/2611.08414v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI News",
+      "publishedAt": "2026-11-05T18:17:39.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1888124688",
+      "title": "T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models",
+      "blurb": "Vision-Language-Action (VLA) models enable end-to-end robot control, but inference is increasingly expensive. Each decision processes hundreds of visual tokens, often across multiple cameras, leading to substantial computation while allowing irrelevant background content to distract action prediction under distribution shift. We argue that these issues…",
+      "url": "https://arxiv.org/abs/2611.08413v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T18:17:29.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1888125649",
+      "title": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
+      "blurb": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substantive AI use, and manuscripts released by OpenAI provide a rich empirical basis for studying this question. However, several challenges remain: lack of matched…",
+      "url": "https://arxiv.org/abs/2611.08412v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-05T18:17:18.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1888148713",
+      "title": "Conformal Prediction for Time-Dependent PDEs",
+      "blurb": "Uncertainty quantification is crucial in scientific machine learning, where models inform safety-critical tasks such as flood forecasting, financial risk management, and thermal control in machines. Conformal prediction provides distribution-free coverage guarantees, but in time-dependent settings common to physics and engineering, these guarantees can…",
+      "url": "https://arxiv.org/abs/2611.08409v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-11-05T18:15:42.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": null
+    },
+    {
+      "id": "s1888150635",
+      "title": "Social Humanoid: Socially Responsive Human-Humanoid Interaction",
+      "blurb": "Humanoid robots are typically trained as solitary agents, leaving them unable to coordinate physically with human partners who naturally anticipate and adjust to one another. To bridge this gap, we present Social Humanoid, a hierarchical system that generates and executes socially responsive whole-body motion on a 29-DoF Unitree G1 conditioned on a human…",
+      "url": "https://arxiv.org/abs/2611.08407v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-11-05T18:14:06.000Z",
+      "factualScore": 96,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
+      "id": "s1888154479",
+      "title": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+      "blurb": "Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning trajectories with a preset budget. Its efficient variants reduce the cost mainly by stopping full-trajectory sampling early or distributing the number of samples across questions. In this paper, we propose…",
+      "url": "https://arxiv.org/abs/2611.08403v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-05T18:12:49.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
+      "id": "s1888805076",
+      "title": "A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation",
+      "blurb": "Haptic interactions, such as touching an object in virtual reality, involve detecting a plethora of sensations through the skin. Whilst tactile displays exist to simulate and manipulate all of these cues individually, little progress has been made constructing devices that can control multiple cues simultaneously. This paper presents a tactile display…",
+      "url": "https://arxiv.org/abs/2611.08398v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-05T18:10:25.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1888808920",
+      "title": "Synthesis of Ovarian Cancer Multi-Omics Datasets: A Biology-Informed Evaluation Framework",
+      "blurb": "Paired multi-omic cancer cohorts are costly to assemble and difficult to share, motivating synthetic cohorts as a complementary resource. As generative model development accelerates, we shift the focus from proposing yet another architecture to defining evaluation criteria that determine whether synthetic data preserve biologically relevant structure. We…",
+      "url": "https://arxiv.org/abs/2611.08394v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-05T18:07:06.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "rocket",
+      "image": null
+    },
+    {
+      "id": "s1888809881",
+      "title": "Adaptive Low-Light Enhancement for Road Anomaly Detection: A Multi-Architecture Benchmark and Edge Deployment Study",
+      "blurb": "Road anomaly detection systems on autonomous vehicles must function reliably under degraded visual conditions including darkness, rain, and Harmattan dust haze. This paper benchmarks four object detection architectures, YOLOv8n, YOLOv12n, RT-DETR, and Faster R-CNN, under physically grounded lighting and weather degradation, and shows that uniform…",
+      "url": "https://arxiv.org/abs/2611.08393v1",
+      "sourceName": "arXiv",
+      "sourceType": "paper",
+      "category": "Robotics",
+      "publishedAt": "2026-11-05T18:06:59.000Z",
+      "factualScore": 100,
+      "qualityScore": 93,
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": null
+    },
+    {
       "id": "s2079463040",
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "blurb": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "blurb": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
       "sourceName": "TechCrunch AI",
       "sourceType": "journalism",
@@ -162,6 +1206,24 @@
       ],
       "icon": "globe",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png"
+    },
+    {
+      "id": "s1804179651",
+      "title": "Australian universities are creating AI-native graduates",
+      "blurb": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T17:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
     },
     {
       "id": "s364869304",
@@ -362,6 +1424,24 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
     },
     {
+      "id": "s1462001406",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "blurb": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
       "id": "s1278942927",
       "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
       "blurb": "OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter. The post OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation appeared first on MarkTechPost .",
@@ -395,7 +1475,7 @@
         "#22D3EE"
       ],
       "icon": "document",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-7-scaled.png"
+      "image": null
     },
     {
       "id": "s570536099",
@@ -452,6 +1532,24 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677"
     },
     {
+      "id": "s972674925",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "blurb": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-05T00:45:15.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": null
+    },
+    {
       "id": "s1350667921",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "blurb": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -468,6 +1566,24 @@
       ],
       "icon": "document",
       "image": "https://huggingface.co/blog/assets/phonon-closer-look/thumbnail.png"
+    },
+    {
+      "id": "s1034836528",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "blurb": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "url": "https://openai.com/index/franklin-templeton",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "factualScore": 90,
+      "qualityScore": 85,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": null
     },
     {
       "id": "s1887105403",
@@ -1475,7 +2591,7 @@
         "#22D3EE"
       ],
       "icon": "eye",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-4-scaled.png"
+      "image": null
     },
     {
       "id": "s2050090712",
@@ -2862,6 +3978,24 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600"
+    },
+    {
+      "id": "s644616824",
+      "title": "MehrnooshYaghoubi/Artificial-Intelligence-Course: new AI project",
+      "blurb": "MehrnooshYaghoubi/Artificial-Intelligence-Course: new AI project",
+      "url": "https://github.com/MehrnooshYaghoubi/Artificial-Intelligence-Course",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-02T19:48:59.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/165517954?v=4"
     },
     {
       "id": "s155889427",
@@ -5165,1140 +6299,6 @@
         "#EAB308"
       ],
       "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1644547963",
-      "title": "Community safety report and new protections for teens",
-      "blurb": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-30T09:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1003507508",
-      "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-      "blurb": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89. The post Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost appeared first on…",
-      "url": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-30T07:26:12.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-scaled.png"
-    },
-    {
-      "id": "s176051956",
-      "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
-      "blurb": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic. The post Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-30T05:02:52.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
-    },
-    {
-      "id": "s1330492369",
-      "title": "VijayKumar0422/ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING: A collection of my learning journey in Artificial Intelligence (AI) and Machine Learning (ML). My AI/ML learning journey covering Python, SQL, NumPy, Pandas, EDA, Data Visualization, Statistics, Machine Learning, Deep Learning, GenAI, LLMs, Prompt Engineering, RAG, AI Agents, MCP, hands-on projects.",
-      "blurb": "A collection of my learning journey in Artificial Intelligence (AI) and Machine Learning (ML). My AI/ML learning journey covering Python, SQL, NumPy, Pandas, EDA, Data Visualization, Statistics, Machine Learning, Deep Learning, GenAI, LLMs, Prompt Engineering, RAG, AI Agents, MCP, hands-on projects.",
-      "url": "https://github.com/VijayKumar0422/ARTIFICIAL-INTELLIGENCE-AND-MACHINE-LEARNING",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-30T03:02:22.000Z",
-      "factualScore": 82,
-      "qualityScore": 74,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://avatars.githubusercontent.com/u/278304039?v=4"
-    },
-    {
-      "id": "s2064557878",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "blurb": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-30T01:20:48.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
-    },
-    {
-      "id": "s571587877",
-      "title": "Fair use benefits everyone",
-      "blurb": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1908166065",
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "blurb": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
-    },
-    {
-      "id": "s407764969",
-      "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
-      "blurb": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens. The post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T21:20:29.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1209-3-scaled.png"
-    },
-    {
-      "id": "s1304374169",
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "blurb": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T20:08:31.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800"
-    },
-    {
-      "id": "s2050251376",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "blurb": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T20:05:47.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672"
-    },
-    {
-      "id": "s378141",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "blurb": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T19:56:19.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ADT-logo.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1987191504",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "blurb": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T19:14:36.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625"
-    },
-    {
-      "id": "s671809411",
-      "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
-      "blurb": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared first on MarkTechPost .",
-      "url": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-      "sourceName": "MarkTechPost",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T18:28:57.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1331856624",
-      "title": "nixnord/claustroscope: ClaustroScope is an artificial intelligence pipeline that evaluates how claustrophobic an image looks and regenerates it into a psychologically distorted canvas reflecting the state of mind of someone trapped inside.",
-      "blurb": "ClaustroScope is an artificial intelligence pipeline that evaluates how claustrophobic an image looks and regenerates it into a psychologically distorted canvas reflecting the state of mind of someone trapped inside.",
-      "url": "https://github.com/nixnord/claustroscope",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T18:13:08.000Z",
-      "factualScore": 82,
-      "qualityScore": 74,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://avatars.githubusercontent.com/u/73107104?v=4"
-    },
-    {
-      "id": "s1052687877",
-      "title": "Elucidating the Design Space of LM Data Attribution",
-      "blurb": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, making it impossible to isolate exactly why an attribution algorithm fails. To diagnose these failures, we explore the design space of LLM data attribution,…",
-      "url": "https://arxiv.org/abs/2610.40655v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:59:53.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1052688838",
-      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-      "blurb": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets these records dictate the noise even when the remaining data would allow far less. Removing them first would restore the smaller scale, but…",
-      "url": "https://arxiv.org/abs/2610.40654v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-29T17:59:49.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1052689799",
-      "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
-      "blurb": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editors can adjust the precise timing of clips to control the length of a meaningful silence, or cut to shots that highlight a specific character's reactions to…",
-      "url": "https://arxiv.org/abs/2610.40653v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-29T17:59:49.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1052713824",
-      "title": "Rethinking Neural Thickets Without Weight Perturbations",
-      "blurb": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement,…",
-      "url": "https://arxiv.org/abs/2610.40649v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:59:29.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1052715746",
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "blurb": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not necessarily require more global communication: low-frequency structure benefits from global exchange, while high-frequency detail can be modeled…",
-      "url": "https://arxiv.org/abs/2610.40647v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-29T17:59:21.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1052716707",
-      "title": "SwapBot: Tool-Centric Robot Manipulation via Interchangeable End-Effectors and Tactile Sensing",
-      "blurb": "Robot manipulation in everyday environments inherently involves substantial tool usage. Seemingly simple household tasks, such as cooking pan-fried tofu, require forceful cutting, delicate brushing, and precise placement using different tools under contact-rich interaction. Thus, the ability to autonomously swap and use task-appropriate tools is important…",
-      "url": "https://arxiv.org/abs/2610.40646v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-29T17:59:20.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1052718629",
-      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-      "blurb": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realizations absent from that record. A divergence ball around the empirical distribution contains only reweightings of the record, whereas a…",
-      "url": "https://arxiv.org/abs/2610.40644v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T17:59:01.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s1052719590",
-      "title": "Luggage re-identification: A study of strategies towards a real-world application",
-      "blurb": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports,…",
-      "url": "https://arxiv.org/abs/2610.40643v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-29T17:58:59.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1052721512",
-      "title": "From extreme weather to agricultural consequences with agentic AI",
-      "blurb": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many sources. We present WxCrop, the first agent that judges agricultural hazards from physically interpretable weather…",
-      "url": "https://arxiv.org/abs/2610.40641v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T17:58:53.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1052722473",
-      "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
-      "blurb": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled with dynamic objects and events, remains largely unmodeled in prior work. We introduce Video-to-4DAVScene, a new task that turns a video…",
-      "url": "https://arxiv.org/abs/2610.40640v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-29T17:58:45.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1052745537",
-      "title": "world2vec: Mechanistic world models through latent dynamics learning",
-      "blurb": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduce world2vec to learn mechanistic world models without reward information directly from observations and actions. World2vec learns latent…",
-      "url": "https://arxiv.org/abs/2610.40637v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-29T17:58:23.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1052746498",
-      "title": "Probing Spatial State Representations in Visual Foundation Models",
-      "blurb": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support…",
-      "url": "https://arxiv.org/abs/2610.40636v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-29T17:58:16.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1052750342",
-      "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
-      "blurb": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations to predict future actions and remain difficult to interpret and adjust, symbolic priors offer a structured alternative. To this end, we…",
-      "url": "https://arxiv.org/abs/2610.40632v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-29T17:58:00.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1052775328",
-      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-      "blurb": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This brittleness has a mechanistic root: Alignment is shallow, with safety behavior concentrated in a model's first few output tokens, and existing defenses inherit…",
-      "url": "https://arxiv.org/abs/2610.40627v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:56:53.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s691434603",
-      "title": "Appkademiya/CAISP: The Certified AI Security Practitioner (CAISP) is an advanced, hands-on certification designed for cybersecurity professionals, penetration testers, and DevSecOps engineers who want to master the art and science of securing artificial intelligence systems.",
-      "blurb": "The Certified AI Security Practitioner (CAISP) is an advanced, hands-on certification designed for cybersecurity professionals, penetration testers, and DevSecOps engineers who want to master the art and science of securing artificial intelligence systems.",
-      "url": "https://github.com/Appkademiya/CAISP",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T17:55:32.000Z",
-      "factualScore": 82,
-      "qualityScore": 74,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://avatars.githubusercontent.com/u/314912379?v=4"
-    },
-    {
-      "id": "s1052803197",
-      "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
-      "blurb": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding, with no test behind it. Assertions about how events unfold across many cases fill the Web, and each is a temporal hypothesis that only a significance test…",
-      "url": "https://arxiv.org/abs/2610.40619v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:55:30.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1052804158",
-      "title": "An ODE-based Sampler for Discrete Diffusion Models",
-      "blurb": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated sampling and consistency distillation. In this paper we address the question whether an analogous formulation exists for discrete diffusion models and answer…",
-      "url": "https://arxiv.org/abs/2610.40618v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-29T17:55:25.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1052806080",
-      "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
-      "blurb": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a model's training set. The standard approach scores an image by its reconstruction loss and flags low-loss images as members. This often fails because some images…",
-      "url": "https://arxiv.org/abs/2610.40616v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-29T17:54:54.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1052808002",
-      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
-      "blurb": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches rely on either temporal context or explicit 3D memory, both of which scale poorly because memory grows with the length of the generated stream. Moreover,…",
-      "url": "https://arxiv.org/abs/2610.40614v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-29T17:54:42.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s249063160",
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "blurb": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T17:54:38.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?resize=1200,675"
-    },
-    {
-      "id": "s1052808963",
-      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
-      "blurb": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys, and the acceptance rate is unchanged. It also preserves output diversity and adds no measurable inference latency. Its predecessor, TextSeal, restores…",
-      "url": "https://arxiv.org/abs/2610.40613v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:54:12.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s1052810885",
-      "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
-      "blurb": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluate both together on 28,058 decision points. Stage-wise generation scores are oracle-gate ceilings: behind a real gate, end-to-end exact match is 0.2619 against…",
-      "url": "https://arxiv.org/abs/2610.40611v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:54:07.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1052834910",
-      "title": "Fight World Model: Customizable Combat through Visual Interaction Proxies",
-      "blurb": "A playable, programmable game world must maintain persistent state, enforce executable rules, and support extensible gameplay mechanics. Existing video world models can generate plausible combat, yet struggle to keep hit reactions and health updates consistent with game rules. We introduce Fight World Model (FWM), which separates rule-governed combat…",
-      "url": "https://arxiv.org/abs/2610.40607v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-29T17:53:02.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1052841637",
-      "title": "A Conveyor Belt Mechanism for Repositionable Magnetic Coupling Between Continuum Robots",
-      "blurb": "This work proposes a novel conveyor belt mechanism enabling continuous, active repositioning of functional elements along the body of a tendon-driven continuum robot. Up to three conveyor belt mechanisms are integrated within a 9 mm diameter continuum robot. We demonstrate equivalent or reduced conveyor belt actuation forces compared to robot tendon…",
-      "url": "https://arxiv.org/abs/2610.40600v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-29T17:50:56.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1053488390",
-      "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "blurb": "The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce realistic hair or a single fused mesh, while CHARM, the only generator of stylized hair cards, decodes a hairstyle autoregressively as a long sequence of…",
-      "url": "https://arxiv.org/abs/2610.40599v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-10-29T17:50:26.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1053518181",
-      "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
-      "blurb": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but may draw conclusions that the evidence does not support. Here, we present an autonomous research laboratory in which…",
-      "url": "https://arxiv.org/abs/2610.40589v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:47:50.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1053519142",
-      "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
-      "blurb": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written. Can an overseer tell beforehand that an agent is about to give in? We show that a linear probe on the agent's activations can, in a controlled multi-agent…",
-      "url": "https://arxiv.org/abs/2610.40588v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:47:40.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1053520103",
-      "title": "Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation",
-      "blurb": "In real-world clinical settings, dental X-ray segmentation using deep learning methods suffers from reliability issues. Even when the segmentation quality is bad, deep learning models show high confidence in their predictions (calibrational blindness). Moreover, in real use, doctors do not have ground-truth masks to check their accuracy. To address this…",
-      "url": "https://arxiv.org/abs/2610.40587v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-10-29T17:47:25.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1053521064",
-      "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
-      "blurb": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. While multistatic ISAC can increase sensing coverage with spatially distributed receivers, dense and dynamic clutter can significantly degrade bistatic range and…",
-      "url": "https://arxiv.org/abs/2610.40586v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-29T17:47:02.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1053526830",
-      "title": "RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection",
-      "blurb": "Current zero-shot anomaly detection methods often rely on complex prompt-learning techniques or computationally expensive sliding-window strategies to achieve fine-grained visual alignment to detect small-scale anomalies. This reliance stems from the fundamental limitation of standard CLIP architectures, where [CLS] token attention and spatial patch…",
-      "url": "https://arxiv.org/abs/2610.40580v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:45:35.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1053548933",
-      "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
-      "blurb": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt vision-language models (VLMs) to judge trajectories or generate programs to inspect application state. However, both rely…",
-      "url": "https://arxiv.org/abs/2610.40578v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:45:26.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1053549894",
-      "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
-      "blurb": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert budget. Dense evaluation of all experts reveals weak agreement between single-router rankings and expert-utility evaluation rankings, especially in middle and…",
-      "url": "https://arxiv.org/abs/2610.40577v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-29T17:45:12.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s1053550855",
-      "title": "PIVOT: Progressive Intervention via Online Teacher Correction",
-      "blurb": "Reinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal. Stronger teachers can provide additional guidance, but this raises a central question: how can such signals be incorporated into RLVR to support successful rollouts…",
-      "url": "https://arxiv.org/abs/2610.40576v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-29T17:45:07.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1053552777",
-      "title": "Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation",
-      "blurb": "On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references. However, existing approaches keep the teacher fixed either throughout training by consistently exposing it to the full reference, or within each response by adaptively varying partial reference…",
-      "url": "https://arxiv.org/abs/2610.40574v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:44:42.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1053581607",
-      "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
-      "blurb": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a narrow range of real-world tasks and physical phenomena. The core bottleneck is that creating better simulations requires significant expert effort and…",
-      "url": "https://arxiv.org/abs/2610.40565v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-10-29T17:42:32.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1053582568",
-      "title": "Training Foundation Models with a Single Algorithm",
-      "blurb": "Foundation models are typically trained in stages: pretraining, midtraining, supervised fine-tuning (SFT), and reinforcement learning (RL), with changes in both data and learning algorithms. We show that this algorithmic separation is not fundamental. By deriving suitable RL objectives as maximum-likelihood fitting to model-generated target distributions,…",
-      "url": "https://arxiv.org/abs/2610.40564v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-10-29T17:42:05.000Z",
-      "factualScore": 96,
-      "qualityScore": 93,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s1053583529",
-      "title": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
-      "blurb": "This study investigates the capabilities of Large Language Models to simulate counselling clients in educational role-plays in comparison to human role-players. Initially, we recorded role-playing sessions, where novice counsellors interacted with human peers acting as clients, followed by role-plays between humans and clients simulated by Mistrals Mixtral…",
-      "url": "https://arxiv.org/abs/2610.40563v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T17:41:59.000Z",
-      "factualScore": 100,
-      "qualityScore": 93,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1148641449",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "blurb": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "url": "https://openai.com/index/updated-model-spec",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s791337339",
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "blurb": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T17:00:00.000Z",
-      "factualScore": 82,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798"
-    },
-    {
-      "id": "s2073781917",
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "blurb": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T16:42:32.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800"
-    },
-    {
-      "id": "s304849719",
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "blurb": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-10-29T16:21:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675"
-    },
-    {
-      "id": "s1904566324",
-      "title": "Accelerating Frontier Transformation: Reshape business processes",
-      "blurb": "Discover how organizations are reshaping business processes with AI by connecting knowledge, building trust, and measuring outcomes that create lasting business value. The post Accelerating Frontier Transformation: Reshape business processes appeared first on The Microsoft Cloud Blog .",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/29/accelerating-frontier-transformation-reshape-business-processes/",
-      "sourceName": "Microsoft AI Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T15:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2026/10/Accelerating-Frontier-reshape-business-2.jpg"
-    },
-    {
-      "id": "s861407582",
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "blurb": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "Industry & Business",
-      "publishedAt": "2026-10-29T14:35:26.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620"
-    },
-    {
-      "id": "s331977193",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "blurb": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T13:37:07.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png"
-    },
-    {
-      "id": "s938615666",
-      "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-      "blurb": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, […]",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/",
-      "sourceName": "NVIDIA Blog",
-      "sourceType": "official",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T13:00:16.000Z",
-      "factualScore": 94,
-      "qualityScore": 85,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gfn-thursday-10-29-blog-1920x1080-logo.jpg"
-    },
-    {
-      "id": "s1489783146",
-      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-      "blurb": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T13:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1439739130",
-      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "blurb": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T13:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1918578171",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "blurb": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "sourceName": "MIT Technology Review",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_AIsurveillance.jpg?resize=1200,600"
-    },
-    {
-      "id": "s213177520",
-      "title": "How we detect frontier model misalignment",
-      "blurb": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-10-29T09:00:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
       "image": null
     }
   ]
