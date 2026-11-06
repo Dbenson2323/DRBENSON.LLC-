@@ -1,6 +1,15 @@
 {
-  "generatedAt": "2026-11-06T14:09:44.545Z",
+  "generatedAt": "2026-11-06T22:56:10.109Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "office",
+      "title": "Cushman &#038; Wakefield Arranges $115M Sale of Chicago Office Tower",
+      "blurb": "CHICAGO — Cushman &#38; Wakefield has brokered the $115 million sale of 225 W. Wacker Drive, a Class A office tower overlooking the Chicago River in downtown Chicago. Prime Finance and Hines purchased the property from Spear Street Capital. The 31-story, 651,000-square-foot building is situated where Chicago’s West…",
+      "url": "https://rebusinessonline.com/cushman-wakefield-arranges-115m-sale-of-chicago-office-tower/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-06T14:43:54.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "general",
@@ -756,15 +765,6 @@
       "url": "https://rebusinessonline.com/adam-america-jw-capital-secure-180m-refinancing-for-student-housing-community-adjacent-to-florida-international-university/",
       "sourceName": "REBusinessOnline",
       "publishedAt": "2026-09-23T12:49:55.000Z"
-    },
-    {
-      "market": "miami",
-      "assetClass": "general",
-      "title": "Newmark Arranges Acquisition Financing for 1.7 MSF BRiC Office Campus in South Florida",
-      "blurb": "BOCA RATON, FLA. — Newmark has arranged an undisclosed amount of acquisition financing for Boca Raton Innovation Campus (BRiC), a 1.7 million-square-foot office and research-and-development campus located at 5000 T-Rex Ave. in Boca Raton. West Palm Beach, Fla.-based Related Ross purchased the 124-acre property for an…",
-      "url": "https://rebusinessonline.com/newmark-arranges-acquisition-financing-for-1-7-msf-bric-office-campus-in-south-florida/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-22T14:19:07.000Z"
     }
   ]
 }
