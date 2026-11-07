@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-06T19:53:15.918Z",
+  "generatedAt": "2026-11-07T17:58:23.204Z",
   "stories": [
+    {
+      "id": "s1605821662",
+      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+      "blurb": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in Buoyant’s own benchmark. The post Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM appeared first on…",
+      "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-07T08:16:33.000Z",
+      "factualScore": 82,
+      "qualityScore": 80,
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "shield",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-14-scaled.png"
+    },
+    {
+      "id": "s212265279",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "blurb": "The deal highlights the challenges of developing massive AI data centers.",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-07T01:40:28.000Z",
+      "factualScore": 78,
+      "qualityScore": 72,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+    },
+    {
+      "id": "s974066266",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "blurb": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-06T22:53:46.000Z",
+      "factualScore": 78,
+      "qualityScore": 80,
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+    },
     {
       "id": "s1264943697",
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -71,7 +125,7 @@
         "#0EA5E9"
       ],
       "icon": "code",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-13-scaled.png"
     },
     {
       "id": "s956751168",
@@ -218,6 +272,24 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675"
     },
     {
+      "id": "s1409946640",
+      "title": "hungtranvg62/Chess-in-the-hand-of-AI: The international chess AI project for course Introduction to Artificial Intelligence semester 2026.1 at HUST.",
+      "blurb": "The international chess AI project for course Introduction to Artificial Intelligence semester 2026.1 at HUST.",
+      "url": "https://github.com/hungtranvg62/Chess-in-the-hand-of-AI",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-06T11:17:58.000Z",
+      "factualScore": 82,
+      "qualityScore": 74,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/87022813?v=4"
+    },
+    {
       "id": "s1712526599",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "blurb": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
@@ -344,6 +416,24 @@
       "image": "https://huggingface.co/blog/assets/open-asr-leaderboard-liva/thumbnail.png"
     },
     {
+      "id": "s503812995",
+      "title": "hakeem-shahra/AI-Projects: My Artificial intelligence and Data Science Projects",
+      "blurb": "My Artificial intelligence and Data Science Projects",
+      "url": "https://github.com/hakeem-shahra/AI-Projects",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-05T23:31:30.000Z",
+      "factualScore": 82,
+      "qualityScore": 66,
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/349553695?v=4"
+    },
+    {
       "id": "s892207757",
       "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
       "blurb": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video. The post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on MarkTechPost .",
@@ -359,7 +449,7 @@
         "#22D3EE"
       ],
       "icon": "eye",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-11-scaled.png"
     },
     {
       "id": "s1763790880",
@@ -395,7 +485,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-10-scaled.png"
     },
     {
       "id": "s862128608",
@@ -1475,7 +1565,7 @@
         "#22D3EE"
       ],
       "icon": "document",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-7-scaled.png"
     },
     {
       "id": "s570536099",
@@ -6210,96 +6300,6 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1701400012",
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "blurb": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-30T13:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800"
-    },
-    {
-      "id": "s1363062109",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "blurb": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-10-30T13:00:00.000Z",
-      "factualScore": 78,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200"
-    },
-    {
-      "id": "s1248283936",
-      "title": "liujiayuGIS/gaia: GAIA — Geospatial Artificial Intelligence Assistant · 地理空间人工智能助手盖亚",
-      "blurb": "GAIA — Geospatial Artificial Intelligence Assistant · 地理空间人工智能助手盖亚",
-      "url": "https://github.com/liujiayuGIS/gaia",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-30T12:53:19.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://avatars.githubusercontent.com/u/153276452?v=4"
-    },
-    {
-      "id": "s241555758",
-      "title": "ThreadDesolated/Xiamen-University-Artificial-Intelligence-Challenge: AutoLab：让 Agent 像研究生一样做实验——指标即奖励、失败即归因、配方可迁移、实验可一键复现（第六届厦门大学人工智能挑战赛·赛道二，队伍：泥虾）",
-      "blurb": "AutoLab：让 Agent 像研究生一样做实验——指标即奖励、失败即归因、配方可迁移、实验可一键复现（第六届厦门大学人工智能挑战赛·赛道二，队伍：泥虾）",
-      "url": "https://github.com/ThreadDesolated/Xiamen-University-Artificial-Intelligence-Challenge",
-      "sourceName": "GitHub Trending",
-      "sourceType": "opensource",
-      "category": "AI News",
-      "publishedAt": "2026-10-30T12:33:51.000Z",
-      "factualScore": 82,
-      "qualityScore": 66,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": "https://avatars.githubusercontent.com/u/316045993?v=4"
-    },
-    {
-      "id": "s900159196",
-      "title": "Making it easier for websites to express AI training preferences",
-      "blurb": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "sourceName": "OpenAI",
-      "sourceType": "official",
-      "category": "Robotics",
-      "publishedAt": "2026-10-30T09:30:00.000Z",
-      "factualScore": 90,
-      "qualityScore": 85,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
     }
   ]
 }
