@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:05:21.648Z",
+  "generatedAt": "2026-11-08T21:54:08.232Z",
   "news": [
     {
       "market": "chicago",
@@ -711,24 +711,6 @@
       "url": "https://rebusinessonline.com/berkadia-arranges-9-8m-refinancing-for-shopping-center-in-key-biscayne-florida/",
       "sourceName": "REBusinessOnline",
       "publishedAt": "2026-09-25T12:44:55.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "retail",
-      "title": "Newmark Arranges $95M Sale of Randhurst Village Shopping Center in Metro Chicago",
-      "blurb": "MOUNT PROSPECT, ILL. — Newmark has arranged the $95 million sale of Randhurst Village, a 931,798-square-foot power center in Mount Prospect. Conor Lalor and Keely Polczynski of Newmark represented the seller, DLC, with support from colleague Brian Schneiderman. The buyer was Rhino Investment Group. The transaction…",
-      "url": "https://rebusinessonline.com/newmark-arranges-95m-sale-of-randhurst-village-shopping-center-in-metro-chicago/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-24T14:18:45.000Z"
-    },
-    {
-      "market": "chicago",
-      "assetClass": "industrial",
-      "title": "Opus Begins Construction of 314,684 SF Spec Industrial Building in Joliet, Illinois",
-      "blurb": "JOLIET, ILL. — Opus has begun construction on Opus Intermodal at Joliet, a 314,684-square-foot speculative industrial building on 39 acres in Joliet. The project site is at the northeast corner of Patterson and West Laraway roads, directly across the street from Union Pacific’s Global IV intermodal terminal. Plans…",
-      "url": "https://rebusinessonline.com/opus-begins-construction-of-314684-sf-spec-industrial-building-in-joliet-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-24T14:17:53.000Z"
     }
   ]
 }
