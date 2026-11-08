@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T05:33:11.171Z",
+  "generatedAt": "2026-11-08T13:05:21.648Z",
   "news": [
     {
       "market": "chicago",
@@ -729,15 +729,6 @@
       "url": "https://rebusinessonline.com/opus-begins-construction-of-314684-sf-spec-industrial-building-in-joliet-illinois/",
       "sourceName": "REBusinessOnline",
       "publishedAt": "2026-09-24T14:17:53.000Z"
-    },
-    {
-      "market": "miami",
-      "assetClass": "general",
-      "title": "Nonprofit Breaks Ground on $380M Seniors Housing Project in Boynton Beach, Florida",
-      "blurb": "BOYNTON BEACH, FLA. — Green Cay Life Plan Village Inc., a nonprofit corporation, has broken ground on a continuing care retirement community (CCRC) project in Boynton Beach, approximately 30 miles north of Fort Lauderdale. Greenbrier Development LLC and BRP Senior Housing Management LLC, a Delray Beach-based…",
-      "url": "https://rebusinessonline.com/nonprofit-breaks-ground-on-380m-seniors-housing-project-in-boynton-beach-florida/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-24T12:30:00.000Z"
     }
   ]
 }
