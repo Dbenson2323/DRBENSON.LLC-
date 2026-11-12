@@ -32,7 +32,7 @@ export default function SiteHeader() {
   const isActive = (href) => normalize(href) === pathname;
 
   return (
-    <header className="sticky top-0 z-50 border-b border-white/10 bg-neutral-950/90 backdrop-blur-md text-white">
+    <header className="print:hidden sticky top-0 z-50 border-b border-white/10 bg-neutral-950/90 backdrop-blur-md text-white">
       <nav className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6" aria-label="Main">
         <Link href="/" className="text-lg font-bold tracking-tight hover:text-white/80">
           Duke Benson

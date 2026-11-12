@@ -5,10 +5,11 @@ import metricsData from "../../data/real-estate-metrics.json";
 import modelsData from "../../data/real-estate-models.json";
 import resourcesData from "../../data/real-estate-resources.json";
 import personalNotesData from "../../data/real-estate-personal-notes.json";
+import dashboardData from "../../data/real-estate-dashboard.json";
 
 export const metadata = {
   title: "Real Estate",
-  description: "Commercial real estate market news, interest rates, and deal-flow across four focus markets.",
+  description: "Commercial real estate market research, plus an asset management and development dashboard.",
 };
 
 export default function RealEstatePage() {
@@ -21,6 +22,7 @@ export default function RealEstatePage() {
       models={modelsData.models}
       resources={resourcesData.resources}
       personalNotes={personalNotesData.markets}
+      dashboard={dashboardData}
     />
   );
 }
