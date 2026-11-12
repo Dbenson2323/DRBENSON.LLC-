@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-11-11T13:55:51.942Z",
+  "generatedAt": "2026-11-12T00:23:09.364Z",
   "news": [
+    {
+      "market": "sanfrancisco",
+      "assetClass": "multifamily",
+      "title": "Northmarq Arranges $105M Refinancing for Madrone Apartments in Silicon Valley",
+      "blurb": "MOUNTAIN VIEW, CALIF. — Northmarq has arranged a $105 million refinancing of Madrone Apartments, a 272-unit community at 111 N. Rengstorff Ave. in Mountain View, 35 miles south of San Francisco. Nathan Prouty and Andrew Slaton of Northmarq arranged the financing on behalf of Prometheus Real Estate Group. New York…",
+      "url": "https://rebusinessonline.com/northmarq-arranges-105m-refinancing-for-madrone-apartments-in-silicon-valley/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-11T14:33:09.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "office",
+      "title": "Cushman &#038; Wakefield Brokers Sale of 41-Story Office Tower in Chicago",
+      "blurb": "CHICAGO — Cushman &#38; Wakefield has brokered the sale of 121 W. Wacker, a 41-story office tower overlooking the Chicago River. The buyers, Chicago-based investors Ken Buckman and Robert Castillo, intend to invest substantial capital to re-energize the nearly century-old building. Planned enhancements include a…",
+      "url": "https://rebusinessonline.com/cushman-wakefield-brokers-sale-of-41-story-office-tower-in-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-11T14:14:45.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "hospitality",
