@@ -1,0 +1,69 @@
+{
+  "_note": "EXAMPLE DATA for the Dashboard & Development tab. The properties, tenants, loans and figures are made up for layout and to show the calculations working. Replace them with real figures; set `example` to false once a section is real.",
+  "asOf": "2026-11-01",
+  "asset": {
+    "example": true,
+    "name": "Riverfront Flex Center",
+    "location": "Denver, CO",
+    "propertyType": "Industrial flex",
+    "totalSF": 84000,
+    "acquired": "2024-06-01",
+    "purchasePrice": 14500000,
+    "leaseType": "NNN",
+    "nonRecoverableExpenses": 165000,
+    "rentRoll": [
+      { "suite": "100", "tenant": "Front Range Logistics", "sf": 18000, "leaseStart": "2021-03-01", "leaseEnd": "2028-02-29", "rentPSF": 13.5 },
+      { "suite": "110", "tenant": "Summit Medical Supply", "sf": 9500, "leaseStart": "2022-07-01", "leaseEnd": "2028-06-30", "rentPSF": 14.25 },
+      { "suite": "120", "tenant": "Alpine Brewing Co.", "sf": 7200, "leaseStart": "2019-01-01", "leaseEnd": "2027-01-31", "rentPSF": 12.75 },
+      { "suite": "130", "tenant": null, "sf": 6800, "leaseStart": null, "leaseEnd": null, "rentPSF": null, "marketRentPSF": 14.0 },
+      { "suite": "140", "tenant": "Peak Solar Installers", "sf": 12000, "leaseStart": "2024-04-01", "leaseEnd": "2031-03-31", "rentPSF": 14.75 },
+      { "suite": "150", "tenant": "Mile High Fabrication", "sf": 15500, "leaseStart": "2020-09-01", "leaseEnd": "2029-08-31", "rentPSF": 12.95 },
+      { "suite": "160", "tenant": "Clearwater Labs", "sf": 8000, "leaseStart": "2025-02-01", "leaseEnd": "2032-01-31", "rentPSF": 15.5 },
+      { "suite": "170", "tenant": "Rocky Mountain HVAC", "sf": 7000, "leaseStart": "2023-05-01", "leaseEnd": "2026-12-31", "rentPSF": 13.25 }
+    ],
+    "leasing": [
+      { "tenant": "Ridgeline Robotics", "suite": "130", "sf": 6800, "dealType": "New", "status": "LOI out", "termMonths": 62, "startRentPSF": 14.25, "escalationPct": 3, "freeRentMonths": 2, "tiPSF": 20, "date": "2026-10-18" },
+      { "tenant": "Rocky Mountain HVAC", "suite": "170", "sf": 7000, "dealType": "Renewal", "status": "Negotiating", "termMonths": 36, "startRentPSF": 13.95, "escalationPct": 3, "freeRentMonths": 0, "tiPSF": 3, "date": "2026-09-30" },
+      { "tenant": "Clearwater Labs", "suite": "160", "sf": 8000, "dealType": "New", "status": "Signed", "termMonths": 84, "startRentPSF": 15.5, "escalationPct": 3, "freeRentMonths": 4, "tiPSF": 25, "date": "2024-11-15" },
+      { "tenant": "Peak Solar Installers", "suite": "140", "sf": 12000, "dealType": "New", "status": "Signed", "termMonths": 84, "startRentPSF": 14.75, "escalationPct": 3, "freeRentMonths": 3, "tiPSF": 15, "date": "2024-02-10" },
+      { "tenant": "Summit Medical Supply", "suite": "110", "sf": 9500, "dealType": "Renewal", "status": "Signed", "termMonths": 60, "startRentPSF": 14.25, "escalationPct": 2.5, "freeRentMonths": 1, "tiPSF": 5, "date": "2022-04-20" }
+    ],
+    "loan": {
+      "lender": "Sample Life Co.",
+      "originalAmount": 8700000,
+      "ratePct": 6.1,
+      "amortYears": 30,
+      "originated": "2024-06-01",
+      "maturity": "2031-06-01",
+      "covenants": { "minDSCR": 1.25, "maxLTV": 65, "minDebtYieldPct": 8.5 },
+      "currentValue": 15000000
+    }
+  },
+  "development": {
+    "example": true,
+    "name": "Sloan's Lake Residences",
+    "location": "Denver, CO",
+    "description": "120-unit garden-style multifamily, ground-up",
+    "units": 120,
+    "budget": [
+      { "category": "Land", "budget": 6200000, "spent": 6200000 },
+      { "category": "Hard costs", "budget": 25400000, "spent": 12650000 },
+      { "category": "Soft costs", "budget": 4600000, "spent": 2350000 },
+      { "category": "Financing & interest", "budget": 1300000, "spent": 520000 },
+      { "category": "Contingency", "budget": 1000000, "spent": 180000 }
+    ],
+    "constructionLoan": { "commitment": 25000000, "drawn": 12400000, "ratePct": 7.55 },
+    "milestones": [
+      { "name": "Land acquisition", "target": "2025-03-15", "actual": "2025-03-12", "weight": 5 },
+      { "name": "Entitlements & permits", "target": "2025-06-30", "actual": "2025-07-22", "weight": 5 },
+      { "name": "Construction loan closing", "target": "2025-08-01", "actual": "2025-08-05", "weight": 3 },
+      { "name": "Site work & foundations", "target": "2025-11-15", "actual": "2025-12-10", "weight": 12 },
+      { "name": "Vertical framing", "target": "2026-05-31", "actual": "2026-06-20", "weight": 20 },
+      { "name": "Roof & dry-in", "target": "2026-08-31", "actual": "2026-09-18", "weight": 10 },
+      { "name": "MEP rough-in", "target": "2026-10-31", "actual": null, "pctComplete": 70, "weight": 15 },
+      { "name": "Interior finishes", "target": "2027-02-28", "actual": null, "pctComplete": 0, "weight": 20 },
+      { "name": "Certificate of occupancy", "target": "2027-04-30", "actual": null, "pctComplete": 0, "weight": 5 },
+      { "name": "Lease-up to 90%", "target": "2027-12-31", "actual": null, "pctComplete": 0, "weight": 5 }
+    ]
+  }
+}

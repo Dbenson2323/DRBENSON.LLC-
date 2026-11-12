@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import RateCard from "./components/RateCard";
 import MarketOverview from "./components/MarketOverview";
 import MarketMetricCard from "./components/MarketMetricCard";
@@ -10,6 +10,7 @@ import NewsList from "./components/NewsList";
 import ModelsSection from "./components/ModelsSection";
 import ResourcesSection from "./components/ResourcesSection";
 import MyTake from "./components/MyTake";
+import DevDashboard from "./dashboard/DevDashboard";
 
 const MARKETS = [
   { key: "denver", label: "Denver" },
@@ -37,8 +38,35 @@ function formatDate(iso) {
   }
 }
 
-export default function RealEstateClient({ rates, ratesGeneratedAt, news, metrics, models, resources, personalNotes }) {
+const VIEWS = [
+  { key: "research", label: "Market Research" },
+  { key: "dashboard", label: "Dashboard & Development" },
+];
+
+export default function RealEstateClient({ rates, ratesGeneratedAt, news, metrics, models, resources, personalNotes, dashboard }) {
   const [activeMarket, setActiveMarket] = useState("denver");
+  const [view, setView] = useState("research");
+
+  // Keep the tab in the URL (#dashboard) so it can be linked and survives a refresh.
+  useEffect(() => {
+    // #dashboard and the dashboard's own section links (#development etc.)
+    // all belong to the dashboard tab.
+    const DASHBOARD_HASHES = ["#dashboard", "#asset-management", "#rent-roll", "#development", "#reports", "#build-out"];
+    const fromHash = () => {
+      const hash = window.location.hash;
+      if (DASHBOARD_HASHES.includes(hash)) setView("dashboard");
+      else if (!hash) setView("research");
+    };
+    fromHash();
+    window.addEventListener("hashchange", fromHash);
+    return () => window.removeEventListener("hashchange", fromHash);
+  }, []);
+
+  function selectView(key) {
+    setView(key);
+    const url = key === "dashboard" ? "#dashboard" : window.location.pathname;
+    window.history.replaceState(null, "", url);
+  }
   const [refreshing, setRefreshing] = useState(false);
 
   const marketNews = useMemo(
@@ -65,22 +93,47 @@ export default function RealEstateClient({ rates, ratesGeneratedAt, news, metric
         <button
           onClick={handleRefresh}
           title="Reload this page with the latest published data"
-          className="absolute top-6 right-6 text-xs font-semibold text-[#5C5443] hover:text-[#B54A32] border border-[#D8CDB8] hover:border-[#B54A32] rounded-full px-3 py-1.5 transition-colors"
+          className="print:hidden absolute top-6 right-6 text-xs font-semibold text-[#5C5443] hover:text-[#B54A32] border border-[#D8CDB8] hover:border-[#B54A32] rounded-full px-3 py-1.5 transition-colors"
         >
           {refreshing ? "Refreshing…" : "↻ Refresh"}
         </button>
         <h1 className="text-5xl md:text-6xl font-serif font-bold text-[#1F3A34]">Real Estate</h1>
         <p className="mt-3 text-[#5C5443] max-w-xl mx-auto">
-          A market analyst&apos;s view of commercial real estate — national interest rates,
-          deal news, and asset-class metrics across four focus markets.
+          {view === "dashboard"
+            ? "Asset management and development: rent rolls, leasing, debt, construction progress and reports."
+            : "A market analyst's view of commercial real estate — national interest rates, deal news, and asset-class metrics across four focus markets."}
         </p>
-        {ratesGeneratedAt && (
+        {view === "research" && ratesGeneratedAt && (
           <p className="mt-3 text-xs text-[#9C927C]">
             Rates &amp; news last updated {formatDate(ratesGeneratedAt)} · refreshes automatically every few hours
           </p>
         )}
       </header>
 
+      {/* Research / Dashboard tabs */}
+      <div className="flex justify-center gap-6 sm:gap-10 border-b border-[#D8CDB8] bg-[#FBF8F0] px-4 print:hidden" role="tablist">
+        {VIEWS.map((v) => (
+          <button
+            key={v.key}
+            type="button"
+            role="tab"
+            aria-selected={view === v.key}
+            onClick={() => selectView(v.key)}
+            className={`py-4 text-sm font-semibold uppercase tracking-wide border-b-2 transition-colors ${
+              view === v.key
+                ? "border-[#B54A32] text-[#1F3A34]"
+                : "border-transparent text-[#9C927C] hover:text-[#5C5443]"
+            }`}
+          >
+            {v.label}
+          </button>
+        ))}
+      </div>
+
+      {view === "dashboard" ? (
+        <DevDashboard data={dashboard} />
+      ) : (
+      <>
       {/* National interest rates */}
       <section className="max-w-4xl mx-auto px-6 py-12">
         <h2 className="text-2xl font-serif font-bold text-[#1F3A34] mb-2">
@@ -170,6 +223,8 @@ export default function RealEstateClient({ rates, ratesGeneratedAt, news, metric
         automatically from commercial real estate trade press. Asset-class metrics marked
         &ldquo;Example data&rdquo; are placeholders, not real market figures.
       </footer>
+      </>
+      )}
     </div>
   );
 }
