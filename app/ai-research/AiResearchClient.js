@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import StoryCard from "./components/StoryCard";
 import CapabilityCard from "./components/CapabilityCard";
+import LiveResults from "./components/LiveResults";
 import { SCORING_GUIDE } from "../../scripts/lib/scoreStory.mjs";
 
 function formatDate(iso) {
@@ -191,6 +192,13 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
   const [tab, setTab] = useState("feed");
   const [sort, setSort] = useState("newest");
   const [minFactual, setMinFactual] = useState(0);
+  const [liveQuery, setLiveQuery] = useState("");
+
+  function runLiveSearch(e) {
+    e.preventDefault();
+    const q = query.trim();
+    if (q.length >= 2) setLiveQuery(q);
+  }
 
   const categories = useMemo(() => {
     const set = new Set(stories.map((s) => s.category));
@@ -225,33 +233,36 @@ export default function AiResearchClient({ stories, generatedAt, capabilities })
           the community — scored for how factual vs. opinionated it is, and how well it&apos;s written.
         </p>
 
-        <div className="w-full max-w-xl relative">
+        <form onSubmit={runLiveSearch} className="w-full max-w-xl relative" role="search">
           <input
-            type="text"
+            type="search"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search AI research, models, labs…"
-            className="w-full rounded-full bg-white border border-gray-300 focus:border-gray-900 focus:outline-none px-6 py-3.5 text-sm text-gray-900 placeholder-gray-400"
+            aria-label="Search"
+            className="w-full rounded-full bg-white border border-gray-300 focus:border-gray-900 focus:outline-none pl-6 pr-32 py-3.5 text-sm text-gray-900 placeholder-gray-400"
           />
-          <span className="absolute right-5 top-1/2 -translate-y-1/2 text-gray-400">🔍</span>
-        </div>
-
-        {query.trim() && (
-          <a
-            href={`https://www.google.com/search?q=${encodeURIComponent(query.trim() + " AI")}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-xs text-gray-600 hover:text-gray-900 underline underline-offset-2 mt-3"
+          <button
+            type="submit"
+            disabled={query.trim().length < 2}
+            className="absolute right-1.5 top-1/2 -translate-y-1/2 rounded-full bg-gray-900 px-4 py-2 text-xs font-semibold text-white hover:bg-black disabled:bg-gray-300"
           >
-            {filtered.length} result{filtered.length === 1 ? "" : "s"} in this feed for &ldquo;{query.trim()}&rdquo;
-            — search the wider web instead ↗
-          </a>
-        )}
+            Search live
+          </button>
+        </form>
+
+        <p className="text-xs text-gray-500 mt-3">
+          {query.trim()
+            ? `${filtered.length} match${filtered.length === 1 ? "" : "es"} in this feed · press Search live to look beyond it`
+            : "Typing filters this feed · Search live checks outside news, papers and GitHub"}
+        </p>
 
         <p className="text-xs text-gray-400 mt-4">
           Last updated {formatDate(generatedAt)} · refreshes automatically every day
         </p>
       </header>
+
+      {liveQuery && <LiveResults query={liveQuery} onClose={() => setLiveQuery("")} />}
 
       {/* Feed / New Capabilities tabs */}
       <div className="flex justify-center gap-8 border-b border-gray-200 px-4">

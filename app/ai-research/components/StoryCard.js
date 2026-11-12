@@ -6,7 +6,9 @@ import ScoreBreakdown from "./ScoreBreakdown";
 import TechIcon from "./TechIcons";
 
 const SOURCE_TYPE_LABEL = {
+  journal: "Published Research",
   paper: "Preprint",
+  web: "Website",
   official: "Official Announcement",
   journalism: "Tech Journalism",
   opensource: "Open Source",
@@ -36,7 +38,10 @@ function timeAgo(iso) {
   const hours = Math.round(mins / 60);
   if (hours < 24) return `${hours}h ago`;
   const days = Math.round(hours / 24);
-  return `${days}d ago`;
+  if (days < 60) return `${days}d ago`;
+  const months = Math.round(days / 30);
+  if (months < 24) return `${months}mo ago`;
+  return `${Math.round(months / 12)}y ago`;
 }
 
 export default function StoryCard({ story, featured = false }) {
@@ -81,7 +86,13 @@ export default function StoryCard({ story, featured = false }) {
             <span>·</span>
             <span>{SOURCE_TYPE_LABEL[story.sourceType] ?? "Source"}</span>
             <span>·</span>
-            <span>{timeAgo(story.publishedAt)}</span>
+            {story.publishedAt && <span>{timeAgo(story.publishedAt)}</span>}
+            {story.traction && (
+              <>
+                <span>·</span>
+                <span>{story.traction}</span>
+              </>
+            )}
             <span className="uppercase tracking-wide text-[10px] font-semibold text-gray-400 ml-1">
               {story.category}
             </span>
@@ -107,6 +118,9 @@ export default function StoryCard({ story, featured = false }) {
 
       <div className={`pb-5 ${featured ? "sm:pl-[8.5rem]" : "sm:pl-20"}`}>
         <div className="flex flex-wrap items-center gap-2">
+          {typeof story.relevanceScore === "number" && (
+            <ScoreMeter label="Relevance" value={story.relevanceScore} />
+          )}
           <ScoreMeter label="Factual" value={story.factualScore} />
           <ScoreMeter label="Quality" value={story.qualityScore} />
           {story.factualVerdict && (

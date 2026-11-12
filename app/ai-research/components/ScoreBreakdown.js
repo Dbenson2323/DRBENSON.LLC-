@@ -67,6 +67,12 @@ export default function ScoreBreakdown({ story }) {
           total={story.qualityScore}
         />
       </div>
+      {typeof story.relevanceScore === "number" && (
+        <p className="mt-4 text-xs text-gray-700">
+          <span className="font-semibold">Relevance {story.relevanceScore}%:</span> {story.relevanceDetail}{" "}
+          (headline matches count more than summary matches; exact phrase adds a bonus).
+        </p>
+      )}
       <p className="mt-4 text-[11px] text-gray-500 leading-relaxed">
         <span className="font-semibold text-gray-700">Overall {story.overallScore}%</span> (60% factual,
         40% quality) · <span className="font-semibold text-gray-700">{story.confidence} confidence</span>,
