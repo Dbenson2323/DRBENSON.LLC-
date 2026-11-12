@@ -17,15 +17,17 @@
 export const SCORING_VERSION = 3;
 
 const SOURCE_PROFILES = {
+  journal: { label: "Published research", factual: 82, quality: 70 },
   paper: { label: "Research preprint", factual: 80, quality: 70 },
   official: { label: "Lab / company announcement", factual: 74, quality: 68 },
   opensource: { label: "Open-source project", factual: 72, quality: 60 },
   journalism: { label: "Tech journalism", factual: 70, quality: 66 },
+  web: { label: "Other website", factual: 58, quality: 55 },
   aggregator: { label: "Community aggregator", factual: 55, quality: 50 },
   community: { label: "Forum discussion", factual: 45, quality: 42 },
 };
 
-const PRIMARY_SOURCE_TYPES = new Set(["paper", "official", "opensource"]);
+const PRIMARY_SOURCE_TYPES = new Set(["journal", "paper", "official", "opensource"]);
 
 // --- word lists -----------------------------------------------------------
 
