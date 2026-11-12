@@ -24,6 +24,8 @@ const ASSET_CLASSES = [
   { key: "office", label: "Office" },
   { key: "retail", label: "Retail" },
   { key: "hospitality", label: "Hospitality" },
+  { key: "selfStorage", label: "Self-Storage" },
+  { key: "seniorHousing", label: "Senior Housing" },
 ];
 
 function formatDate(iso) {

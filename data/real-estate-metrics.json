@@ -8,7 +8,9 @@
         "industrial": { "example": true, "netAbsorptionSF": 450000, "underConstructionSF": 2100000, "vacancyRatePct": 8.1, "source": "Replace with your source" },
         "office": { "example": true, "netAbsorptionSF": -180000, "underConstructionSF": 600000, "vacancyRatePct": 18.4, "source": "Replace with your source" },
         "retail": { "example": true, "netAbsorptionSF": 90000, "underConstructionSF": 210000, "vacancyRatePct": 5.2, "source": "Replace with your source" },
-        "hospitality": { "example": true, "revparGrowthPct": 2.1, "occupancyPct": 64.3, "pipelineRooms": 1450, "source": "Replace with your source" }
+        "hospitality": { "example": true, "revparGrowthPct": 2.1, "occupancyPct": 64.3, "pipelineRooms": 1450, "source": "Replace with your source" },
+        "selfStorage": { "example": true, "occupancyPct": 89.5, "streetRateGrowthPct": -2.4, "underConstructionSF": 650000, "source": "Replace with your source" },
+        "seniorHousing": { "example": true, "occupancyPct": 86.8, "netAbsorptionUnits": 320, "underConstructionUnits": 1100, "source": "Replace with your source" }
       }
     },
     "chicago": {
@@ -18,7 +20,9 @@
         "industrial": { "example": true, "netAbsorptionSF": 3100000, "underConstructionSF": 9800000, "vacancyRatePct": 6.9, "source": "Replace with your source" },
         "office": { "example": true, "netAbsorptionSF": -420000, "underConstructionSF": 850000, "vacancyRatePct": 22.1, "source": "Replace with your source" },
         "retail": { "example": true, "netAbsorptionSF": 140000, "underConstructionSF": 300000, "vacancyRatePct": 6.0, "source": "Replace with your source" },
-        "hospitality": { "example": true, "revparGrowthPct": 1.4, "occupancyPct": 61.8, "pipelineRooms": 2100, "source": "Replace with your source" }
+        "hospitality": { "example": true, "revparGrowthPct": 1.4, "occupancyPct": 61.8, "pipelineRooms": 2100, "source": "Replace with your source" },
+        "selfStorage": { "example": true, "occupancyPct": 91.2, "streetRateGrowthPct": -1.1, "underConstructionSF": 480000, "source": "Replace with your source" },
+        "seniorHousing": { "example": true, "occupancyPct": 87.9, "netAbsorptionUnits": 410, "underConstructionUnits": 900, "source": "Replace with your source" }
       }
     },
     "miami": {
@@ -28,7 +32,9 @@
         "industrial": { "example": true, "netAbsorptionSF": 1900000, "underConstructionSF": 5200000, "vacancyRatePct": 4.3, "source": "Replace with your source" },
         "office": { "example": true, "netAbsorptionSF": 210000, "underConstructionSF": 1100000, "vacancyRatePct": 12.6, "source": "Replace with your source" },
         "retail": { "example": true, "netAbsorptionSF": 260000, "underConstructionSF": 480000, "vacancyRatePct": 3.8, "source": "Replace with your source" },
-        "hospitality": { "example": true, "revparGrowthPct": 4.2, "occupancyPct": 74.5, "pipelineRooms": 3200, "source": "Replace with your source" }
+        "hospitality": { "example": true, "revparGrowthPct": 4.2, "occupancyPct": 74.5, "pipelineRooms": 3200, "source": "Replace with your source" },
+        "selfStorage": { "example": true, "occupancyPct": 92.0, "streetRateGrowthPct": -3.0, "underConstructionSF": 900000, "source": "Replace with your source" },
+        "seniorHousing": { "example": true, "occupancyPct": 88.5, "netAbsorptionUnits": 380, "underConstructionUnits": 1600, "source": "Replace with your source" }
       }
     },
     "sanfrancisco": {
@@ -38,7 +44,9 @@
         "industrial": { "example": true, "netAbsorptionSF": 320000, "underConstructionSF": 780000, "vacancyRatePct": 5.5, "source": "Replace with your source" },
         "office": { "example": true, "netAbsorptionSF": -890000, "underConstructionSF": 1400000, "vacancyRatePct": 29.7, "source": "Replace with your source" },
         "retail": { "example": true, "netAbsorptionSF": -40000, "underConstructionSF": 90000, "vacancyRatePct": 8.9, "source": "Replace with your source" },
-        "hospitality": { "example": true, "revparGrowthPct": 3.0, "occupancyPct": 68.2, "pipelineRooms": 900, "source": "Replace with your source" }
+        "hospitality": { "example": true, "revparGrowthPct": 3.0, "occupancyPct": 68.2, "pipelineRooms": 900, "source": "Replace with your source" },
+        "selfStorage": { "example": true, "occupancyPct": 93.1, "streetRateGrowthPct": 0.8, "underConstructionSF": 150000, "source": "Replace with your source" },
+        "seniorHousing": { "example": true, "occupancyPct": 89.2, "netAbsorptionUnits": 150, "underConstructionUnits": 400, "source": "Replace with your source" }
       }
     }
   }
