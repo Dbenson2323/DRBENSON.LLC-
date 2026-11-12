@@ -5,10 +5,24 @@
       "market": "denver",
       "assetClass": "retail",
       "title": "Rouler Advisors Begins $2M Renovation of Westgate Shopping Center in Metro Denver",
-      "blurb": "LAKEWOOD, COLO. —&#160;Rouler Advisors has begun the $2 million renovation of Westgate Shopping Center, a 108,867-square-foot retail center located in Lakewood, approximately eight miles southwest of downtown Denver. Improvements will include a full parking lot replacement, new monument signage, building and…",
+      "blurb": "LAKEWOOD, COLO. — Rouler Advisors has begun the $2 million renovation of Westgate Shopping Center, a 108,867-square-foot retail center located in Lakewood, approximately eight miles southwest of downtown Denver. Improvements will include a full parking lot replacement, new monument signage, building and…",
       "url": "https://rebusinessonline.com/rouler-advisors-begins-2m-renovation-of-westgate-shopping-center-in-metro-denver/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-12T14:41:37.000Z"
+      "publishedAt": "2026-11-12T14:41:37.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Renovation",
+        "amount": "$2M",
+        "amountValue": 2000000,
+        "pricePerUnit": "$18 / SF",
+        "size": "108,867 SF",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Rouler Advisors"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -17,7 +31,25 @@
       "blurb": "LINCOLNWOOD, ILL. — JLL Capital Markets has arranged the $212.5 million sale and financing of The Carrington at Lincolnwood, a 383-unit senior living community in Lincolnwood. JLL’s national seniors housing capital markets team represented the seller, a partnership of LAMB Properties, Harbert South Bay Partners and…",
       "url": "https://rebusinessonline.com/jll-arranges-212-5m-sale-of-senior-living-community-in-lincolnwood-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-12T14:38:48.000Z"
+      "publishedAt": "2026-11-12T14:38:48.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$212.5M",
+        "amountValue": 212500000,
+        "pricePerUnit": "$555K / unit",
+        "size": "383 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets"
+          },
+          {
+            "role": "Seller",
+            "name": "LAMB Properties"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -26,7 +58,11 @@
       "blurb": "By Matthew Wurtzebach, Draper and Kramer Inc. Investors who only read national headlines about Chicago are missing an important reality that local players know and national players have rediscovered: Downtown Chicago and its adjacent submarkets are one of the strongest growth stories in multifamily. Enduring…",
       "url": "https://rebusinessonline.com/downtown-chicago-is-a-multifamily-growth-story/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-12T13:30:00.000Z"
+      "publishedAt": "2026-11-12T13:30:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Commentary"
+      }
     },
     {
       "market": "sanfrancisco",
@@ -35,16 +71,56 @@
       "blurb": "MOUNTAIN VIEW, CALIF. — Northmarq has arranged a $105 million refinancing of Madrone Apartments, a 272-unit community at 111 N. Rengstorff Ave. in Mountain View, 35 miles south of San Francisco. Nathan Prouty and Andrew Slaton of Northmarq arranged the financing on behalf of Prometheus Real Estate Group. New York…",
       "url": "https://rebusinessonline.com/northmarq-arranges-105m-refinancing-for-madrone-apartments-in-silicon-valley/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-11T14:33:09.000Z"
+      "publishedAt": "2026-11-11T14:33:09.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Refinancing",
+        "amount": "$105M",
+        "amountValue": 105000000,
+        "pricePerUnit": "$386K / unit",
+        "size": "272 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Northmarq"
+          },
+          {
+            "role": "Borrower",
+            "name": "Prometheus Real Estate Group"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
       "assetClass": "office",
-      "title": "Cushman &#038; Wakefield Brokers Sale of 41-Story Office Tower in Chicago",
-      "blurb": "CHICAGO — Cushman &#38; Wakefield has brokered the sale of 121 W. Wacker, a 41-story office tower overlooking the Chicago River. The buyers, Chicago-based investors Ken Buckman and Robert Castillo, intend to invest substantial capital to re-energize the nearly century-old building. Planned enhancements include a…",
+      "title": "Cushman & Wakefield Brokers Sale of 41-Story Office Tower in Chicago",
+      "blurb": "CHICAGO — Cushman & Wakefield has brokered the sale of 121 W. Wacker, a 41-story office tower overlooking the Chicago River. The buyers, Chicago-based investors Ken Buckman and Robert Castillo, intend to invest substantial capital to re-energize the nearly century-old building. Planned enhancements include a…",
       "url": "https://rebusinessonline.com/cushman-wakefield-brokers-sale-of-41-story-office-tower-in-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-11T14:14:45.000Z"
+      "publishedAt": "2026-11-11T14:14:45.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "41 stories",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Cushman & Wakefield"
+          },
+          {
+            "role": "Buyer",
+            "name": "Ken Buckman"
+          },
+          {
+            "role": "Buyer",
+            "name": "Robert Castillo"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -53,7 +129,25 @@
       "blurb": "LOMBARD, ILL. — Hunter Advisors has brokered the sale of the Embassy Suites by Hilton Chicago Lombard Oak Brook, a 262-room hotel in Lombard. Spencer Davidson and David Perrin of Hunter Advisors brokered the transaction. Endeavor Hotels acquired the asset. The 10-story, all-suite property was built in 1989 and is…",
       "url": "https://rebusinessonline.com/hunter-advisors-brokers-sale-of-262-room-embassy-suites-hotel-in-metro-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-10T14:21:49.000Z"
+      "publishedAt": "2026-11-10T14:21:49.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "262 rooms",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Hunter Advisors"
+          },
+          {
+            "role": "Buyer",
+            "name": "Endeavor Hotels"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -62,7 +156,21 @@
       "blurb": "JOLIET, ILL. — Logistics Property Co. LLC (LogiPropCo) has purchased a 74-acre site at 23960 S. Houbolt Road in Joliet. Located in the I-80 corridor, the site offers immediate proximity to BNSF’s Logistics Park Chicago Intermodal and Union Pacific’s Global 4 Intermodal Terminal. Construction will commence in spring…",
       "url": "https://rebusinessonline.com/logipropco-to-build-1-3-msf-industrial-facility-in-joliet-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-09T14:10:18.000Z"
+      "publishedAt": "2026-11-09T14:10:18.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "1.3M SF",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "LogiPropCo"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -71,16 +179,56 @@
       "blurb": "AURORA, ILL. — Newmark has brokered the sale of a 79,540-square-foot industrial building located at 3615 Exchange Ave. in Aurora. Corey Chase of Newmark arranged the sale. Situated within Meridian Business Park, the property sits on 4 acres and offers convenient access to I-88. The buyer plans to utilize the facility…",
       "url": "https://rebusinessonline.com/newmark-brokers-sale-of-79540-sf-industrial-building-in-aurora-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-09T14:06:46.000Z"
+      "publishedAt": "2026-11-09T14:06:46.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "79,540 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Newmark"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
       "assetClass": "office",
-      "title": "Cushman &#038; Wakefield Arranges $115M Sale of Chicago Office Tower",
-      "blurb": "CHICAGO — Cushman &#38; Wakefield has brokered the $115 million sale of 225 W. Wacker Drive, a Class A office tower overlooking the Chicago River in downtown Chicago. Prime Finance and Hines purchased the property from Spear Street Capital. The 31-story, 651,000-square-foot building is situated where Chicago’s West…",
+      "title": "Cushman & Wakefield Arranges $115M Sale of Chicago Office Tower",
+      "blurb": "CHICAGO — Cushman & Wakefield has brokered the $115 million sale of 225 W. Wacker Drive, a Class A office tower overlooking the Chicago River in downtown Chicago. Prime Finance and Hines purchased the property from Spear Street Capital. The 31-story, 651,000-square-foot building is situated where Chicago’s West…",
       "url": "https://rebusinessonline.com/cushman-wakefield-arranges-115m-sale-of-chicago-office-tower/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-06T14:43:54.000Z"
+      "publishedAt": "2026-11-06T14:43:54.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$115M",
+        "amountValue": 115000000,
+        "pricePerUnit": "$177 / SF",
+        "size": "651,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Cushman & Wakefield"
+          },
+          {
+            "role": "Buyer",
+            "name": "Prime Finance"
+          },
+          {
+            "role": "Buyer",
+            "name": "Hines"
+          },
+          {
+            "role": "Seller",
+            "name": "Spear Street Capital"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -89,7 +237,21 @@
       "blurb": "CASTLE ROCK, COLO. — Senior Living Investment Brokerage (SLIB) has arranged the sale of Brookside Inn, a skilled nursing facility located in Castle Rock, about 30 miles southeast of downtown Denver. A California-based skilled nursing operator acquired the asset from a Colorado-based entity, which has owned and…",
       "url": "https://rebusinessonline.com/slib-arranges-sale-of-126-bed-skilled-nursing-facility-in-castle-rock-colorado/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-06T13:57:04.000Z"
+      "publishedAt": "2026-11-06T13:57:04.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "126 beds",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "SLIB"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -98,7 +260,21 @@
       "blurb": "CENTENNIAL, COLO. — Continental Realty Corp. (CRC) has acquired Quebec Village Shopping Center, located at 8223 S. Quebec St. in Centennial, from Kensington Development Partners for $31 million. This adds to CRC’s regional portfolio, which includes the 266,000-square-foot Thornton Town Center that the company…",
       "url": "https://rebusinessonline.com/continental-realty-buys-quebec-village-shopping-center-near-denver-for-31m/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-05T14:48:26.000Z"
+      "publishedAt": "2026-11-05T14:48:26.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$31M",
+        "amountValue": 31000000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Continental Realty"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -107,7 +283,29 @@
       "blurb": "CHICAGO — R2 Cos. and Lagfin, the building’s owner, have completed development of the office-to-residential conversion at 79 W. Monroe in downtown Chicago’s Loop. Ware Malcomb’s Chicago office provided architecture and interior design services for the renovation of the historic 14-story building, which included…",
       "url": "https://rebusinessonline.com/r2-cos-lagfin-complete-office-to-residential-conversion-project-in-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-05T14:38:43.000Z"
+      "publishedAt": "2026-11-05T14:38:43.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Conversion",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "R2 Cos."
+          },
+          {
+            "role": "Developer",
+            "name": "Lagfin"
+          },
+          {
+            "role": "Architect",
+            "name": "Ware Malcomb"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -116,16 +314,44 @@
       "blurb": "ARLINGTON HEIGHTS, ILL. — JLL Capital Markets has arranged the $25 million sale of FourNorth Apartments, a 76-unit boutique community in Arlington Heights. Completed in 2024, the property offers studio, one- and two-bedroom floor plans averaging 796 square feet. Amenities include a fitness center, resident lounge…",
       "url": "https://rebusinessonline.com/jll-arranges-25m-sale-of-fournorth-apartments-in-metro-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-05T14:37:27.000Z"
+      "publishedAt": "2026-11-05T14:37:27.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$25M",
+        "amountValue": 25000000,
+        "pricePerUnit": "$329K / unit",
+        "size": "76 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
       "assetClass": "industrial",
       "title": "Meridian Constructs 50,463 SF Industrial Build-to-Suit Project in Bartlett, Illinois",
-      "blurb": "BARTLETT, ILL. — Meridian Design Build has completed a 50,463-square-foot truck maintenance and tire storage facility for Pava Logistics within Blue Heron Business Park in Bartlett. The building marks the third build-to-suit project that Meridian has constructed within the park, which is owned by Abbott Land &#38;…",
+      "blurb": "BARTLETT, ILL. — Meridian Design Build has completed a 50,463-square-foot truck maintenance and tire storage facility for Pava Logistics within Blue Heron Business Park in Bartlett. The building marks the third build-to-suit project that Meridian has constructed within the park, which is owned by Abbott Land &…",
       "url": "https://rebusinessonline.com/meridian-completes-50463-sf-industrial-build-to-suit-project-in-bartlett-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-05T14:34:26.000Z"
+      "publishedAt": "2026-11-05T14:34:26.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "50,463 SF",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Meridian Design Build"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -134,7 +360,21 @@
       "blurb": "CHICAGO — Colliers has arranged the $70.6 million sale of a purpose-built educational facility at 161 W. 9th St. within Chicago’s Roosevelt Collection. The 102,000-square-foot property is fully occupied by the British International School of Chicago, South Loop, under a long-term absolute net lease. W. P. Carey…",
       "url": "https://rebusinessonline.com/colliers-arranges-70-6m-sale-of-chicago-educational-facility/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-04T15:14:33.000Z"
+      "publishedAt": "2026-11-04T15:14:33.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$70.6M",
+        "amountValue": 70600000,
+        "pricePerUnit": "$692 / SF",
+        "size": "102,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Colliers"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -143,7 +383,29 @@
       "blurb": "DENVER — Colliers Denver Investment Services Group has arranged the sale of 4001 Holly Street, a multi-tenant industrial building on 2.5 acres in Denver’s North Central submarket. DMS Real Estate sold the asset to Watumull Properties Corp. for $8.5 million. T.J. Smith, Nick Rice and Brad Calbert of Colliers Denver…",
       "url": "https://rebusinessonline.com/colliers-secures-8-5m-sale-of-industrial-building-in-denver/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-03T16:18:13.000Z"
+      "publishedAt": "2026-11-03T16:18:13.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$8.5M",
+        "amountValue": 8500000,
+        "pricePerUnit": null,
+        "size": "2.5 acres",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Colliers Denver Investment Services Group"
+          },
+          {
+            "role": "Buyer",
+            "name": "Watumull Properties Corp."
+          },
+          {
+            "role": "Seller",
+            "name": "DMS Real Estate"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -152,16 +414,56 @@
       "blurb": "GULF BREEZE, FLA. — Colliers has negotiated the $14 million sale of Live Oak Village, a 107,065-square-foot shopping center located at 1151 Gulf Breeze Parkway in Gulf Breeze, a beach town in Florida’s Panhandle. Brad Peterson and Whitaker Leonhardt of Colliers represented the seller, Exposition Properties, in the…",
       "url": "https://rebusinessonline.com/colliers-negotiates-14m-sale-of-shopping-center-in-gulf-breeze-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-03T15:07:07.000Z"
+      "publishedAt": "2026-11-03T15:07:07.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$14M",
+        "amountValue": 14000000,
+        "pricePerUnit": "$131 / SF",
+        "size": "107,065 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Colliers"
+          },
+          {
+            "role": "Seller",
+            "name": "Exposition Properties"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
       "assetClass": "hospitality",
       "title": "Gencom, White Bridge Capital Purchase 652-Room InterContinental Miami Hotel",
-      "blurb": "MIAMI — A partnership between Gencom and locally based White Bridge Capital has purchased the InterContinental Miami, a 652-room hotel located at 100 Chopin Plaza in downtown Miami. Strategic Hotels &#38; Resorts sold the hotel. The sales price was not disclosed, but Bloomberg reports it traded for approximately $300…",
+      "blurb": "MIAMI — A partnership between Gencom and locally based White Bridge Capital has purchased the InterContinental Miami, a 652-room hotel located at 100 Chopin Plaza in downtown Miami. Strategic Hotels & Resorts sold the hotel. The sales price was not disclosed, but Bloomberg reports it traded for approximately $300…",
       "url": "https://rebusinessonline.com/gencom-white-bridge-capital-purchase-652-room-intercontinental-miami-hotel/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-02T15:40:05.000Z"
+      "publishedAt": "2026-11-02T15:40:05.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "652 rooms",
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Gencom"
+          },
+          {
+            "role": "Buyer",
+            "name": "White Bridge Capital"
+          },
+          {
+            "role": "Seller",
+            "name": "Strategic Hotels & Resorts"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -170,7 +472,25 @@
       "blurb": "BARTLETT, ILL. — SAMPA USA is expanding its Midwest presence with a new 62,000-square-foot facility at 2305 Kenyon Road in Bartlett. SAMPA USA, a Turkish company, will relocate from Romeoville and will utilize the new location as its Midwest distribution hub. Dan Brown of Brown Commercial Group represented the…",
       "url": "https://rebusinessonline.com/sampa-usa-to-open-62000-sf-distribution-facility-in-bartlett-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-02T14:01:00.000Z"
+      "publishedAt": "2026-11-02T14:01:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Expansion",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "62,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Brown Commercial Group"
+          },
+          {
+            "role": "Developer",
+            "name": "SAMPA USA"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -179,7 +499,29 @@
       "blurb": "NORRIDGE, ILL. — Jason Bitton of RE/MAX Commercial has arranged the $4.5 million sale of a mixed-use block totaling roughly 41,000 square feet on 1.9 acres in Norridge. A private investor was the seller. William Gold of Troy Realty Ltd. represented the buyer, Prospect Heights-based 1st Liberty Management Inc. The…",
       "url": "https://rebusinessonline.com/re-max-commercial-arranges-4-5m-sale-of-mixed-use-block-in-norridge-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-02T14:00:00.000Z"
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$4.5M",
+        "amountValue": 4500000,
+        "pricePerUnit": "$110 / SF",
+        "size": "41,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "RE/MAX Commercial"
+          },
+          {
+            "role": "Broker",
+            "name": "Troy Realty Ltd."
+          },
+          {
+            "role": "Buyer",
+            "name": "1st Liberty Management Inc"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -188,7 +530,25 @@
       "blurb": "LAKEWOOD, COLO. — Deerfield, Ill.-based Core Acquisitions and Chicago-based Midloch Investment Partners have acquired Lamar Station Plaza, a regional shopping center in Lakewood, approximately five miles west of downtown Denver. An undisclosed seller sold the asset for $30.2 million. Lamar Station Plaza features…",
       "url": "https://rebusinessonline.com/core-acquisitions-midloch-investment-buy-shopping-center-near-denver-for-30-2m/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-30T14:16:36.000Z"
+      "publishedAt": "2026-10-30T14:16:36.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$30.2M",
+        "amountValue": 30200000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Core Acquisitions"
+          },
+          {
+            "role": "Buyer",
+            "name": "Midloch Investment Partners"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -197,7 +557,25 @@
       "blurb": "GENEVA, ILL. — Venture One Real Estate, in partnership with BGO, will break ground on Venture Park Geneva, a 719,200-square-foot speculative industrial development in Geneva. The project site, spanning 54 acres, is located within the Fox Valley industrial submarket and offers convenient access to I-88 via the full…",
       "url": "https://rebusinessonline.com/venture-one-bgo-to-break-ground-on-719200-sf-spec-industrial-facility-in-geneva-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-29T13:40:56.000Z"
+      "publishedAt": "2026-10-29T13:40:56.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "719,200 SF",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Venture One"
+          },
+          {
+            "role": "Developer",
+            "name": "BGO"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -206,16 +584,44 @@
       "blurb": "MIAMI — SRS Real Estate Partners has negotiated the $8.9 million ground lease sale of a restaurant property located at 18240 S. Dixie Highway in Miami. Chick-fil-A occupies the 5,399-square-foot property, which was built in 2024, on an absolute triple-net, corporate-guaranteed lease with 13 years remaining on the…",
       "url": "https://rebusinessonline.com/srs-negotiates-8-9m-ground-lease-sale-of-miami-restaurant-leased-to-chick-fil-a/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-29T13:36:51.000Z"
+      "publishedAt": "2026-10-29T13:36:51.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$8.9M",
+        "amountValue": 8900000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "SRS Real Estate Partners"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
       "assetClass": "hospitality",
       "title": "Hunter Advisors Negotiates Sale of Two-Hotel Portfolio in South Florida",
-      "blurb": "BOYNTON BEACH AND WEST PALM BEACH, FLA. — Atlanta-based Hunter Advisors has negotiated the portfolio sale of two hotels in South Florida’s Palm Beach County. The hotels in the 275-room portfolio include the Hampton Inn &#38; Suites Boynton Beach and the Hampton Inn West Palm Beach Florida Turnpike. Brasswater…",
+      "blurb": "BOYNTON BEACH AND WEST PALM BEACH, FLA. — Atlanta-based Hunter Advisors has negotiated the portfolio sale of two hotels in South Florida’s Palm Beach County. The hotels in the 275-room portfolio include the Hampton Inn & Suites Boynton Beach and the Hampton Inn West Palm Beach Florida Turnpike. Brasswater…",
       "url": "https://rebusinessonline.com/hunter-advisors-negotiates-sale-of-two-hotel-portfolio-in-south-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-28T13:42:37.000Z"
+      "publishedAt": "2026-10-28T13:42:37.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Hunter Advisors"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -224,7 +630,25 @@
       "blurb": "DENVER — JLL Capital Markets has arranged $333.3 million in bridge financing for Palomino Park, a 1,184-unit multifamily portfolio located in Highlands Ranch, an unincorporated, master-planned community 12 miles south of Denver. Greystar provided the floating-rate loan for the borrower, a real estate fund advised by…",
       "url": "https://rebusinessonline.com/jll-arranges-333-3m-refinancing-for-1184-unit-multifamily-portfolio-near-denver/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-27T14:47:32.000Z"
+      "publishedAt": "2026-10-27T14:47:32.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Refinancing",
+        "amount": "$333.3M",
+        "amountValue": 333300000,
+        "pricePerUnit": "$282K / unit",
+        "size": "1,184 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets"
+          },
+          {
+            "role": "Lender",
+            "name": "Greystar"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -233,7 +657,21 @@
       "blurb": "LIBERTYVILLE, ILL. — Associated Bank has provided a $16.5 million loan toward the $22 million acquisition of Eleven5 Lake Apartments in Libertyville. The property features 34 units, 41 parking spaces and 25,147 square feet of commercial space. The apartments were 97 percent occupied at the time of acquisition. The…",
       "url": "https://rebusinessonline.com/associated-bank-provides-16-5m-in-financing-for-multifamily-property-in-libertyville-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-27T14:17:26.000Z"
+      "publishedAt": "2026-10-27T14:17:26.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": "$16.5M",
+        "amountValue": 16500000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Lender",
+            "name": "Associated Bank"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -242,7 +680,29 @@
       "blurb": "THORNTON, COLO. — EastGroup Properties has acquired 25 Commerce Park, a Class A industrial campus in Thornton, from Rockefeller Group for $94.5 million. Jeremy Ballenger and Tyler Carner of CBRE represented the seller in the deal. CBRE’s Todd Witty and Daniel Close fully leased the project prior to being marketed for…",
       "url": "https://rebusinessonline.com/eastgroup-buys-three-building-logistics-park-in-thornton-colorado-for-94-5m/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-26T13:18:26.000Z"
+      "publishedAt": "2026-10-26T13:18:26.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$94.5M",
+        "amountValue": 94500000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "CBRE"
+          },
+          {
+            "role": "Buyer",
+            "name": "EastGroup Properties"
+          },
+          {
+            "role": "Seller",
+            "name": "Rockefeller Group"
+          }
+        ]
+      }
     },
     {
       "market": "sanfrancisco",
@@ -251,7 +711,21 @@
       "blurb": "SUNNYVALE, CALIF. — MidPen Housing has completed and opened Ira D. Hall Square in Sunnyvale. The 176-unit property comprises studios, one-, two- and three-bedroom units that are reserved for residents earning up to 30 to 70 percent of the area median income, which is approximately $43,170 to $100,730 for a one-person…",
       "url": "https://rebusinessonline.com/midpen-housing-completes-176-unit-ira-d-hall-square-apartments-in-silicon-valley/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-26T13:16:59.000Z"
+      "publishedAt": "2026-10-26T13:16:59.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "176 units",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "MidPen Housing"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -260,7 +734,25 @@
       "blurb": "LOMBARD, ILL. — JLL Capital Markets has arranged the $10.1 million sale of a 21,071-square-foot retail strip center in Lombard. Built in 2003 and fully renovated in 2026 for medical tenancy, the property is fully leased to Duly Health and Care, Midwest Orthopaedics at Rush and Potbelly Sandwich Works. Alex Sharrin,…",
       "url": "https://rebusinessonline.com/jll-brokers-10-1m-sale-of-retail-strip-center-in-lombard-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-26T13:01:31.000Z"
+      "publishedAt": "2026-10-26T13:01:31.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$10.1M",
+        "amountValue": 10100000,
+        "pricePerUnit": "$479 / SF",
+        "size": "21,071 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets"
+          },
+          {
+            "role": "Tenant",
+            "name": "Duly Health"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -269,25 +761,75 @@
       "blurb": "DENVER — Denver-based RedPeak has purchased The Manchester, a multifamily community located at 2030 E. 11th Ave. in Denver’s Cheesman Park neighborhood. This is the first time the property has sold since it was developed in 1973. Terms of the transaction were not released. Craig Stack, Bill Morkes and Nate Moyer of…",
       "url": "https://rebusinessonline.com/redpeak-acquires-101-unit-manchester-apartments-in-denver/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-23T13:31:51.000Z"
+      "publishedAt": "2026-10-23T13:31:51.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "101 units",
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "RedPeak"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
       "assetClass": "industrial",
       "title": "SRS Arranges $133M Sale of Central Florida Industrial Property Occupied by Sherwin-Williams",
-      "blurb": "WINTER HAVEN, FLA. —&#160;SRS Real Estate Partners has arranged the $133 million sale of a 685,000-square-foot, single-tenant industrial property in Winter Haven occupied by Sherwin-Willaims. Situated on nearly 40 acres about 46 miles south of Orlando, the property serves as a major distribution center for…",
+      "blurb": "WINTER HAVEN, FLA. — SRS Real Estate Partners has arranged the $133 million sale of a 685,000-square-foot, single-tenant industrial property in Winter Haven occupied by Sherwin-Willaims. Situated on nearly 40 acres about 46 miles south of Orlando, the property serves as a major distribution center for…",
       "url": "https://rebusinessonline.com/srs-arranges-133m-sale-of-central-florida-industrial-property-occupied-by-sherwin-williams/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-23T13:26:55.000Z"
+      "publishedAt": "2026-10-23T13:26:55.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$133M",
+        "amountValue": 133000000,
+        "pricePerUnit": "$194 / SF",
+        "size": "685,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "SRS Real Estate Partners"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
       "assetClass": "general",
       "title": "CentrePoint Properties Divests of 52,743 SF Mixed-Use Property in Wheat Ridge, Colorado",
-      "blurb": "WHEAT RIDGE, COLO. — CentrePoint Properties has completed the sale of Wilmore Center, a mixed-use property in Wheat Ridge, to HCA HealthONE for $14.5 million. Jon Hendrickson and Aaron Johnson of Cushman &#38; Wakefield represented the seller in the transaction. Situated on 5 acres at 7615 W. 38th Ave., Wilmore…",
+      "blurb": "WHEAT RIDGE, COLO. — CentrePoint Properties has completed the sale of Wilmore Center, a mixed-use property in Wheat Ridge, to HCA HealthONE for $14.5 million. Jon Hendrickson and Aaron Johnson of Cushman & Wakefield represented the seller in the transaction. Situated on 5 acres at 7615 W. 38th Ave., Wilmore…",
       "url": "https://rebusinessonline.com/centrepoint-properties-divests-of-52743-sf-mixed-use-property-in-wheat-ridge-colorado/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-23T13:23:09.000Z"
+      "publishedAt": "2026-10-23T13:23:09.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$14.5M",
+        "amountValue": 14500000,
+        "pricePerUnit": null,
+        "size": "52,743 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Cushman & Wakefield"
+          },
+          {
+            "role": "Buyer",
+            "name": "HCA HealthONE"
+          },
+          {
+            "role": "Seller",
+            "name": "CentrePoint Properties"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -296,7 +838,21 @@
       "blurb": "EDWARDSVILLE, ILL. — Thyssenkrupp Supply Chain Services has signed a 769,000-square-foot industrial lease renewal and expansion at Lakeview V in Edwardsville near St. Louis. The transaction includes a three-year renewal of 600,000 square feet along with a 169,500-square-foot expansion. The tenant will now occupy the…",
       "url": "https://rebusinessonline.com/thyssenkrupp-inks-769000-sf-industrial-lease-renewal-in-edwardsville-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-23T13:17:35.000Z"
+      "publishedAt": "2026-10-23T13:17:35.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Lease",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "769,000 SF",
+        "parties": [
+          {
+            "role": "Tenant",
+            "name": "Thyssenkrupp"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -305,7 +861,21 @@
       "blurb": "WHEATON, ILL. — Mid-America Real Estate Corp. has arranged the sale of Rice Lake Square, a grocery-anchored shopping center in Wheaton, a western suburb of Chicago. Pete’s Fresh Market anchors the 244,924-square-foot center. Additional tenants include PetSmart, Massage Envy, Pure Barre, Xfinity, Potbelly, 7Brew and…",
       "url": "https://rebusinessonline.com/mid-america-arranges-sale-of-244924-sf-shopping-center-in-wheaton-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-23T13:16:58.000Z"
+      "publishedAt": "2026-10-23T13:16:58.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "244,924 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Mid-America Real Estate Corp."
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -314,7 +884,29 @@
       "blurb": "CHICAGO — Greenstone Partners has brokered the $4.1 million sale of a 10,600-square-foot, two-level retail condominium in Chicago’s Wicker Park neighborhood that is fully leased to Urban Outfitters. Danny Spitz and Brewster Hague of Greenstone represented the seller, Newcastle Investors. Spitz also brokered…",
       "url": "https://rebusinessonline.com/greenstone-partners-brokers-4-1m-sale-of-urban-outfitters-leased-retail-condo-in-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-23T13:15:20.000Z"
+      "publishedAt": "2026-10-23T13:15:20.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$4.1M",
+        "amountValue": 4099999.9999999995,
+        "pricePerUnit": "$387 / SF",
+        "size": "10,600 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Greenstone Partners"
+          },
+          {
+            "role": "Seller",
+            "name": "Newcastle Investors"
+          },
+          {
+            "role": "Tenant",
+            "name": "Urban Outfitters"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -323,7 +915,29 @@
       "blurb": "BOCA RATON, FLA. — JLL has arranged the $64 million sale of North 40, a 354,376-square-foot office park in Boca Raton. Related Ross purchased the two-building office campus from Mainstreet Capital Partners and Partners Group. Hermen Rodriguez, Matt McCormack, Ike Ojala, Patrick Salata, Blake Koletic and Hunter Smith…",
       "url": "https://rebusinessonline.com/jll-arranges-64m-sale-of-office-park-in-boca-raton-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-22T13:13:18.000Z"
+      "publishedAt": "2026-10-22T13:13:18.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$64M",
+        "amountValue": 64000000,
+        "pricePerUnit": "$181 / SF",
+        "size": "354,376 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL"
+          },
+          {
+            "role": "Buyer",
+            "name": "Related Ross"
+          },
+          {
+            "role": "Seller",
+            "name": "Mainstreet Capital Partners"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -332,7 +946,25 @@
       "blurb": "CHICAGO — Habitat and Cabrera Capital, in partnership with the Chicago Housing Authority (CHA), have broken ground on the first residential phase of the redevelopment of the LeClaire Courts public housing community, which was completed in the 1950s and demolished in 2011. Replacing a 32-acre site in Chicago’s…",
       "url": "https://rebusinessonline.com/habitat-cabrera-capital-break-ground-on-leclaire-courts-mixed-use-redevelopment-in-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-20T14:19:27.000Z"
+      "publishedAt": "2026-10-20T14:19:27.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Renovation",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Habitat"
+          },
+          {
+            "role": "Developer",
+            "name": "Cabrera Capital"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -341,7 +973,21 @@
       "blurb": "GAINESVILLE, FLA. — 908 Group has broken ground on Chapter House UF, a 684-bed student housing development located at 920 S.W. Depot Ave. in Gainesville near the University of Florida campus. The project is being developed in partnership with Batson-Cook Development Co. and an undisclosed, Fortune 100 insurance…",
       "url": "https://rebusinessonline.com/908-group-breaks-ground-on-684-bed-student-housing-project-near-university-of-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-20T12:33:00.000Z"
+      "publishedAt": "2026-10-20T12:33:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "684 beds",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "908 Group"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -350,7 +996,21 @@
       "blurb": "LARGO, FLA. — MCB Real Estate has acquired Keene Plaza, an 81,272-square-foot shopping center located at 2150 E. Bay Drive in Largo, roughly 23 miles northeast of Tampa. The seller and sales price were not disclosed. Sprouts Farmers Market and BioLife Plasma Services anchor the retail property, which features a mix…",
       "url": "https://rebusinessonline.com/mcb-real-estate-buys-81272-sf-grocery-anchored-shopping-center-in-largo-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-19T13:35:27.000Z"
+      "publishedAt": "2026-10-19T13:35:27.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "81,272 SF",
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "MCB Real Estate"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -359,7 +1019,21 @@
       "blurb": "GOLDEN, COLO. — AC Development, the Coor’s family development company, has completed The Pottery, an office building that is the first phase of Clayworks, a 14-acre redevelopment of the former CoorsTek ceramics manufacturing site in Golden. The project team for The Pottery includes AC Development as developer, Tryba…",
       "url": "https://rebusinessonline.com/ac-development-completes-first-phase-of-14-acre-mixed-use-development-in-golden-colorado/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-19T13:19:14.000Z"
+      "publishedAt": "2026-10-19T13:19:14.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "14 acres",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "AC Development"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -368,7 +1042,25 @@
       "blurb": "WILMINGTON, ILL. — Silver Creek Development has sold a 2 million-square-foot industrial facility and adjacent land parcel to Michelin North America for $151 million. Located at 29900 S. Graaskamp Blvd. in Wilmington, about 60 miles southwest of downtown Chicago, the regional distribution property sits on a 91-acre…",
       "url": "https://rebusinessonline.com/silver-creek-development-sells-2-msf-industrial-facility-in-illinois-to-michelin-north-america-for-151m/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-19T13:14:43.000Z"
+      "publishedAt": "2026-10-19T13:14:43.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$151M",
+        "amountValue": 151000000,
+        "pricePerUnit": "$76 / SF",
+        "size": "2M SF",
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Michelin North America"
+          },
+          {
+            "role": "Seller",
+            "name": "Silver Creek Development"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -377,7 +1069,21 @@
       "blurb": "EVANSTON, ILL. — Draper and Kramer Inc. has acquired a 268-unit luxury apartment community in Evanston. The 15-story property, Albion Evanston, will be rebranded as Eva. Draper and Kramer will also assume property management of the community, which was 98.5 percent leased and 98 percent occupied at the time of…",
       "url": "https://rebusinessonline.com/draper-and-kramer-acquires-268-unit-apartment-community-in-evanston-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-19T13:13:51.000Z"
+      "publishedAt": "2026-10-19T13:13:51.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "268 units",
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Draper and Kramer Inc."
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -386,16 +1092,56 @@
       "blurb": "CHICAGO — Rush University System for Health and Endeavor Health have unveiled plans to merge, creating a system of 12 hospitals and more than 400 care sites. An incremental $1 billion investment, funded by Endeavor, will advance community impact, academics and research, and quality and care innovation in communities…",
       "url": "https://rebusinessonline.com/rush-endeavor-health-unveil-plans-to-merge-in-metro-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-16T13:31:49.000Z"
+      "publishedAt": "2026-10-16T13:31:49.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Merger",
+        "amount": "$1B",
+        "amountValue": 1000000000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Rush"
+          },
+          {
+            "role": "Developer",
+            "name": "Endeavor Health"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
       "assetClass": "industrial",
-      "title": "LSL Industries, S&#038;C Electric Sign Industrial Leases Totaling 376,503 SF in Glenview, Illinois",
-      "blurb": "GLENVIEW, ILL. — Owner Dermody has inked two new leases at The Logistics Campus in Glenview. LSL Industries LLC has leased 81,225 square feet of Building 4, and S&#38;C Electric Co. has fully leased Building 5, a 295,278-square-foot facility. Positioned just north of Chicago O’Hare International Airport, The…",
+      "title": "LSL Industries, S&C Electric Sign Industrial Leases Totaling 376,503 SF in Glenview, Illinois",
+      "blurb": "GLENVIEW, ILL. — Owner Dermody has inked two new leases at The Logistics Campus in Glenview. LSL Industries LLC has leased 81,225 square feet of Building 4, and S&C Electric Co. has fully leased Building 5, a 295,278-square-foot facility. Positioned just north of Chicago O’Hare International Airport, The…",
       "url": "https://rebusinessonline.com/lsl-industries-sc-electric-sign-industrial-leases-totaling-376503-sf-in-glenview-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-15T13:16:24.000Z"
+      "publishedAt": "2026-10-15T13:16:24.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Lease",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "376,503 SF",
+        "parties": [
+          {
+            "role": "Owner",
+            "name": "Dermody"
+          },
+          {
+            "role": "Tenant",
+            "name": "LSL Industries LLC"
+          },
+          {
+            "role": "Tenant",
+            "name": "S&C Electric"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -404,7 +1150,25 @@
       "blurb": "CHICAGO — Northmarq has provided $24.7 million in refinancing for Reside on Jackson, a 93-unit apartment community in Chicago. Kevin McCarthy of Northmarq arranged the Fannie Mae financing on behalf of the borrower, Newcastle Investors. Built in 2016, the property offers a mix of one- and two-bedroom units. Amenities…",
       "url": "https://rebusinessonline.com/northmarq-provides-24-7m-refinancing-for-chicago-apartment-community/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-14T12:55:26.000Z"
+      "publishedAt": "2026-10-14T12:55:26.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Refinancing",
+        "amount": "$24.7M",
+        "amountValue": 24700000,
+        "pricePerUnit": "$266K / unit",
+        "size": "93 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Northmarq"
+          },
+          {
+            "role": "Borrower",
+            "name": "Newcastle Investors"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -413,7 +1177,29 @@
       "blurb": "WESTMINSTER, COLO. — CBRE has arranged the sale of Novera Commerce Center, a proposed three-building industrial development in Westminster. Opus Development sold the project to Principal Asset Management for an undisclosed price. Todd Witty and Daniel Close of CBRE represented the seller and have been retained by the…",
       "url": "https://rebusinessonline.com/cbre-negotiates-sale-of-proposed-386489-sf-novera-commerce-center-in-westminster-colorado/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-13T14:33:53.000Z"
+      "publishedAt": "2026-10-13T14:33:53.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "386,489 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "CBRE"
+          },
+          {
+            "role": "Buyer",
+            "name": "Principal Asset Management"
+          },
+          {
+            "role": "Seller",
+            "name": "Opus Development"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -422,7 +1208,21 @@
       "blurb": "BLUE ISLAND, ILL. — Kiser Group has brokered the sale of Blue Station Apartments, a 345-unit apartment community in Blue Island, 16 miles south of Chicago’s Loop. The property at 2130 W. 122nd St. was 96 percent occupied at the time of sale. Ownership has invested more than $3.5 million in capital improvements over…",
       "url": "https://rebusinessonline.com/kiser-group-brokers-sale-of-345-unit-apartment-community-in-blue-island-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-13T13:38:55.000Z"
+      "publishedAt": "2026-10-13T13:38:55.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$3.5M",
+        "amountValue": 3500000,
+        "pricePerUnit": null,
+        "size": "345 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Kiser Group"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -431,16 +1231,52 @@
       "blurb": "LISLE, ILL. — Sentinel Technologies has signed a full-building headquarters lease totaling 63,409 square feet at Corporetum Office Campus X in Lisle. Sentinel will occupy the four-story building with its office, research and development, and technology lab functions under one roof. The company is expected to relocate…",
       "url": "https://rebusinessonline.com/sentinel-technologies-inks-full-building-headquarters-lease-in-lisle-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-13T13:36:20.000Z"
+      "publishedAt": "2026-10-13T13:36:20.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Lease",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "63,409 SF",
+        "parties": [
+          {
+            "role": "Tenant",
+            "name": "Sentinel Technologies"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
       "assetClass": "general",
-      "title": "Marcus &#038; Millichap Brokers $3.1M Sale of The Center at Evergreen Office Property in Colorado",
-      "blurb": "EVERGREEN, COLO. — Marcus &#38; Millichap has arranged the sale of The Center at Evergreen, an office property in Evergreen. Good Signature sold the asset to Divine Homes for $3.1 million. Chadd Nelson and Brandon Kramer of Marcus &#38; Millichap represented the seller, while Clayton Primm of Marcus &#38; Millichap…",
+      "title": "Marcus & Millichap Brokers $3.1M Sale of The Center at Evergreen Office Property in Colorado",
+      "blurb": "EVERGREEN, COLO. — Marcus & Millichap has arranged the sale of The Center at Evergreen, an office property in Evergreen. Good Signature sold the asset to Divine Homes for $3.1 million. Chadd Nelson and Brandon Kramer of Marcus & Millichap represented the seller, while Clayton Primm of Marcus & Millichap…",
       "url": "https://rebusinessonline.com/marcus-millichap-brokers-3-1m-sale-of-the-center-at-evergreen-office-property-in-colorado/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-12T14:57:57.000Z"
+      "publishedAt": "2026-10-12T14:57:57.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$3.1M",
+        "amountValue": 3100000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Marcus & Millichap"
+          },
+          {
+            "role": "Buyer",
+            "name": "Divine Homes"
+          },
+          {
+            "role": "Seller",
+            "name": "Good Signature"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -449,16 +1285,39 @@
       "blurb": "CHICAGO — Newmark has arranged the $30 million sale of Block 37, a 277,654-square-foot trophy retail property located in downtown Chicago. Block 37 comprises five floors of retail space anchored by a mix of tenants including Zara, Sephora, AMC Theatres and The Dearborn, and a four-level underground parking garage.…",
       "url": "https://rebusinessonline.com/newmark-negotiates-30m-sale-of-trophy-retail-property-in-downtown-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-12T14:56:19.000Z"
+      "publishedAt": "2026-10-12T14:56:19.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$30M",
+        "amountValue": 30000000,
+        "pricePerUnit": "$108 / SF",
+        "size": "277,654 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Newmark"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
       "assetClass": "general",
       "title": "Two New Retail Tenants Open at Dadeland Station in Miami",
-      "blurb": "MIAMI —&#160;Two new anchor retail tenants have opened at Dadeland Station, a 350,000-square-foot, three-level retail power center located in Miami, just east of the Dadeland Mall. Burlington opened in August, followed by Marshalls in September. Together, the off-price retailers add approximately 62,000 square feet…",
+      "blurb": "MIAMI — Two new anchor retail tenants have opened at Dadeland Station, a 350,000-square-foot, three-level retail power center located in Miami, just east of the Dadeland Mall. Burlington opened in August, followed by Marshalls in September. Together, the off-price retailers add approximately 62,000 square feet…",
       "url": "https://rebusinessonline.com/two-new-retail-tenants-open-at-dadeland-station-in-miami/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-12T13:25:12.000Z"
+      "publishedAt": "2026-10-12T13:25:12.000Z",
+      "deal": {
+        "version": 2,
+        "type": null,
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "350,000 SF",
+        "parties": []
+      }
     },
     {
       "market": "denver",
@@ -467,16 +1326,44 @@
       "blurb": "LOVELAND, COLO. — Galway Cos. has signed new tenants to leases and is advancing a multimillion-dollar, property-wide renovation at The Promenade Shops Centerra, a 494,500-square-foot open-air center in Loveland, approximately 46 miles north of Denver. Improvements will include new storefront facades; a redesigned ice…",
       "url": "https://rebusinessonline.com/galway-cos-signs-new-tenants-advances-multimillion-dollar-renovation-at-the-promenade-shops-centerra-in-northern-colorado/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-09T14:12:00.000Z"
+      "publishedAt": "2026-10-09T14:12:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Renovation",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "494,500 SF",
+        "parties": [
+          {
+            "role": "Owner",
+            "name": "Galway Cos."
+          }
+        ]
+      }
     },
     {
       "market": "miami",
       "assetClass": "multifamily",
       "title": "JLL Arranges $100M Financing for Two New Multifamily Properties in North Florida",
-      "blurb": "JACKSONVILLE AND ST. AUGUSTINE, FLA. —&#160;JLL Capital Markets has arranged $100 million in bridge financing for two multifamily properties in North Florida: The Pointe at Davis Creek, a 288-unit, garden-style community located at 12175 Philips Highway in Jacksonville, and The Bradley St. Augustine, a 250-unit,…",
+      "blurb": "JACKSONVILLE AND ST. AUGUSTINE, FLA. — JLL Capital Markets has arranged $100 million in bridge financing for two multifamily properties in North Florida: The Pointe at Davis Creek, a 288-unit, garden-style community located at 12175 Philips Highway in Jacksonville, and The Bradley St. Augustine, a 250-unit,…",
       "url": "https://rebusinessonline.com/jll-arranges-100m-financing-for-two-new-multifamily-properties-in-north-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-09T13:49:22.000Z"
+      "publishedAt": "2026-10-09T13:49:22.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": "$100M",
+        "amountValue": 100000000,
+        "pricePerUnit": "$347K / unit",
+        "size": "288 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -485,7 +1372,16 @@
       "blurb": "BOYNTON BEACH, FLA. — A public-private partnership between the City of Boynton Beach and Hyperion Group, Winter Properties, WREP and Silverstein Properties has broken ground on Ocean One, a 371-unit apartment community in the city’s downtown district. The development team financed the development using equity funding…",
       "url": "https://rebusinessonline.com/public-private-partnership-breaks-ground-on-371-unit-apartment-community-in-boynton-beach-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-08T14:32:12.000Z"
+      "publishedAt": "2026-10-08T14:32:12.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "371 units",
+        "parties": []
+      }
     },
     {
       "market": "miami",
@@ -494,7 +1390,25 @@
       "blurb": "MIAMI — Miami Design District Associates and BH3 Management have formed a joint venture to develop The Ursa, a 20-story office tower in Miami’s Design District. The development was previously announced, but the newly formed joint venture has expanded the square footage of the project’s original vision by 40 percent.…",
       "url": "https://rebusinessonline.com/miami-design-district-associates-bh3-partner-to-develop-20-story-office-building/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T15:15:25.000Z"
+      "publishedAt": "2026-10-07T15:15:25.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "20 stories",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Miami Design District Associates"
+          },
+          {
+            "role": "Developer",
+            "name": "BH3"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -503,7 +1417,21 @@
       "blurb": "MIAMI — First Washington Realty (FWR), a shopping center owner-operator based in Bethesda, Md., has sold two Publix-anchored shopping centers in Miami to Publix Super Markets Inc. The sales price was not disclosed. The properties include Airpark Plaza, a 171,443-square-foot shopping center near Miami International…",
       "url": "https://rebusinessonline.com/first-washington-realty-sells-two-miami-shopping-centers-to-publix-super-markets/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T15:12:06.000Z"
+      "publishedAt": "2026-10-07T15:12:06.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Publix Super Markets Inc"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -512,16 +1440,39 @@
       "blurb": "CHICAGO — Flexday, a national provider of flexible office solutions, has launched four fractional office suites at PNC Centre in Chicago’s Loop. The suites total more than 25,000 square feet and are designed to accommodate teams of 10 to 70 with flexible lease terms. The launch was made possible through a partnership…",
       "url": "https://rebusinessonline.com/flexday-launches-four-fractional-office-suites-at-pnc-centre-in-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T13:01:00.000Z"
+      "publishedAt": "2026-10-07T13:01:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Lease",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": []
+      }
     },
     {
       "market": "chicago",
       "assetClass": "general",
-      "title": "Marcus &#038; Millichap Brokers $6.3M Sale of Medical-Anchored Retail Portfolio in La Grange, Illinois",
-      "blurb": "LA GRANGE, ILL. — Marcus &#38; Millichap has brokered the $6.3 million sale of a three-building, medical-anchored retail portfolio in downtown La Grange. The 34,279-square-foot, 12-suite portfolio spans an entire block and is located directly across from the Stone Avenue Metra Station. Longstanding tenants include…",
+      "title": "Marcus & Millichap Brokers $6.3M Sale of Medical-Anchored Retail Portfolio in La Grange, Illinois",
+      "blurb": "LA GRANGE, ILL. — Marcus & Millichap has brokered the $6.3 million sale of a three-building, medical-anchored retail portfolio in downtown La Grange. The 34,279-square-foot, 12-suite portfolio spans an entire block and is located directly across from the Stone Avenue Metra Station. Longstanding tenants include…",
       "url": "https://rebusinessonline.com/marcus-millichap-brokers-6-3m-sale-of-medical-anchored-retail-portfolio-in-la-grange-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T13:00:00.000Z"
+      "publishedAt": "2026-10-07T13:00:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$6.3M",
+        "amountValue": 6300000,
+        "pricePerUnit": "$184 / SF",
+        "size": "34,279 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Marcus & Millichap"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -530,7 +1481,21 @@
       "blurb": "ORLANDO, FLA. AND KNOXVILLE, TENN. — Subtext has completed two student housing developments in Florida and Tennessee. Projects include VERVE Orlando, a 626-bed community located at 3133 N. Alafaya Trail near the University of Central Florida campus in Orlando; and EVER Knoxville, a 498-bed property located at 1919…",
       "url": "https://rebusinessonline.com/subtext-completes-two-student-housing-developments-in-florida-tennessee/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T15:41:08.000Z"
+      "publishedAt": "2026-10-06T15:41:08.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Subtext"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -539,7 +1504,21 @@
       "blurb": "DORAL, FLA. — Terra has signed Walmart to a 40,344-square-foot retail lease at Doral Atrium, a 78,000-square-foot lifestyle retail development in Doral, a western suburb of Miami. Walmart plans to open a new neighborhood-format grocery store at the project. Construction of the new Walmart Neighborhood Market is…",
       "url": "https://rebusinessonline.com/walmart-to-open-40344-sf-grocery-store-in-metro-miami/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T15:35:01.000Z"
+      "publishedAt": "2026-10-06T15:35:01.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Expansion",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "40,344 SF",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Walmart"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -548,7 +1527,21 @@
       "blurb": "LOMBARD, ILL. — Mid-America Real Estate Corp. has negotiated the sale of High Point Centre, a 240,345-square-foot shopping center in Lombard. The property presents a value-add opportunity, as it is 68 percent leased. Tenants include LA Fitness, Altitude Trampoline Park, Ace Dental, Burger King, Mango Mango Desserts,…",
       "url": "https://rebusinessonline.com/mid-america-negotiates-sale-of-240345-sf-shopping-center-in-lombard-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T13:03:00.000Z"
+      "publishedAt": "2026-10-06T13:03:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "240,345 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Mid-America Real Estate Corp."
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -557,7 +1550,21 @@
       "blurb": "NAPERVILLE, ILL. — Quantum Real Estate Advisors Inc. has brokered the $7.3 million sale of a 23,000-square-foot retail center in Naperville. Located at 175 W. Jackson St., the property consists of eight suites. The buyer was a Chicago-based family office, and the seller was a private family that had owned and managed…",
       "url": "https://rebusinessonline.com/quantum-brokers-7-3m-sale-of-retail-center-in-naperville-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T13:00:00.000Z"
+      "publishedAt": "2026-10-06T13:00:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$7.3M",
+        "amountValue": 7300000,
+        "pricePerUnit": "$317 / SF",
+        "size": "23,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Quantum Real Estate Advisors Inc."
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -566,25 +1573,75 @@
       "blurb": "GOLDEN, COLO. — Unique Properties/TCN Worldwide has negotiated the sale of 2801 Youngfield Street, an 97,992-square-foot office building in Golden, a western suburb of Denver. HGN Realty sold the asset to an undisclosed buyer for $6.5 million. Rachel Colorosa and Zach Schuchman of Unique Properties/TCN Worldwide…",
       "url": "https://rebusinessonline.com/unique-properties-tcn-negotiates-sale-of-97992-sf-office-building-in-golden-colorado/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T12:44:00.000Z"
+      "publishedAt": "2026-10-06T12:44:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$6.5M",
+        "amountValue": 6500000,
+        "pricePerUnit": null,
+        "size": "97,992 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Unique Properties/TCN Worldwide"
+          },
+          {
+            "role": "Seller",
+            "name": "HGN Realty"
+          }
+        ]
+      }
     },
     {
       "market": "sanfrancisco",
       "assetClass": "multifamily",
-      "title": "Marcus &#038; Millichap Brokers $6.3M Sale of San Francisco Multifamily Portfolio",
-      "blurb": "SAN FRANCISCO — Marcus &#38; Millichap has brokered the sale of a portfolio of two multifamily properties at 1159-1169 and 1067-1071 Union St. in San Francisco’s Russian Hill neighborhood. The properties sold for a combined $6.3 million after approximately 50 years under the same family ownership. Philip Batlin,…",
+      "title": "Marcus & Millichap Brokers $6.3M Sale of San Francisco Multifamily Portfolio",
+      "blurb": "SAN FRANCISCO — Marcus & Millichap has brokered the sale of a portfolio of two multifamily properties at 1159-1169 and 1067-1071 Union St. in San Francisco’s Russian Hill neighborhood. The properties sold for a combined $6.3 million after approximately 50 years under the same family ownership. Philip Batlin,…",
       "url": "https://rebusinessonline.com/marcus-millichap-brokers-6-3m-sale-of-san-francisco-multifamily-portfolio/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T12:42:00.000Z"
+      "publishedAt": "2026-10-06T12:42:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$6.3M",
+        "amountValue": 6300000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Marcus & Millichap"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
       "assetClass": "general",
       "title": "PTM Partners Obtains $125M Construction Loan for Phase II of High-Rise Project in St. Petersburg, Florida",
-      "blurb": "ST. PETERSBURG, FLA. —&#160;PTM Partners has obtained a $125 million construction loan to finance EDGE Collective II, a 330-unit residential development in downtown St. Petersburg’s EDGE District. Scott Wadler, Alec Fox, Mitch Sinberg, Matt Robbins and Brad Williamson of Berkadia arranged the three-year,…",
+      "blurb": "ST. PETERSBURG, FLA. — PTM Partners has obtained a $125 million construction loan to finance EDGE Collective II, a 330-unit residential development in downtown St. Petersburg’s EDGE District. Scott Wadler, Alec Fox, Mitch Sinberg, Matt Robbins and Brad Williamson of Berkadia arranged the three-year,…",
       "url": "https://rebusinessonline.com/ptm-partners-obtains-125m-construction-loan-for-phase-ii-of-high-rise-project-in-st-petersburg-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-05T13:39:27.000Z"
+      "publishedAt": "2026-10-05T13:39:27.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": "$125M",
+        "amountValue": 125000000,
+        "pricePerUnit": "$379K / unit",
+        "size": "330 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Berkadia"
+          },
+          {
+            "role": "Borrower",
+            "name": "PTM Partners"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -593,7 +1650,21 @@
       "blurb": "CHICAGO — Becovic Residential has acquired an historic property at 5154 N. Clark St. in Chicago for $20 million and has rebranded it as The Quarters at Andersonville. Built in 1923, the asset consists of 81 apartments and 10 ground-floor commercial spaces. The property had been held by its previous ownership for more…",
       "url": "https://rebusinessonline.com/becovic-residential-acquires-chicago-apartment-building-for-20m/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-05T13:02:00.000Z"
+      "publishedAt": "2026-10-05T13:02:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$20M",
+        "amountValue": 20000000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Becovic Residential"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -602,7 +1673,21 @@
       "blurb": "CHICAGO AND BRIDGEVIEW, ILL. — Draper and Kramer Inc. has arranged two loans totaling $27.5 million. The transactions include a $13.5 million loan to finance the acquisition of a three-building industrial complex in Bridgeview, a southwest suburb of Chicago, and a $14 million bridge loan for a 56-unit multifamily…",
       "url": "https://rebusinessonline.com/draper-and-kramer-arranges-two-loans-totaling-27-5m-for-chicago-area-multifamily-distribution-properties/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-02T13:01:00.000Z"
+      "publishedAt": "2026-10-02T13:01:00.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": "$27.5M",
+        "amountValue": 27500000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Draper and Kramer Inc."
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -611,25 +1696,67 @@
       "blurb": "DENVER — PAULS has purchased Regency Plaza, a 15-story office tower located at 4643 S. Ulster St. in Denver Tech Center, from Granite Properties for an undisclosed price. The acquisition marks a return of ownership for Regency Plaza, which was previously owned by PAULS. Originally built in 1985 and repositioned in…",
       "url": "https://rebusinessonline.com/pauls-returns-to-denver-tech-center-acquires-335908-sf-office-tower/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-01T12:55:19.000Z"
+      "publishedAt": "2026-10-01T12:55:19.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "335,908 SF",
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "PAULS"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
       "assetClass": "multifamily",
       "title": "Greenstone Partners Arranges $3.2M Sale of Apartment, Retail Building in Chicago",
-      "blurb": "CHICAGO — Greenstone Partners has arranged the $3.2 million sale of a three-story, 4,650-square-foot property located at 1560 N. Damen Ave. in Chicago’s Wicker Park. The ground-floor retail space is occupied by Stan’s Donuts &#38; Coffee, a regional bakery that has operated at the location since its founding in 2013.…",
+      "blurb": "CHICAGO — Greenstone Partners has arranged the $3.2 million sale of a three-story, 4,650-square-foot property located at 1560 N. Damen Ave. in Chicago’s Wicker Park. The ground-floor retail space is occupied by Stan’s Donuts & Coffee, a regional bakery that has operated at the location since its founding in 2013.…",
       "url": "https://rebusinessonline.com/greenstone-partners-arranges-3-2m-sale-of-apartment-retail-building-in-chicago/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-01T12:42:14.000Z"
+      "publishedAt": "2026-10-01T12:42:14.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$3.2M",
+        "amountValue": 3200000,
+        "pricePerUnit": "$688 / SF",
+        "size": "4,650 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Greenstone Partners"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
       "assetClass": "multifamily",
-      "title": "Walker &#038; Dunlop Arranges $238M Refinancing for Landmark South Apartments in Doral, Florida",
-      "blurb": "DORAL, FLA. — Walker &#38; Dunlop has arranged a $238 million loan for the refinancing of The Landmark South, a 631-unit apartment community located at 6055 N.W. 105th Court in Doral, a western suburb of Miami. Aaron Appel, Michael Stepniewski, Jonathan Schwartz, Keith Kurland, Adam Schwartz, Dustin Stolly, Sean…",
+      "title": "Walker & Dunlop Arranges $238M Refinancing for Landmark South Apartments in Doral, Florida",
+      "blurb": "DORAL, FLA. — Walker & Dunlop has arranged a $238 million loan for the refinancing of The Landmark South, a 631-unit apartment community located at 6055 N.W. 105th Court in Doral, a western suburb of Miami. Aaron Appel, Michael Stepniewski, Jonathan Schwartz, Keith Kurland, Adam Schwartz, Dustin Stolly, Sean…",
       "url": "https://rebusinessonline.com/walker-dunlop-arranges-238m-refinancing-for-landmark-south-apartments-in-doral-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-30T14:32:48.000Z"
+      "publishedAt": "2026-09-30T14:32:48.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Refinancing",
+        "amount": "$238M",
+        "amountValue": 238000000,
+        "pricePerUnit": "$377K / unit",
+        "size": "631 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Walker & Dunlop"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -638,7 +1765,21 @@
       "blurb": "MIAMI — Greystone has provided a loan package totaling $167 million for the construction of Gallery at Lummus Parc, an affordable housing high-rise development located at 395 N.W. 1st St. in Miami. The borrower is locally based Related Urban Development Group, an affordable housing subsidiary of Related Group. Greg…",
       "url": "https://rebusinessonline.com/greystone-provides-167m-financing-for-affordable-housing-tower-development-in-miami/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-30T14:30:13.000Z"
+      "publishedAt": "2026-09-30T14:30:13.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": "$167M",
+        "amountValue": 167000000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Lender",
+            "name": "Greystone"
+          }
+        ]
+      }
     },
     {
       "market": "denver",
@@ -647,7 +1788,21 @@
       "blurb": "DENVER — Griffis Residential has received $86 million in financing for Griffis Union Station, a Class A apartment property in Denver. Eric Tupler, Kevin Barron and Jake Martin of JLL Capital Markets secured the five-year senior agency loan for the borrower. Completed in 2010, the five-story Griffis Union Station…",
       "url": "https://rebusinessonline.com/griffis-residential-receives-86m-in-financing-for-multifamily-community-in-denver/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-30T13:46:32.000Z"
+      "publishedAt": "2026-09-30T13:46:32.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": "$86M",
+        "amountValue": 86000000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Borrower",
+            "name": "Griffis Residential"
+          }
+        ]
+      }
     },
     {
       "market": "miami",
@@ -656,7 +1811,21 @@
       "blurb": "FORT WALTON BEACH, FLA. — TSCG has brokered the $8.4 million sale of The Shoppes at Paradise Pointe, a Publix-anchored shopping center located at U.S. Highway 98 and Perry Avenue SE in Fort Walton Beach. The 73,416-square-foot property sits at the mainland approach to Brooks Bridge, which connects Fort Walton Beach…",
       "url": "https://rebusinessonline.com/tscg-brokers-8-4m-sale-of-publix-anchored-shopping-center-in-fort-walton-beach-florida/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-29T14:01:14.000Z"
+      "publishedAt": "2026-09-29T14:01:14.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$8.4M",
+        "amountValue": 8400000,
+        "pricePerUnit": "$114 / SF",
+        "size": "73,416 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "TSCG"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -665,7 +1834,21 @@
       "blurb": "CHICAGO — Darwin Investment Group has received a $130 million refinancing for a 39-building industrial portfolio totaling more than 2 million square feet across the greater Chicago area and Southeast Wisconsin. A dedicated middle market real estate team within Wells Fargo Commercial Banking provided the financing. In…",
       "url": "https://rebusinessonline.com/darwin-investment-group-receives-130m-refinancing-for-industrial-portfolio-in-chicago-southeast-wisconsin/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-29T13:29:04.000Z"
+      "publishedAt": "2026-09-29T13:29:04.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Refinancing",
+        "amount": "$130M",
+        "amountValue": 130000000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Borrower",
+            "name": "Darwin Investment Group"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -674,7 +1857,21 @@
       "blurb": "PLAINFIELD, ILL. — Entre Commercial Realty has brokered the sale of a 142,370-square-foot industrial facility in Plainfield. Situated on 20 acres, the freestanding property features 19 loading docks, two drive-in doors, approximately 11,000 square feet of office space, heavy power and eight private rail spurs. A…",
       "url": "https://rebusinessonline.com/entre-commercial-realty-brokers-sale-of-142370-sf-industrial-facility-in-plainfield-illinois/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-29T13:28:01.000Z"
+      "publishedAt": "2026-09-29T13:28:01.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "142,370 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Entre Commercial Realty"
+          }
+        ]
+      }
     },
     {
       "market": "chicago",
@@ -683,7 +1880,21 @@
       "blurb": "CHICAGO — Time Equities Inc. (TEI) has acquired 33 South Wabash Avenue in Chicago for $3.9 million. Located in the heart of South Loop along historic Jeweler’s Row, the property offers 38 feet of frontage on Wabash Avenue at the base of a 360-unit luxury condominium building, which is also home to the School of the…",
       "url": "https://rebusinessonline.com/tei-acquires-retail-property-on-jewelers-row-in-chicago-for-3-9m/",
       "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-09-29T13:27:33.000Z"
+      "publishedAt": "2026-09-29T13:27:33.000Z",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$3.9M",
+        "amountValue": 3900000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "TEI"
+          }
+        ]
+      }
     }
   ]
 }

@@ -126,6 +126,11 @@ export default function RealEstateClient({ rates, ratesGeneratedAt, news, metric
             }`}
           >
             {v.label}
+            {v.key === "dashboard" && (
+              <span className="ml-2 align-middle text-[9px] font-bold tracking-widest bg-[#B54A32] text-white px-1.5 py-0.5 rounded">
+                IN DEV
+              </span>
+            )}
           </button>
         ))}
       </div>

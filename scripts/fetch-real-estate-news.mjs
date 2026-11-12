@@ -25,6 +25,7 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { XMLParser } from "fast-xml-parser";
+import { decodeEntities, extractDeal, DEAL_EXTRACTOR_VERSION } from "./lib/extractDeal.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, "..", "data");
@@ -56,15 +57,9 @@ async function fetchWithTimeout(url, options = {}) {
   }
 }
 
+// Decodes numeric entities too ("Cushman &#038; Wakefield" -> "Cushman & Wakefield").
 function stripHtml(input = "") {
-  return input
-    .replace(/<[^>]*>/g, " ")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&#39;|&apos;/g, "'")
-    .replace(/&quot;/g, '"')
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
+  return decodeEntities(String(input).replace(/<[^>]*>/g, " "))
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -190,11 +185,14 @@ async function fetchRss({ url, sourceName }) {
     // often mentions unrelated places too (a buyer's home city, a source's
     // affiliation) — matching the whole body previously mistagged a New
     // Jersey deal as Miami just because the acquirer was "Florida-based."
+    const cleanTitle = stripHtml(title);
     return {
-      market: detectMarket(title),
-      assetClass: detectAssetClass(title),
-      title: stripHtml(title),
+      market: detectMarket(cleanTitle),
+      assetClass: detectAssetClass(cleanTitle),
+      title: cleanTitle,
       blurb: makeBlurb(summary || title),
+      // Read from the full summary (not the shortened blurb) for more detail.
+      deal: extractDeal(cleanTitle, stripHtml(summary)),
       url: link,
       sourceName,
       publishedAt: new Date(publishedAt).toISOString(),
@@ -241,8 +239,15 @@ async function main() {
   // *overwritten* if the exact same URL happens to come back through a
   // fresh fetch — which won't happen once it ages out of a feed's listing
   // or, as here, once a detection-rule fix makes it stop matching at all).
+  // Older items also get cleaned titles/blurbs, and a deal snapshot if they
+  // were stored before the current extractor version.
   const healedPrevious = previous
-    .map((item) => ({ ...item, market: detectMarket(item.title), assetClass: detectAssetClass(item.title) }))
+    .map((item) => {
+      const title = stripHtml(item.title);
+      const blurb = stripHtml(item.blurb);
+      const deal = item.deal?.version === DEAL_EXTRACTOR_VERSION ? item.deal : extractDeal(title, blurb);
+      return { ...item, title, blurb, deal, market: detectMarket(title), assetClass: detectAssetClass(title) };
+    })
     .filter((item) => item.market);
 
   const byUrl = new Map();
