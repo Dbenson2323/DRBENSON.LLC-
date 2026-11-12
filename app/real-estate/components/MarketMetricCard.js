@@ -7,9 +7,10 @@ const FIELD_LABELS = {
   revparGrowthPct: "RevPAR Growth",
   occupancyPct: "Occupancy",
   pipelineRooms: "Pipeline (rooms)",
+  streetRateGrowthPct: "Street Rate Growth",
 };
 
-const DELTA_FIELDS = new Set(["revparGrowthPct"]);
+const DELTA_FIELDS = new Set(["revparGrowthPct", "streetRateGrowthPct"]);
 
 function formatValue(key, value) {
   if (key.endsWith("Pct")) {

@@ -137,7 +137,12 @@ const MARKETS = [
   { key: "sanfrancisco", label: "San Francisco", keywords: ["san francisco", "bay area", "silicon valley"] },
 ];
 
+// Order matters: the first match wins, so the niche sectors come before
+// broader ones (e.g. "senior apartment community" should be senior housing,
+// not multifamily).
 const ASSET_CLASSES = [
+  { key: "seniorHousing", label: "Senior Housing", keywords: ["senior housing", "senior living", "assisted living", "memory care", "independent living", "skilled nursing", "retirement community", "age-restricted", "55+"] },
+  { key: "selfStorage", label: "Self-Storage", keywords: ["self-storage", "self storage", "storage facility", "storage facilities"] },
   { key: "multifamily", label: "Multifamily", keywords: ["multifamily", "apartment", "residential community"] },
   { key: "industrial", label: "Industrial", keywords: ["industrial", "warehouse", "logistics", "distribution center"] },
   { key: "office", label: "Office", keywords: ["office building", "office tower", "office space", "office market"] },

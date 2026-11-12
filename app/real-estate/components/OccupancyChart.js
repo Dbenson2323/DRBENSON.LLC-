@@ -1,9 +1,9 @@
-// Single-series bar chart (one metric, five categories) — per dataviz spec:
+// Single-series bar chart (one metric, one bar per asset class) — per dataviz spec:
 // one consistent hue (no per-bar rainbow, since there's only one series),
 // thin bars with a rounded data-end, direct value label at the tip, no
-// legend needed. Occupancy is used instead of vacancy so hospitality
-// (which only tracks occupancy) can sit on the same comparable scale as
-// the other four asset classes (which track vacancy).
+// legend needed. Occupancy is used instead of vacancy so hospitality,
+// self-storage, and senior housing (which report occupancy) sit on the
+// same comparable scale as the asset classes that report vacancy.
 const BAR_COLOR = "#B54A32";
 
 function getOccupancyPct(metrics) {
@@ -29,7 +29,7 @@ export default function OccupancyChart({ assetClasses, marketMetrics }) {
       <div className="space-y-3">
         {rows.map((row) => (
           <div key={row.label} className="flex items-center gap-3" title={`${row.label}: ${row.value}% occupied`}>
-            <span className="w-24 shrink-0 text-xs text-[#5C5443] text-right">{row.label}</span>
+            <span className="w-28 shrink-0 text-xs text-[#5C5443] text-right">{row.label}</span>
             <div className="flex-1 h-4 bg-[#EDE6D6] rounded-full overflow-hidden">
               <div
                 className="h-full rounded-full"
@@ -42,7 +42,7 @@ export default function OccupancyChart({ assetClasses, marketMetrics }) {
       </div>
       <p className="mt-4 text-[10px] text-[#9C927C]">
         Occupancy shown for comparability (100% − vacancy rate for Multifamily/Industrial/Office/Retail;
-        reported occupancy for Hospitality). Example data — see each card below for its source.
+        reported occupancy for Hospitality/Self-Storage/Senior Housing). Example data — see each card below for its source.
       </p>
     </div>
   );
