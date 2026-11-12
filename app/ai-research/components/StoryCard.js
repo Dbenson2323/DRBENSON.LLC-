@@ -1,4 +1,8 @@
+"use client";
+
+import { useState } from "react";
 import ScoreMeter from "./ScoreMeter";
+import ScoreBreakdown from "./ScoreBreakdown";
 import TechIcon from "./TechIcons";
 
 const SOURCE_TYPE_LABEL = {
@@ -37,6 +41,7 @@ function timeAgo(iso) {
 
 export default function StoryCard({ story, featured = false }) {
   const tint = CATEGORY_TINT[story.category] ?? "#F3F4F6";
+  const [showWhy, setShowWhy] = useState(false);
 
   return (
     <article className="border-b border-gray-200 last:border-b-0">
@@ -44,7 +49,7 @@ export default function StoryCard({ story, featured = false }) {
         href={story.url}
         target="_blank"
         rel="noopener noreferrer"
-        className={`flex gap-4 py-5 group ${featured ? "sm:gap-6" : ""}`}
+        className={`flex gap-4 pt-5 pb-3 group ${featured ? "sm:gap-6" : ""}`}
       >
         <div
           className={`relative shrink-0 rounded-lg flex items-center justify-center overflow-hidden ${
@@ -97,12 +102,29 @@ export default function StoryCard({ story, featured = false }) {
             {story.blurb}
           </p>
 
-          <div className="flex flex-wrap gap-4 mt-3 max-w-sm">
-            <ScoreMeter label="Factual" value={story.factualScore} />
-            <ScoreMeter label="Quality" value={story.qualityScore} />
-          </div>
         </div>
       </a>
+
+      <div className={`pb-5 ${featured ? "sm:pl-[8.5rem]" : "sm:pl-20"}`}>
+        <div className="flex flex-wrap items-center gap-2">
+          <ScoreMeter label="Factual" value={story.factualScore} />
+          <ScoreMeter label="Quality" value={story.qualityScore} />
+          {story.factualVerdict && (
+            <span className="text-xs text-gray-500">{story.factualVerdict}</span>
+          )}
+          {story.scoring && (
+            <button
+              type="button"
+              onClick={() => setShowWhy((v) => !v)}
+              aria-expanded={showWhy}
+              className="text-xs font-semibold text-gray-700 underline underline-offset-2 hover:text-gray-900"
+            >
+              {showWhy ? "Hide breakdown" : "Why this score?"}
+            </button>
+          )}
+        </div>
+        {showWhy && <ScoreBreakdown story={story} />}
+      </div>
     </article>
   );
 }

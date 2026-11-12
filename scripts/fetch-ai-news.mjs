@@ -16,6 +16,7 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { XMLParser } from "fast-xml-parser";
+import { scoreStory, SCORING_VERSION } from "./lib/scoreStory.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, "..", "data");
@@ -100,42 +101,6 @@ function detectCategory(title, summary) {
   return "AI News";
 }
 
-// Baseline "opinion -> 100% factual" and "well-written" scores by source
-// type. These are heuristics, not a fact-check: they reflect how reliable
-// that *kind* of source tends to be (a peer-reviewed-adjacent preprint vs.
-// an unmoderated forum thread), not a claim-by-claim verification.
-const SOURCE_BASELINE = {
-  paper: { factual: 96, quality: 88 },
-  official: { factual: 90, quality: 85 },
-  journalism: { factual: 78, quality: 80 },
-  opensource: { factual: 82, quality: 74 },
-  aggregator: { factual: 62, quality: 65 },
-  community: { factual: 48, quality: 55 },
-};
-
-const OPINION_MARKERS = ["opinion", "i think", "rumor", "rumour", "leaked", "allegedly", "hot take", "my take"];
-const FACTUAL_MARKERS = ["announces", "announced", "releases", "released", "launches", "launched", "paper", "study", "report finds"];
-
-function clamp(n, min = 0, max = 100) {
-  return Math.max(min, Math.min(max, Math.round(n)));
-}
-
-function scoreStory({ title, summary, sourceType }) {
-  const baseline = SOURCE_BASELINE[sourceType] ?? SOURCE_BASELINE.community;
-  const haystack = `${title} ${summary}`.toLowerCase();
-
-  let factual = baseline.factual;
-  if (OPINION_MARKERS.some((m) => haystack.includes(m))) factual -= 20;
-  if (FACTUAL_MARKERS.some((m) => haystack.includes(m))) factual += 4;
-
-  let quality = baseline.quality;
-  const len = stripHtml(summary).length;
-  if (len > 500) quality += 5;
-  else if (len < 80) quality -= 8;
-
-  return { factualScore: clamp(factual), qualityScore: clamp(quality) };
-}
-
 // Deterministic hyper-tech placeholder art per category (no external image
 // calls, so it never breaks, costs nothing, and never hotlinks a source's
 // own image without permission).
@@ -186,7 +151,7 @@ function detectIcon(title, summary, category) {
 
 function buildStory({ title, url, summary, sourceName, sourceType, publishedAt, image }) {
   const category = detectCategory(title, summary);
-  const { factualScore, qualityScore } = scoreStory({ title, summary, sourceType });
+  const scores = scoreStory({ title: stripHtml(title), summary: stripHtml(summary), sourceType });
   return {
     id: hashId(url),
     title: stripHtml(title),
@@ -196,8 +161,7 @@ function buildStory({ title, url, summary, sourceName, sourceType, publishedAt, 
     sourceType,
     category,
     publishedAt: new Date(publishedAt).toISOString(),
-    factualScore,
-    qualityScore,
+    ...scores,
     gradient: CATEGORY_GRADIENTS[category] ?? CATEGORY_GRADIENTS["AI News"],
     icon: detectIcon(title, summary, category),
     // The article's own thumbnail, when the source provides one directly
@@ -469,11 +433,15 @@ async function main() {
   // Re-clean previously-stored titles/blurbs too, so a stripHtml fix (e.g. new
   // entity handling) heals old entries immediately instead of waiting for
   // their source to be refetched.
-  const healedPrevious = previous.map((story) => ({
-    ...story,
-    title: stripHtml(story.title),
-    blurb: stripHtml(story.blurb),
-  }));
+  //
+  // Stories scored by an older version of the scoring rules are re-scored
+  // from their stored headline and blurb, so a rules change applies to the
+  // whole feed at once.
+  const healedPrevious = previous.map((story) => {
+    const healed = { ...story, title: stripHtml(story.title), blurb: stripHtml(story.blurb) };
+    if (healed.scoring?.version === SCORING_VERSION) return healed;
+    return { ...healed, ...scoreStory({ title: healed.title, summary: healed.blurb, sourceType: healed.sourceType }) };
+  });
 
   const byUrl = new Map();
   for (const story of [...healedPrevious, ...results]) {
