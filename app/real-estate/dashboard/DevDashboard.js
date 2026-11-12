@@ -29,10 +29,17 @@ const PLANNED = [
   { title: "Market comps", desc: "Pull rent and sale comps from the Market Research tab into underwriting." },
 ];
 
-function SectionHeading({ children, note }) {
+function SectionHeading({ children, note, wip }) {
   return (
     <div className="mb-4">
-      <h2 className="text-2xl font-serif font-bold text-[#1F3A34]">{children}</h2>
+      <h2 className="flex flex-wrap items-center gap-3 text-2xl font-serif font-bold text-[#1F3A34]">
+        {children}
+        {wip && (
+          <span className="font-sans text-[10px] font-bold uppercase tracking-widest bg-[#F6DDD5] text-[#B54A32] px-2.5 py-1 rounded-full">
+            Work in progress
+          </span>
+        )}
+      </h2>
       {note && <p className="text-sm text-[#5C5443] mt-1">{note}</p>}
     </div>
   );
@@ -112,10 +119,19 @@ export default function DevDashboard({ data }) {
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-10">
-      <div className="rounded-xl border border-dashed border-[#D8CDB8] bg-[#FBF8F0] p-4 text-sm text-[#5C5443] mb-6">
-        <span className="font-semibold text-[#1F3A34]">Early build.</span> Asset management and development
-        tools for tracking a property after acquisition. Everything below runs on <span className="font-semibold">example data</span>{" "}
-        (as of {fmt.date(asOf)}) until real figures are loaded.
+      {/* Work-in-progress notice: this whole tab is still being built. */}
+      <div className="rounded-xl border-2 border-[#B54A32] bg-[#FBF1EC] p-5 sm:p-6 mb-8">
+        <div className="flex flex-wrap items-center gap-3">
+          <span className="text-[11px] font-bold uppercase tracking-widest bg-[#B54A32] text-white px-3 py-1 rounded-full">
+            In development
+          </span>
+          <h2 className="text-2xl sm:text-3xl font-serif font-bold text-[#1F3A34]">Still being built</h2>
+        </div>
+        <p className="mt-3 text-sm text-[#5C5443] leading-relaxed max-w-3xl">
+          This dashboard is a work in progress. Sections are early versions, some are rough, and
+          more tools are on the way. Every figure below is <span className="font-semibold">example
+          data</span> (as of {fmt.date(asOf)}), not a real property or loan.
+        </p>
       </div>
 
       <nav className="flex flex-wrap gap-2 mb-8 print:hidden" aria-label="Dashboard sections">
@@ -132,7 +148,7 @@ export default function DevDashboard({ data }) {
 
       {/* Asset management */}
       <div id="asset-management" className="scroll-mt-32">
-        <SectionHeading note={`${asset.name} · ${asset.location} · ${asset.propertyType}`}>Asset Management</SectionHeading>
+        <SectionHeading wip note={`${asset.name} · ${asset.location} · ${asset.propertyType}`}>Asset Management</SectionHeading>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 mb-5">
           <Kpi label="Occupancy" value={fmt.pct(summary.occupancyPct)} note={`${fmt.num(summary.vacantSF)} SF vacant`} />
           <Kpi label="Annual base rent" value={fmt.musd(summary.annualRent)} note={`${fmt.usd2(summary.avgRentPSF)} / SF avg`} />
@@ -158,7 +174,7 @@ export default function DevDashboard({ data }) {
 
       {/* Development */}
       <div id="development" className="scroll-mt-32 mt-14">
-        <SectionHeading note="Ground-up projects: milestones, schedule slip, budget and construction loan draws">
+        <SectionHeading wip note="Ground-up projects: milestones, schedule slip, budget and construction loan draws">
           Development
         </SectionHeading>
         <ConstructionProgress dev={dev} rows={milestones} summary={devSummary} />
