@@ -1,14 +1,61 @@
 {
-  "generatedAt": "2026-11-12T14:57:07.831Z",
+  "generatedAt": "2026-11-12T23:26:25.006Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "multifamily",
+      "title": "JLL Brokers Sale of 330-Unit Apartment Community in Wildwood, Florida",
+      "blurb": "WILDWOOD, FLA. — JLL has brokered the sale of The Juliette, a 330-unit multifamily community located at 6629 Dan Diciolla Drive in Wildwood. The buyer, Centennial Holding Co. LLC, purchased the property from an undisclosed seller. Cliff Taylor, Joe Ayers, Kyle Butler and Ted Taylor of JLL represented the seller and…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "330 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL"
+          },
+          {
+            "role": "Buyer",
+            "name": "Centennial Holding Co"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/jll-brokers-sale-of-330-unit-apartment-community-in-wildwood-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-12T15:30:21.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "retail",
+      "title": "Plaza Lakes to Develop 130,000 SF Shopping Center in Kissimmee, Florida",
+      "blurb": "KISSIMMEE, FLA. — Plaza Lakes, a subsidiary of a private, family-owned business group from Puerto Rico, plans to develop a 130,000-square-foot shopping center located along Simpson Road in Kissimmee, a suburb of Orlando. The company has selected SRS Real Estate Partners to oversee leasing at the development, named…",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "130,000 SF",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Plaza Lakes"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/plaza-lakes-to-develop-130000-sf-shopping-center-in-kissimmee-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-12T15:28:58.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "retail",
       "title": "Rouler Advisors Begins $2M Renovation of Westgate Shopping Center in Metro Denver",
-      "blurb": "LAKEWOOD, COLO. — Rouler Advisors has begun the $2 million renovation of Westgate Shopping Center, a 108,867-square-foot retail center located in Lakewood, approximately eight miles southwest of downtown Denver. Improvements will include a full parking lot replacement, new monument signage, building and…",
-      "url": "https://rebusinessonline.com/rouler-advisors-begins-2m-renovation-of-westgate-shopping-center-in-metro-denver/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-12T14:41:37.000Z",
+      "blurb": "LAKEWOOD, COLO. — Rouler Advisors has begun the $2 million renovation of Westgate Shopping Center, a 108,867-square-foot retail center located in Lakewood, approximately eight miles southwest of downtown Denver. Improvements will include a full parking lot replacement, new monument signage, building and storefront…",
       "deal": {
         "version": 2,
         "type": "Renovation",
@@ -22,16 +69,16 @@
             "name": "Rouler Advisors"
           }
         ]
-      }
+      },
+      "url": "https://rebusinessonline.com/rouler-advisors-begins-2m-renovation-of-westgate-shopping-center-in-metro-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-12T14:41:37.000Z"
     },
     {
       "market": "chicago",
-      "assetClass": "general",
+      "assetClass": "seniorHousing",
       "title": "JLL Arranges $212.5M Sale of Senior Living Community in Lincolnwood, Illinois",
       "blurb": "LINCOLNWOOD, ILL. — JLL Capital Markets has arranged the $212.5 million sale and financing of The Carrington at Lincolnwood, a 383-unit senior living community in Lincolnwood. JLL’s national seniors housing capital markets team represented the seller, a partnership of LAMB Properties, Harbert South Bay Partners and…",
-      "url": "https://rebusinessonline.com/jll-arranges-212-5m-sale-of-senior-living-community-in-lincolnwood-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-11-12T14:38:48.000Z",
       "deal": {
         "version": 2,
         "type": "Sale",
@@ -49,7 +96,10 @@
             "name": "LAMB Properties"
           }
         ]
-      }
+      },
+      "url": "https://rebusinessonline.com/jll-arranges-212-5m-sale-of-senior-living-community-in-lincolnwood-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-12T14:38:48.000Z"
     },
     {
       "market": "chicago",
@@ -232,7 +282,7 @@
     },
     {
       "market": "denver",
-      "assetClass": "general",
+      "assetClass": "seniorHousing",
       "title": "SLIB Arranges Sale of 126-Bed Skilled Nursing Facility in Castle Rock, Colorado",
       "blurb": "CASTLE ROCK, COLO. — Senior Living Investment Brokerage (SLIB) has arranged the sale of Brookside Inn, a skilled nursing facility located in Castle Rock, about 30 miles southeast of downtown Denver. A California-based skilled nursing operator acquired the asset from a Colorado-based entity, which has owned and…",
       "url": "https://rebusinessonline.com/slib-arranges-sale-of-126-bed-skilled-nursing-facility-in-castle-rock-colorado/",
