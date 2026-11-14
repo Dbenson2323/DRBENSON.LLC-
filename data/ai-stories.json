@@ -1,6 +1,388 @@
 {
-  "generatedAt": "2026-11-13T20:22:39.161Z",
+  "generatedAt": "2026-11-14T18:40:30.539Z",
   "stories": [
+    {
+      "id": "s310341395",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "blurb": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "factualScore": 69,
+      "qualityScore": 71,
+      "overallScore": 70,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Attributed claims",
+            "detail": "Says who the information comes from"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 25 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 49"
+          }
+        ],
+        "wordsAnalyzed": 39
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797"
+    },
+    {
+      "id": "s653921652",
+      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+      "blurb": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-14T16:45:48.000Z",
+      "factualScore": 75,
+      "qualityScore": 82,
+      "overallScore": 78,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 3,
+            "label": "Some numbers",
+            "detail": "2 figures cited"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 72"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "51 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "82% unique words"
+          }
+        ],
+        "wordsAnalyzed": 59
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s237897940",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "blurb": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-14T16:34:15.000Z",
+      "factualScore": 67,
+      "qualityScore": 68,
+      "overallScore": 67,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 21 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": -2,
+            "label": "Dense prose",
+            "detail": "Reading ease 16 — heavy jargon"
+          }
+        ],
+        "wordsAnalyzed": 30
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+    },
+    {
+      "id": "s1165991125",
+      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+      "blurb": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-14T10:21:21.000Z",
+      "factualScore": 80,
+      "qualityScore": 79,
+      "overallScore": 80,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "4 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Checkable artifact",
+            "detail": "Points to code, weights, a paper or data you can inspect"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "51 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "78% unique words"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 35"
+          }
+        ],
+        "wordsAnalyzed": 62
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s1054472865",
+      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+      "blurb": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Open Source & Tools",
+      "publishedAt": "2026-11-14T06:38:14.000Z",
+      "factualScore": 78,
+      "qualityScore": 82,
+      "overallScore": 80,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "4 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 56"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "53 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "75% unique words"
+          }
+        ],
+        "wordsAnalyzed": 64
+      },
+      "gradient": [
+        "#22C55E",
+        "#0EA5E9"
+      ],
+      "icon": "code",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-1-2-scaled.png"
+    },
+    {
+      "id": "s1473978168",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "blurb": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "Industry & Business",
+      "publishedAt": "2026-11-13T22:43:00.000Z",
+      "factualScore": 67,
+      "qualityScore": 74,
+      "overallScore": 70,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 70"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 26 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 40
+      },
+      "gradient": [
+        "#0EA5E9",
+        "#A855F7"
+      ],
+      "icon": "rocket",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+    },
     {
       "id": "s946704533",
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -60,7 +442,7 @@
     },
     {
       "id": "s280826283",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
       "blurb": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "sourceName": "TechCrunch AI",
@@ -106,7 +488,7 @@
             "detail": "All-caps words or excess punctuation"
           }
         ],
-        "wordsAnalyzed": 29
+        "wordsAnalyzed": 28
       },
       "gradient": [
         "#14B8A6",
@@ -242,7 +624,7 @@
         "#6366F1"
       ],
       "icon": "eye",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-4-scaled.png"
+      "image": null
     },
     {
       "id": "s106038627",
@@ -376,7 +758,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-3-scaled.png"
+      "image": null
     },
     {
       "id": "s623644497",
@@ -939,7 +1321,7 @@
         "#0EA5E9"
       ],
       "icon": "chip",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-2-scaled.png"
+      "image": null
     },
     {
       "id": "s1474136346",
@@ -1006,7 +1388,64 @@
         "#22D3EE"
       ],
       "icon": "brain",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-1-1-scaled.png"
+      "image": null
+    },
+    {
+      "id": "s436110912",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "blurb": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "factualScore": 66,
+      "qualityScore": 72,
+      "overallScore": 68,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Lab / company announcement",
+        "factualStart": 74,
+        "qualityStart": 68,
+        "factual": [
+          {
+            "points": -5,
+            "label": "Self-promotion",
+            "detail": "A company describing its own product; claims aren't independently checked"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 55"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 27 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 37
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": null
     },
     {
       "id": "s1329828667",
@@ -1073,7 +1512,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-1-scaled.png"
+      "image": null
     },
     {
       "id": "s1773526678",
@@ -4593,7 +5032,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-1j8-scaled.png"
+      "image": null
     },
     {
       "id": "s977059400",
@@ -6578,6 +7017,63 @@
         ],
         "wordsAnalyzed": 58
       }
+    },
+    {
+      "id": "s1630280497",
+      "title": "HafidzAfrieno/Artificial_Intelligence_Laboratory: new AI project",
+      "blurb": "HafidzAfrieno/Artificial_Intelligence_Laboratory: new AI project",
+      "url": "https://github.com/HafidzAfrieno/Artificial_Intelligence_Laboratory",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-11T14:38:53.000Z",
+      "factualScore": 71,
+      "qualityScore": 55,
+      "overallScore": 65,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Low",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -4,
+            "label": "Too little text",
+            "detail": "Not enough detail to support the claims"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Headline only"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 7
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/177587021?v=4"
     },
     {
       "id": "s372553506",
@@ -23128,592 +23624,6 @@
           }
         ],
         "wordsAnalyzed": 57
-      }
-    },
-    {
-      "id": "s1888033393",
-      "title": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions",
-      "blurb": "A defender anticipating an attacker needs a probability distribution over the attacker's next action from information available before that action occurs. Two structures complicate this: the attacker's behavioral regime persists and can switch within an episode, and each action combines an operation with state-dependent arguments whose feasible values…",
-      "url": "https://arxiv.org/abs/2611.08445v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-11-05T18:37:07.000Z",
-      "factualScore": 79,
-      "qualityScore": 77,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "document",
-      "image": null,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 1"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "48 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "83% unique words"
-          }
-        ],
-        "wordsAnalyzed": 59
-      }
-    },
-    {
-      "id": "s1888037237",
-      "title": "Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception",
-      "blurb": "Cyclist fatality rates remain high despite policy support for active travel, and autonomous vehicles add complexity to mixed traffic. Neither crash statistics nor multi-model detection pipelines scale to continuous monitoring of perceived safety along a route. We present an edge-assisted crowdsensing system: handlebar cameras supply street-level frames, a…",
-      "url": "https://arxiv.org/abs/2611.08441v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-05T18:33:58.000Z",
-      "factualScore": 79,
-      "qualityScore": 73,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "robot",
-      "image": null,
-      "overallScore": 77,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 11"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "48 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "96% unique words"
-          }
-        ],
-        "wordsAnalyzed": 55
-      }
-    },
-    {
-      "id": "s1888059340",
-      "title": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
-      "blurb": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 307M-parameter multilingual cross-encoder, Ru-Jev, trained on thirteen Russian-language tasks; the later release adds an augmentation that presents labels in…",
-      "url": "https://arxiv.org/abs/2611.08439v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-11-05T18:31:24.000Z",
-      "factualScore": 89,
-      "qualityScore": 80,
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "shield",
-      "image": null,
-      "overallScore": 85,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 3,
-            "label": "Some numbers",
-            "detail": "1 figure cited"
-          },
-          {
-            "points": 2,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "50 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 24 — heavy jargon"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "90% unique words"
-          }
-        ],
-        "wordsAnalyzed": 65
-      }
-    },
-    {
-      "id": "s1888060301",
-      "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
-      "blurb": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, making AI safety one of the defining challenges of our time. Yet we continue to build increasingly powerful systems without fully understanding how they work, how…",
-      "url": "https://arxiv.org/abs/2611.08438v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-11-05T18:30:54.000Z",
-      "factualScore": 76,
-      "qualityScore": 83,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "brain",
-      "image": null,
-      "overallScore": 79,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": -3,
-            "label": "Speculative language",
-            "detail": "1 hedge like “could,” “reportedly,” “expected to”"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "56 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "89% unique words"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 37"
-          }
-        ],
-        "wordsAnalyzed": 69
-      }
-    },
-    {
-      "id": "s1888062223",
-      "title": "SM4RT: Cascaded Feed-forward Model for 4D Reconstruction",
-      "blurb": "We introduce SM4RT, a multi-task cascade feed-forward model for dynamic scene reconstruction from RGB videos. While existing feed-forward approaches typically address geometry reconstruction and motion estimation separately--and often predict motions in a single coordinate frame that must account for camera movement--SM4RT solves these tasks sequentially…",
-      "url": "https://arxiv.org/abs/2611.08436v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-11-05T18:28:38.000Z",
-      "factualScore": 74,
-      "qualityScore": 73,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "brain",
-      "image": null,
-      "overallScore": 74,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -5,
-            "label": "Opinion language",
-            "detail": "Subjective framing (“should,” “I think,” “the truth about”)"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 4"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "45 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "91% unique words"
-          }
-        ],
-        "wordsAnalyzed": 52
-      }
-    },
-    {
-      "id": "s1888065106",
-      "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
-      "blurb": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitudinal medical dialogue and find three recurring causes: the retrieved evidence gives an outdated state, includes another person's health facts, or lacks a safety…",
-      "url": "https://arxiv.org/abs/2611.08433v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-05T18:27:20.000Z",
-      "factualScore": 79,
-      "qualityScore": 83,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null,
-      "overallScore": 81,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "55 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "85% unique words"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 33"
-          }
-        ],
-        "wordsAnalyzed": 66
-      }
-    },
-    {
-      "id": "s1888090092",
-      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-      "blurb": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels:…",
-      "url": "https://arxiv.org/abs/2611.08428v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-05T18:22:24.000Z",
-      "factualScore": 79,
-      "qualityScore": 77,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "shield",
-      "image": null,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "57 words"
-          },
-          {
-            "points": -3,
-            "label": "Overlong headline",
-            "detail": "19 words"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "82% unique words"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 47"
-          }
-        ],
-        "wordsAnalyzed": 76
-      }
-    },
-    {
-      "id": "s1888092975",
-      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
-      "blurb": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in real-world systems therefore requires a runtime monitor that is timely, calibrated, and informative while being efficient enough…",
-      "url": "https://arxiv.org/abs/2611.08425v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-11-05T18:21:07.000Z",
-      "factualScore": 79,
-      "qualityScore": 77,
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "eye",
-      "image": null,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease -8"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "44 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "95% unique words"
-          }
-        ],
-        "wordsAnalyzed": 55
       }
     }
   ]
