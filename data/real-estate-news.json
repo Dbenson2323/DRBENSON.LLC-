@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:52:57.946Z",
+  "generatedAt": "2026-11-15T13:46:31.770Z",
   "news": [
     {
       "market": "miami",
@@ -1766,52 +1766,6 @@
           {
             "role": "Broker",
             "name": "Draper and Kramer Inc."
-          }
-        ]
-      }
-    },
-    {
-      "market": "denver",
-      "assetClass": "office",
-      "title": "PAULS Returns to Denver Tech Center, Acquires 335,908 SF Office Tower",
-      "blurb": "DENVER — PAULS has purchased Regency Plaza, a 15-story office tower located at 4643 S. Ulster St. in Denver Tech Center, from Granite Properties for an undisclosed price. The acquisition marks a return of ownership for Regency Plaza, which was previously owned by PAULS. Originally built in 1985 and repositioned in…",
-      "url": "https://rebusinessonline.com/pauls-returns-to-denver-tech-center-acquires-335908-sf-office-tower/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-01T12:55:19.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": "335,908 SF",
-        "parties": [
-          {
-            "role": "Buyer",
-            "name": "PAULS"
-          }
-        ]
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "multifamily",
-      "title": "Greenstone Partners Arranges $3.2M Sale of Apartment, Retail Building in Chicago",
-      "blurb": "CHICAGO — Greenstone Partners has arranged the $3.2 million sale of a three-story, 4,650-square-foot property located at 1560 N. Damen Ave. in Chicago’s Wicker Park. The ground-floor retail space is occupied by Stan’s Donuts & Coffee, a regional bakery that has operated at the location since its founding in 2013.…",
-      "url": "https://rebusinessonline.com/greenstone-partners-arranges-3-2m-sale-of-apartment-retail-building-in-chicago/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-01T12:42:14.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": "$3.2M",
-        "amountValue": 3200000,
-        "pricePerUnit": "$688 / SF",
-        "size": "4,650 SF",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Greenstone Partners"
           }
         ]
       }
