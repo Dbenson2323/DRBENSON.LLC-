@@ -1,6 +1,259 @@
 {
-  "generatedAt": "2026-11-14T18:40:30.539Z",
+  "generatedAt": "2026-11-15T19:17:21.435Z",
   "stories": [
+    {
+      "id": "s1547784978",
+      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "blurb": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet. The post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-15T10:06:21.000Z",
+      "factualScore": 80,
+      "qualityScore": 82,
+      "overallScore": 81,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "3 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Measured results",
+            "detail": "Refers to benchmarks, datasets or evaluations"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 58"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "42 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "83% unique words"
+          }
+        ],
+        "wordsAnalyzed": 51
+      },
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "document",
+      "image": null
+    },
+    {
+      "id": "s917489848",
+      "title": "sarpsepici/probabilistic-artificial-intelligence: Course Projects: Probabilistic Artificial Intelligence",
+      "blurb": "Course Projects: Probabilistic Artificial Intelligence",
+      "url": "https://github.com/sarpsepici/probabilistic-artificial-intelligence",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-15T09:47:09.000Z",
+      "factualScore": 71,
+      "qualityScore": 55,
+      "overallScore": 65,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Low",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -4,
+            "label": "Too little text",
+            "detail": "Not enough detail to support the claims"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Only 5 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 12
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/115545809?v=4"
+    },
+    {
+      "id": "s1416284540",
+      "title": "Where was Nvidia’s security team?",
+      "blurb": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "factualScore": 66,
+      "qualityScore": 63,
+      "overallScore": 65,
+      "factualVerdict": "Mixed",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -5,
+            "label": "Question headline",
+            "detail": "Headlines posed as questions usually signal speculation"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Attributed claims",
+            "detail": "Says who the information comes from"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": -5,
+            "label": "Very hard to read",
+            "detail": "Reading ease 2"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "57 words"
+          },
+          {
+            "points": -3,
+            "label": "Run-on sentences",
+            "detail": "57 words per sentence on average"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "91% unique words"
+          }
+        ],
+        "wordsAnalyzed": 62
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024"
+    },
+    {
+      "id": "s1837589717",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "blurb": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "factualScore": 73,
+      "qualityScore": 65,
+      "overallScore": 70,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 3,
+            "label": "Some numbers",
+            "detail": "1 figure cited"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Only 13 words"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 27
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024"
+    },
     {
       "id": "s310341395",
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
@@ -257,7 +510,7 @@
         "#22D3EE"
       ],
       "icon": "document",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-5-scaled.png"
     },
     {
       "id": "s1054472865",
@@ -325,6 +578,68 @@
       ],
       "icon": "code",
       "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-1-2-scaled.png"
+    },
+    {
+      "id": "s706782588",
+      "title": "emrealtindag/ai-path: my personal study notes and code on artificial intelligence, robotics, and autonomous systems throughout my engineering journey. an archive i will continuously reference.",
+      "blurb": "my personal study notes and code on artificial intelligence, robotics, and autonomous systems throughout my engineering journey. an archive i will continuously reference.",
+      "url": "https://github.com/emrealtindag/ai-path",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "Robotics",
+      "publishedAt": "2026-11-13T23:04:55.000Z",
+      "factualScore": 75,
+      "qualityScore": 46,
+      "overallScore": 63,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -5,
+            "label": "Very hard to read",
+            "detail": "Reading ease 11"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 23 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "25 words"
+          },
+          {
+            "points": -3,
+            "label": "Vague",
+            "detail": "Few names, products or figures"
+          }
+        ],
+        "wordsAnalyzed": 48
+      },
+      "gradient": [
+        "#F97316",
+        "#EAB308"
+      ],
+      "icon": "robot",
+      "image": "https://avatars.githubusercontent.com/u/233481804?v=4"
     },
     {
       "id": "s1473978168",
@@ -624,7 +939,7 @@
         "#6366F1"
       ],
       "icon": "eye",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-4-scaled.png"
     },
     {
       "id": "s106038627",
@@ -758,7 +1073,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-3-scaled.png"
     },
     {
       "id": "s623644497",
@@ -1388,7 +1703,7 @@
         "#22D3EE"
       ],
       "icon": "brain",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-19999-1-1-scaled.png"
     },
     {
       "id": "s436110912",
@@ -3975,6 +4290,58 @@
       "image": null
     },
     {
+      "id": "s1750674271",
+      "title": "pavan-nagesh/MissMinutes: Conscious artificial Intelligence",
+      "blurb": "Conscious artificial Intelligence",
+      "url": "https://github.com/pavan-nagesh/MissMinutes",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-12T18:40:21.000Z",
+      "factualScore": 71,
+      "qualityScore": 52,
+      "overallScore": 63,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Low",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -4,
+            "label": "Too little text",
+            "detail": "Not enough detail to support the claims"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Only 3 words"
+          }
+        ],
+        "wordsAnalyzed": 8
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/355868576?v=4"
+    },
+    {
       "id": "s475052090",
       "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
       "blurb": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
@@ -5087,6 +5454,73 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801"
     },
     {
+      "id": "s1576309987",
+      "title": "From AI ambition to business impact",
+      "blurb": "Most business leaders I meet no longer need to be convinced that AI works. They’ve seen the pilots, the demos and the copilots. The post From AI ambition to business impact appeared first on The Microsoft Cloud Blog .",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "sourceName": "Microsoft AI Blog",
+      "sourceType": "official",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-12T17:03:22.000Z",
+      "factualScore": 66,
+      "qualityScore": 78,
+      "overallScore": 71,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Lab / company announcement",
+        "factualStart": 74,
+        "qualityStart": 68,
+        "factual": [
+          {
+            "points": -5,
+            "label": "Self-promotion",
+            "detail": "A company describing its own product; claims aren't independently checked"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 72"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 38 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "82% unique words"
+          }
+        ],
+        "wordsAnalyzed": 44
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://blogs.microsoft.com/wp-content/uploads/2026/11/OMB-Frontier-Co-Momentum-Hero-1024x576.jpg"
+    },
+    {
       "id": "s1980989584",
       "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
       "blurb": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
@@ -5323,6 +5757,73 @@
       ],
       "icon": "rocket",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
+    },
+    {
+      "id": "s1062648211",
+      "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "blurb": "Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The post Scaling AI value without losing control:…",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "sourceName": "Microsoft AI Blog",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-12T16:27:13.000Z",
+      "factualScore": 83,
+      "qualityScore": 84,
+      "overallScore": 83,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Lab / company announcement",
+        "factualStart": 74,
+        "qualityStart": 68,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": 3,
+            "label": "Some numbers",
+            "detail": "2 figures cited"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 66"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "72 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "83% unique words"
+          }
+        ],
+        "wordsAnalyzed": 82
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://blogs.microsoft.com/wp-content/uploads/2026/11/OMB-IDC-2026-hero-Final-11_11-1024x576.png"
     },
     {
       "id": "s1027637307",
@@ -23033,597 +23534,6 @@
           }
         ],
         "wordsAnalyzed": 62
-      }
-    },
-    {
-      "id": "s1887969967",
-      "title": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-      "blurb": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes, not what it outputs. Experiments see that law only through finite, partial and noisy interventions. We ask when such a quantity is identifiable from an…",
-      "url": "https://arxiv.org/abs/2611.08469v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-11-05T18:55:31.000Z",
-      "factualScore": 79,
-      "qualityScore": 80,
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null,
-      "overallScore": 79,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "50 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 24 — heavy jargon"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "88% unique words"
-          }
-        ],
-        "wordsAnalyzed": 62
-      }
-    },
-    {
-      "id": "s1887973811",
-      "title": "Towards interpreting any residual stream direction by scaling activation inversion",
-      "blurb": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus contains. We develop Maximally-Activating Example Metamodels (MAEMs), language models which map residual stream directions from a subject model to text exemplars…",
-      "url": "https://arxiv.org/abs/2611.08465v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-05T18:54:40.000Z",
-      "factualScore": 79,
-      "qualityScore": 79,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null,
-      "overallScore": 79,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "57 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "75% unique words"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 45"
-          }
-        ],
-        "wordsAnalyzed": 67
-      }
-    },
-    {
-      "id": "s1887976694",
-      "title": "OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions",
-      "blurb": "Vision-Language-Action (VLA) models can perform a wide range of robotic manipulation tasks, but often fail during deployment. Teaching them to recover from these failures requires substantial corrective data: existing approaches learn to recover from failures by directly associating corrective actions with the observations in which they were demonstrated.…",
-      "url": "https://arxiv.org/abs/2611.08462v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-11-05T18:53:16.000Z",
-      "factualScore": 79,
-      "qualityScore": 76,
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "48 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 17 — heavy jargon"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "90% unique words"
-          }
-        ],
-        "wordsAnalyzed": 56
-      }
-    },
-    {
-      "id": "s1888000719",
-      "title": "Latent RL Priors for Data-Efficient Dexterous Manipulation",
-      "blurb": "Learning dexterous manipulation from limited visual demonstrations is challenging because policies must acquire both perceptual grounding and precise control, while reinforcement learning (RL) in simulation can acquire rich control behaviors from large-scale interaction with privileged information. We introduce \\textbf{Latent RL Prior}, a two-stage…",
-      "url": "https://arxiv.org/abs/2611.08458v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-11-05T18:50:06.000Z",
-      "factualScore": 74,
-      "qualityScore": 79,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "eye",
-      "image": null,
-      "overallScore": 76,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -5,
-            "label": "Opinion language",
-            "detail": "Subjective framing (“should,” “I think,” “the truth about”)"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 4"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "44 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "89% unique words"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 51
-      }
-    },
-    {
-      "id": "s1888001680",
-      "title": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness",
-      "blurb": "Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the small or vanishing step sizes regime, where GD resembles a continuous-time flow. However, such step sizes can make training inefficient and are rarely used in…",
-      "url": "https://arxiv.org/abs/2611.08457v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-11-05T18:48:50.000Z",
-      "factualScore": 79,
-      "qualityScore": 83,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": null,
-      "overallScore": 81,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "56 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "88% unique words"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 43"
-          }
-        ],
-        "wordsAnalyzed": 67
-      }
-    },
-    {
-      "id": "s1888005524",
-      "title": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO",
-      "blurb": "On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy compared with reinforcement learning? We systematically compare vanilla reverse-KL OPD with Group Relative Policy Optimization (GRPO) across task difficulty,…",
-      "url": "https://arxiv.org/abs/2611.08453v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-11-05T18:47:05.000Z",
-      "factualScore": 81,
-      "qualityScore": 82,
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "eye",
-      "image": null,
-      "overallScore": 81,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": 2,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "49 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 19 — heavy jargon"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "92% unique words"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 58
-      }
-    },
-    {
-      "id": "s1888006485",
-      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
-      "blurb": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success can therefore depend on their ability to fill in missing details, rather than on the released artifacts alone. We ask whether preserving recovered procedures…",
-      "url": "https://arxiv.org/abs/2611.08452v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-11-05T18:45:36.000Z",
-      "factualScore": 83,
-      "qualityScore": 73,
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "rocket",
-      "image": null,
-      "overallScore": 79,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": 2,
-            "label": "Checkable artifact",
-            "detail": "Points to code, weights, a paper or data you can inspect"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 13"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "46 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "93% unique words"
-          }
-        ],
-        "wordsAnalyzed": 53
-      }
-    },
-    {
-      "id": "s1888029549",
-      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
-      "blurb": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions…",
-      "url": "https://arxiv.org/abs/2611.08449v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-05T18:44:43.000Z",
-      "factualScore": 79,
-      "qualityScore": 80,
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "robot",
-      "image": null,
-      "overallScore": 79,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Solid summary",
-            "detail": "48 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 25 — heavy jargon"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "94% unique words"
-          }
-        ],
-        "wordsAnalyzed": 57
       }
     }
   ]
