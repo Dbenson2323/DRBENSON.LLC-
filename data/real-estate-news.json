@@ -1,6 +1,110 @@
 {
-  "generatedAt": "2026-11-16T05:52:18.811Z",
+  "generatedAt": "2026-11-16T15:26:03.482Z",
   "news": [
+    {
+      "market": "sanfrancisco",
+      "assetClass": "office",
+      "title": "Joint Venture Buys Google-Occupied, 49,560 SF Office Building in Downtown San Francisco",
+      "blurb": "SAN FRANCISCO — A joint venture between affiliates of 1754 Properties and Vander Capital Partners has acquired 40 Jessie Street, an office building in downtown San Francisco. Terms of the transaction were not released. Google fully occupies the 49,560-square-foot building. Google and its predecessor affiliate has…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "49,560 SF",
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Joint Venture"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/joint-venture-buys-google-occupied-49560-sf-office-building-in-downtown-san-francisco/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-16T15:19:09.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "Newmark Brokers Sale of 226-Unit Ashford at Geneva Apartments in Metro Chicago",
+      "blurb": "GENEVA, ILL. — Newmark has arranged the sale of Ashford at Geneva, a 226-unit multifamily property in Geneva. Susan Lawson, Liz Gagliardi and Chuck Johanns of Newmark represented the seller, an investment entity controlled by Oak Residential Partners. The buyer was an affiliate of Equus Capital Partners Ltd. The…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "226 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Newmark"
+          },
+          {
+            "role": "Seller",
+            "name": "Oak Residential Partners"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/newmark-brokers-sale-of-226-unit-ashford-at-geneva-apartments-in-metro-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-16T14:58:48.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "office",
+      "title": "Newmark Arranges $101M Loan for Refinancing of Downtown Miami Office Tower",
+      "blurb": "MIAMI — Newmark has arranged a $101 million loan for the refinancing of 100 Biscayne Boulevard, a 317,000-square-foot office tower located in downtown Miami. Jordan Roeschlaub, Nick Scribani, Adam Spies and Josh King of Newmark secured the loan through Derby Lane Partners and Axonic Capital on behalf of the owner,…",
+      "deal": {
+        "version": 2,
+        "type": "Refinancing",
+        "amount": "$101M",
+        "amountValue": 101000000,
+        "pricePerUnit": "$319 / SF",
+        "size": "317,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Newmark"
+          },
+          {
+            "role": "Owner",
+            "name": "RFR"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/newmark-arranges-101m-loan-for-refinancing-of-downtown-miami-office-tower/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-16T14:37:20.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Marcus & Millichap Brokers $8.9M Sale of Retail Strip Center in Eustis, Florida",
+      "blurb": "EUSTIS, FLA. —Marcus & Millichap has negotiated the sale of Lake Hills Plaza, a 93,703-square-foot retail strip center located in Eustis, about 35 miles northwest of Orlando. The undisclosed buyer purchased the center for $8.9 million in a bank-owned REO transaction. Drew Kristol and Kirk Olson of Marcus & Millichap…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$8.9M",
+        "amountValue": 8900000,
+        "pricePerUnit": "$95 / SF",
+        "size": "93,703 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Marcus & Millichap"
+          },
+          {
+            "role": "Seller",
+            "name": "firm"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/marcus-millichap-brokers-8-9m-sale-of-retail-strip-center-in-eustis-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-16T14:00:00.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "general",
@@ -1743,29 +1847,6 @@
           {
             "role": "Buyer",
             "name": "Becovic Residential"
-          }
-        ]
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "multifamily",
-      "title": "Draper and Kramer Arranges Two Loans Totaling $27.5M for Chicago-Area Multifamily, Distribution Properties",
-      "blurb": "CHICAGO AND BRIDGEVIEW, ILL. — Draper and Kramer Inc. has arranged two loans totaling $27.5 million. The transactions include a $13.5 million loan to finance the acquisition of a three-building industrial complex in Bridgeview, a southwest suburb of Chicago, and a $14 million bridge loan for a 56-unit multifamily…",
-      "url": "https://rebusinessonline.com/draper-and-kramer-arranges-two-loans-totaling-27-5m-for-chicago-area-multifamily-distribution-properties/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-02T13:01:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Financing",
-        "amount": "$27.5M",
-        "amountValue": 27500000,
-        "pricePerUnit": null,
-        "size": null,
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Draper and Kramer Inc."
           }
         ]
       }
