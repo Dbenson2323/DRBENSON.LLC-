@@ -1,6 +1,33 @@
 {
-  "generatedAt": "2026-11-17T01:47:40.902Z",
+  "generatedAt": "2026-11-17T15:47:30.991Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "multifamily",
+      "title": "Rockefeller Group, Summit Capital Dispose of 250-Unit High-Rise Apartment Complex in Denver",
+      "blurb": "DENVER — A joint venture between Rockefeller Group and Summit Capital Venture Partners has completed the disposition of Patten Gray, a high-rise multifamily property in Denver’s Golden Triangle neighborhood. Weidner Apartment Homes acquired the asset for an undisclosed price. Courtney Crowder and Jack Kachadurian of…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "250 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Newmark"
+          },
+          {
+            "role": "Buyer",
+            "name": "Weidner Apartment Homes"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/rockefeller-group-summit-capital-dispose-of-250-unit-high-rise-apartment-complex-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-17T14:58:13.000Z"
+    },
     {
       "market": "sanfrancisco",
       "assetClass": "office",
