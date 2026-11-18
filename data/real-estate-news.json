@@ -1,6 +1,114 @@
 {
-  "generatedAt": "2026-11-18T00:50:41.612Z",
+  "generatedAt": "2026-11-18T15:27:35.086Z",
   "news": [
+    {
+      "market": "denver",
+      "assetClass": "multifamily",
+      "title": "Kairoi Residential Secures $88.2M in Bridge Financing for Vixen Multifamily Community in Denver",
+      "blurb": "DENVER — Kairoi Residential has received $88.2 million in bridge financing for The Vixen, a Class A apartment property at 1150 E. Colfax Ave. in Denver’s Capitol Hill/Cheesman Park neighborhood. Leon McBroom, Travis Anderson and Kevin Barron of JLL Capital Markets Debt Advisory arranged the floating-rate construction…",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": "$88.2M",
+        "amountValue": 88200000,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets Debt Advisory"
+          },
+          {
+            "role": "Borrower",
+            "name": "Kairoi Residential"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/kairoi-residential-secures-88-2m-in-bridge-financing-for-vixen-multifamily-community-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-18T14:33:53.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "JLL Arranges Financing for 419-Unit Luxury Multifamily Development in Evanston, Illinois",
+      "blurb": "EVANSTON, ILL. — JLL Capital Markets has arranged financing and equity for 605 Davis, a 419-unit luxury multifamily development in downtown Evanston. Chris Knight, Ryan Planek and Christian Johnston of JLL secured joint venture equity from Kayne Anderson and a senior construction loan from CIBC and ULLICO on behalf…",
+      "deal": {
+        "version": 2,
+        "type": "Financing",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "419 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets"
+          },
+          {
+            "role": "Borrower",
+            "name": "Vermilion Development"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/jll-arranges-financing-for-419-unit-luxury-multifamily-development-in-evanston-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-18T14:28:44.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "WeWork Renews 73,000 SF Office Lease in Chicago’s River North",
+      "blurb": "CHICAGO — WeWork has renewed its lease at 515 N. State St. in Chicago. The company will continue to occupy 73,000 square feet across three floors of the River North office building through 2034. Beacon Capital Partners owns the property, which was designed by architect Kenzo Tange. Amenities at the building include…",
+      "deal": {
+        "version": 2,
+        "type": "Lease",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "73,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "CBRE"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/wework-renews-73000-sf-office-lease-in-chicagos-river-north/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-18T14:27:56.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "office",
+      "title": "NAI Hiffman Negotiates Sale of 30,000 SF Flex Office Building in Woodridge, Illinois",
+      "blurb": "WOODRIDGE, ILL. — NAI Hiffman has negotiated the sale of a 30,000-square-foot flex office building at 9026 Heritage Parkway in Woodridge. Aubrey Englund of NAI Hiffman represented the buyer, GlitterStarz Inc., a provider of custom cheerleading and dance apparel. Adam Johnson and Tom Gnadt of NAI Hiffman represented…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "30,000 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "NAI Hiffman"
+          },
+          {
+            "role": "Buyer",
+            "name": "GlitterStarz Inc"
+          },
+          {
+            "role": "Seller",
+            "name": "Hartz Construction"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/nai-hiffman-negotiates-sale-of-30000-sf-flex-office-building-in-woodridge-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-18T14:27:28.000Z"
+    },
     {
       "market": "denver",
       "assetClass": "multifamily",
