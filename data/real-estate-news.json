@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T15:12:47.342Z",
+  "generatedAt": "2026-11-20T23:53:08.920Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "industrial",
+      "title": "Cushman & Wakefield Arranges 274,040 SF Industrial Lease in Lakeland, Florida",
+      "blurb": "LAKELAND, FLA. — Cushman & Wakefield has arranged a 274,040-square-foot industrial lease with World Electric Supply at a 520,042-square-foot warehouse and distribution facility in Lakeland, a city in Central Florida between Tampa and Orlando. The facility, Building 100, sits within Key Logistics Center, which spans…",
+      "deal": {
+        "version": 2,
+        "type": "Lease",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "274,040 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Cushman & Wakefield"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/cushman-wakefield-arranges-274040-sf-industrial-lease-in-lakeland-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-20T15:14:04.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "hospitality",
@@ -1942,52 +1965,6 @@
           {
             "role": "Broker",
             "name": "Marcus & Millichap"
-          }
-        ]
-      }
-    },
-    {
-      "market": "miami",
-      "assetClass": "general",
-      "title": "Subtext Completes Student Housing Developments in Florida, Tennessee",
-      "blurb": "ORLANDO, FLA. AND KNOXVILLE, TENN. — Subtext has completed two student housing developments in Florida and Tennessee. Projects include VERVE Orlando, a 626-bed community located at 3133 N. Alafaya Trail near the University of Central Florida campus in Orlando; and EVER Knoxville, a 498-bed property located at 1919…",
-      "url": "https://rebusinessonline.com/subtext-completes-two-student-housing-developments-in-florida-tennessee/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T15:41:08.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Development",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": null,
-        "parties": [
-          {
-            "role": "Developer",
-            "name": "Subtext"
-          }
-        ]
-      }
-    },
-    {
-      "market": "miami",
-      "assetClass": "general",
-      "title": "Walmart to Open 40,344 SF Grocery Store in Metro Miami",
-      "blurb": "DORAL, FLA. — Terra has signed Walmart to a 40,344-square-foot retail lease at Doral Atrium, a 78,000-square-foot lifestyle retail development in Doral, a western suburb of Miami. Walmart plans to open a new neighborhood-format grocery store at the project. Construction of the new Walmart Neighborhood Market is…",
-      "url": "https://rebusinessonline.com/walmart-to-open-40344-sf-grocery-store-in-metro-miami/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T15:35:01.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Expansion",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": "40,344 SF",
-        "parties": [
-          {
-            "role": "Developer",
-            "name": "Walmart"
           }
         ]
       }
