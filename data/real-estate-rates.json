@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:33:36.950Z",
+  "generatedAt": "2026-11-20T00:30:37.392Z",
   "rates": {
     "fedFundsRate": {
       "date": "2026-10-01",
@@ -8,14 +8,14 @@
       "source": "https://fred.stlouisfed.org/series/FEDFUNDS"
     },
     "treasury10Y": {
-      "date": "2026-11-17",
-      "value": 5.1,
+      "date": "2026-11-18",
+      "value": 5.07,
       "label": "10-Year Treasury Constant Maturity Rate",
       "source": "https://fred.stlouisfed.org/series/DGS10"
     },
     "mortgage30Y": {
-      "date": "2026-11-12",
-      "value": 7.11,
+      "date": "2026-11-19",
+      "value": 7.28,
       "label": "30-Year Fixed-Rate Mortgage Average",
       "source": "https://fred.stlouisfed.org/series/MORTGAGE30US"
     }
