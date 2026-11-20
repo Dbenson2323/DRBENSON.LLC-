@@ -1,6 +1,87 @@
 {
-  "generatedAt": "2026-11-20T00:30:37.741Z",
+  "generatedAt": "2026-11-20T15:12:47.342Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "hospitality",
+      "title": "Hunter Advisors Arranges $110M Sale of Hotel Portfolio Near Chicago Midway Airport",
+      "blurb": "CHICAGO — Hunter Advisors has arranged the sale and financing of a seven-hotel, 1057-room hotel portfolio near Chicago Midway International Airport. Spencer Davidson of Hunter Advisors brokered the transaction, and Hunter Capital Markets arranged acquisition financing on behalf of the buyer. The properties sit along…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$110M",
+        "amountValue": 110000000,
+        "pricePerUnit": "$104K / room",
+        "size": "1,057 rooms",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Hunter Advisors"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/hunter-advisors-arranges-110m-sale-of-hotel-portfolio-near-chicago-midway-airport/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-20T15:04:02.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "multifamily",
+      "title": "JLL Brokers $31.3M Sale of Boutique Apartment Building in Chicago",
+      "blurb": "CHICAGO — JLL Capital Markets has brokered the $31.3 million sale of The Medallion, a 72-unit luxury boutique apartment property in Chicago’s Lakeview neighborhood. Completed in 2023 through the conversion of a former parking garage, The Medallion comprises 43,953 square feet of residential space across studio, one-…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$31.3M",
+        "amountValue": 31300000,
+        "pricePerUnit": "$435K / unit",
+        "size": "72 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "JLL Capital Markets"
+          },
+          {
+            "role": "Seller",
+            "name": "JSM Venture LLC"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/jll-brokers-31-3m-sale-of-boutique-apartment-building-in-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-20T15:01:19.000Z"
+    },
+    {
+      "market": "denver",
+      "assetClass": "general",
+      "title": "Knightbridge Capital, River Rise Capital Acquire Six-Story Mixed-Use Building in Denver",
+      "blurb": "DENVER — A joint venture between Knightbridge Capital and River Rise Capital has purchased a six-story office and retail building at 3300 E. 1st Ave. in Denver’s Cherry Creek neighborhood. Terms of the transaction were not released. PNC Bank provided acquisition financing for the joint venture. Totaling 97,770 square…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Buyer",
+            "name": "Knightbridge Capital"
+          },
+          {
+            "role": "Buyer",
+            "name": "River Rise Capital"
+          },
+          {
+            "role": "Lender",
+            "name": "PNC Bank"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/knightbridge-capital-river-rise-capital-acquire-six-story-mixed-use-building-in-denver/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-20T14:35:26.000Z"
+    },
     {
       "market": "chicago",
       "assetClass": "multifamily",
@@ -1907,102 +1988,6 @@
           {
             "role": "Developer",
             "name": "Walmart"
-          }
-        ]
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "retail",
-      "title": "Mid-America Negotiates Sale of 240,345 SF Shopping Center in Lombard, Illinois",
-      "blurb": "LOMBARD, ILL. — Mid-America Real Estate Corp. has negotiated the sale of High Point Centre, a 240,345-square-foot shopping center in Lombard. The property presents a value-add opportunity, as it is 68 percent leased. Tenants include LA Fitness, Altitude Trampoline Park, Ace Dental, Burger King, Mango Mango Desserts,…",
-      "url": "https://rebusinessonline.com/mid-america-negotiates-sale-of-240345-sf-shopping-center-in-lombard-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T13:03:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": "240,345 SF",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Mid-America Real Estate Corp."
-          }
-        ]
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "retail",
-      "title": "Quantum Brokers $7.3M Sale of Retail Center in Naperville, Illinois",
-      "blurb": "NAPERVILLE, ILL. — Quantum Real Estate Advisors Inc. has brokered the $7.3 million sale of a 23,000-square-foot retail center in Naperville. Located at 175 W. Jackson St., the property consists of eight suites. The buyer was a Chicago-based family office, and the seller was a private family that had owned and managed…",
-      "url": "https://rebusinessonline.com/quantum-brokers-7-3m-sale-of-retail-center-in-naperville-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T13:00:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": "$7.3M",
-        "amountValue": 7300000,
-        "pricePerUnit": "$317 / SF",
-        "size": "23,000 SF",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Quantum Real Estate Advisors Inc."
-          }
-        ]
-      }
-    },
-    {
-      "market": "denver",
-      "assetClass": "office",
-      "title": "Unique Properties/TCN Negotiates Sale of 97,992 SF Office Building in Golden, Colorado",
-      "blurb": "GOLDEN, COLO. — Unique Properties/TCN Worldwide has negotiated the sale of 2801 Youngfield Street, an 97,992-square-foot office building in Golden, a western suburb of Denver. HGN Realty sold the asset to an undisclosed buyer for $6.5 million. Rachel Colorosa and Zach Schuchman of Unique Properties/TCN Worldwide…",
-      "url": "https://rebusinessonline.com/unique-properties-tcn-negotiates-sale-of-97992-sf-office-building-in-golden-colorado/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T12:44:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": "$6.5M",
-        "amountValue": 6500000,
-        "pricePerUnit": null,
-        "size": "97,992 SF",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Unique Properties/TCN Worldwide"
-          },
-          {
-            "role": "Seller",
-            "name": "HGN Realty"
-          }
-        ]
-      }
-    },
-    {
-      "market": "sanfrancisco",
-      "assetClass": "multifamily",
-      "title": "Marcus & Millichap Brokers $6.3M Sale of San Francisco Multifamily Portfolio",
-      "blurb": "SAN FRANCISCO — Marcus & Millichap has brokered the sale of a portfolio of two multifamily properties at 1159-1169 and 1067-1071 Union St. in San Francisco’s Russian Hill neighborhood. The properties sold for a combined $6.3 million after approximately 50 years under the same family ownership. Philip Batlin,…",
-      "url": "https://rebusinessonline.com/marcus-millichap-brokers-6-3m-sale-of-san-francisco-multifamily-portfolio/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-06T12:42:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": "$6.3M",
-        "amountValue": 6300000,
-        "pricePerUnit": null,
-        "size": null,
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Marcus & Millichap"
           }
         ]
       }
