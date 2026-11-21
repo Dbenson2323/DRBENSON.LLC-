@@ -1,6 +1,393 @@
 {
-  "generatedAt": "2026-11-20T20:58:15.951Z",
+  "generatedAt": "2026-11-21T19:59:29.633Z",
   "stories": [
+    {
+      "id": "s450748807",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "blurb": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "factualScore": 69,
+      "qualityScore": 70,
+      "overallScore": 69,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 55"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 28 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 41
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
+    },
+    {
+      "id": "s1365459726",
+      "title": "detailedinc/FREE-AI-AGENT-CODER: FREE AI AGENT CODER – Free Cloud-Based AI Programmer for Windows FREE AI AGENT CODER is a free, cloud-based AI programming assistant designed to make software development easier, faster, and more accessible. This lightweight AI agent allows users to work with artificial intelligence for programming and coding tasks",
+      "blurb": "FREE AI AGENT CODER – Free Cloud-Based AI Programmer for Windows FREE AI AGENT CODER is a free, cloud-based AI programming assistant designed to make software development easier, faster, and more accessible. This lightweight AI agent allows users to work with artificial intelligence for programming and coding tasks",
+      "url": "https://github.com/detailedinc/FREE-AI-AGENT-CODER",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-21T16:03:04.000Z",
+      "factualScore": 77,
+      "qualityScore": 65,
+      "overallScore": 72,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "47 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "49 words"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 34"
+          }
+        ],
+        "wordsAnalyzed": 96
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/210399947?v=4"
+    },
+    {
+      "id": "s1131786335",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "blurb": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "factualScore": 62,
+      "qualityScore": 72,
+      "overallScore": 66,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -5,
+            "label": "Question headline",
+            "detail": "Headlines posed as questions usually signal speculation"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 55"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 31 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "84% unique words"
+          }
+        ],
+        "wordsAnalyzed": 47
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200"
+    },
+    {
+      "id": "s946060661",
+      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "blurb": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified. The post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-21T12:13:50.000Z",
+      "factualScore": 80,
+      "qualityScore": 80,
+      "overallScore": 80,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "8 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Measured results",
+            "detail": "Refers to benchmarks, datasets or evaluations"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 70"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "51 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 65
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/mj1-scaled.png"
+    },
+    {
+      "id": "s1578157090",
+      "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "blurb": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-21T11:46:17.000Z",
+      "factualScore": 78,
+      "qualityScore": 82,
+      "overallScore": 80,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "7 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 70"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "50 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "84% unique words"
+          }
+        ],
+        "wordsAnalyzed": 62
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s1049466238",
+      "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+      "blurb": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-21T04:01:04.000Z",
+      "factualScore": 80,
+      "qualityScore": 77,
+      "overallScore": 79,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "11 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Checkable artifact",
+            "detail": "Points to code, weights, a paper or data you can inspect"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "45 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 49"
+          }
+        ],
+        "wordsAnalyzed": 54
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
     {
       "id": "s1184817903",
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -60,7 +447,7 @@
     },
     {
       "id": "s1434948690",
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "blurb": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "sourceName": "TechCrunch AI",
@@ -68,8 +455,8 @@
       "category": "AI News",
       "publishedAt": "2026-11-20T19:32:08.000Z",
       "factualScore": 75,
-      "qualityScore": 65,
-      "overallScore": 71,
+      "qualityScore": 61,
+      "overallScore": 69,
       "factualVerdict": "Mostly factual",
       "confidence": "Medium",
       "scoring": {
@@ -94,11 +481,6 @@
             "points": -8,
             "label": "Very thin summary",
             "detail": "Only 18 words"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
           },
           {
             "points": 3,
@@ -506,6 +888,78 @@
       ],
       "icon": "globe",
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800"
+    },
+    {
+      "id": "s1974117088",
+      "title": "Nishanthpoojary21/portfolio-student.dev: Hi, I'm Nishanth 👋 I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning (CSE-AIML), passionate about exploring the intersection of intelligent systems and software development. Welcome to my portfolio!.",
+      "blurb": "Hi, I'm Nishanth 👋 I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning (CSE-AIML), passionate about exploring the intersection of intelligent systems and software development. Welcome to my portfolio!.",
+      "url": "https://github.com/Nishanthpoojary21/portfolio-student.dev",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-20T11:20:16.000Z",
+      "factualScore": 75,
+      "qualityScore": 52,
+      "overallScore": 66,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -5,
+            "label": "Very hard to read",
+            "detail": "Reading ease 6"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 32 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "34 words"
+          },
+          {
+            "points": -3,
+            "label": "Shouty formatting",
+            "detail": "All-caps words or excess punctuation"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "94% unique words"
+          }
+        ],
+        "wordsAnalyzed": 66
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/327317708?v=4"
     },
     {
       "id": "s264992574",
@@ -1053,7 +1507,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-123456789-3-1024x768.png"
+      "image": null
     },
     {
       "id": "s434282055",
@@ -3429,7 +3883,7 @@
         "#22D3EE"
       ],
       "icon": "brain",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-123456789-2-scaled.png"
+      "image": null
     },
     {
       "id": "s169394447",
@@ -4630,7 +5084,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-123456789-scaled.png"
+      "image": null
     },
     {
       "id": "s1998276901",
@@ -5112,6 +5566,73 @@
       ],
       "icon": "shield",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&amp;h=900&amp;fit=fill"
+    },
+    {
+      "id": "s356390871",
+      "title": "VortexPerfumer/awesome-ai-tools: Awesome AI Tools is a curated directory resource designed to categorize top artificial intelligence software, generative models, and developer utilities in one searchable place. Creators and engineers utilize this repository to discover emerging tools, compare platform features, and accelerate workflow automation efficiently.",
+      "blurb": "Awesome AI Tools is a curated directory resource designed to categorize top artificial intelligence software, generative models, and developer utilities in one searchable place. Creators and engineers utilize this repository to discover emerging tools, compare platform features, and accelerate workflow automation efficiently.",
+      "url": "https://github.com/VortexPerfumer/awesome-ai-tools",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-18T23:57:34.000Z",
+      "factualScore": 77,
+      "qualityScore": 57,
+      "overallScore": 69,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": -5,
+            "label": "Very hard to read",
+            "detail": "Reading ease -12"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "42 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "44 words"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "90% unique words"
+          }
+        ],
+        "wordsAnalyzed": 86
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/340681998?v=4"
     },
     {
       "id": "s1498421813",
@@ -9775,6 +10296,73 @@
       ],
       "icon": "shield",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/62zvkDv3unaiLBblzJHY4f/d61ad5ec9ebc02f033d0efac3807be3e/managing-frontier-ai-risk-social.png?w=1600&amp;h=900&amp;fit=fill"
+    },
+    {
+      "id": "s723189354",
+      "title": "crossroninbay/best-ai-api-proxy: Best AI API Proxy is a centralized routing utility designed to manage, balance, and secure requests across multiple artificial intelligence service endpoints. Developers and system administrators utilize this software to optimize token usage, monitor API traffic, and ensure reliable integration with external language models.",
+      "blurb": "Best AI API Proxy is a centralized routing utility designed to manage, balance, and secure requests across multiple artificial intelligence service endpoints. Developers and system administrators utilize this software to optimize token usage, monitor API traffic, and ensure reliable integration with external language models.",
+      "url": "https://github.com/crossroninbay/best-ai-api-proxy",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-18T04:38:49.000Z",
+      "factualScore": 77,
+      "qualityScore": 57,
+      "overallScore": 69,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": -5,
+            "label": "Very hard to read",
+            "detail": "Reading ease 2"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "44 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "46 words"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "91% unique words"
+          }
+        ],
+        "wordsAnalyzed": 90
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://avatars.githubusercontent.com/u/338360075?v=4"
     },
     {
       "id": "s1281987609",
@@ -14731,6 +15319,73 @@
       ],
       "icon": "document",
       "image": "https://images.ctfassets.net/kftzwdyauwt9/5RAGjSlTriroeiI3udypQ4/ae6ec1acddc323df91930bd63f30ddd4/introducing-chatgpt-for-sales-social.png?w=1600&amp;h=900&amp;fit=fill"
+    },
+    {
+      "id": "s1932757288",
+      "title": "utkukose/ai-cardiology-tkd-NB-lecture: Artificial intelligence with Python for cardiologists, Turkish Society of Cardiology: 11 weeks of lecture pages, interactive labs, Jupyter notebooks and PDF notes. | Kardiyologlar için Python ile yapay zekâ, Türk Kardiyoloji Derneği: 11 haftalık ders sayfaları, etkileşimli lablar, Jupyter defterleri ve PDF ders notları.",
+      "blurb": "Artificial intelligence with Python for cardiologists, Turkish Society of Cardiology: 11 weeks of lecture pages, interactive labs, Jupyter notebooks and PDF notes. | Kardiyologlar için Python ile yapay zekâ, Türk Kardiyoloji Derneği: 11 haftalık ders sayfaları, etkileşimli lablar, Jupyter defterleri ve PDF ders notları.",
+      "url": "https://github.com/utkukose/ai-cardiology-tkd-NB-lecture",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-17T07:29:59.000Z",
+      "factualScore": 84,
+      "qualityScore": 64,
+      "overallScore": 76,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "4 figures or measurements cited"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "48 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "50 words"
+          },
+          {
+            "points": -2,
+            "label": "Dense prose",
+            "detail": "Reading ease 19 — heavy jargon"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "85% unique words"
+          }
+        ],
+        "wordsAnalyzed": 98
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/60503692?v=4"
     },
     {
       "id": "s1544781414",
@@ -21301,8 +21956,8 @@
     },
     {
       "id": "s706782588",
-      "title": "emrealtindag/ai-path: my personal study notes and code on artificial intelligence, robotics, and autonomous systems throughout my engineering journey. an archive i will continuously reference.",
-      "blurb": "my personal study notes and code on artificial intelligence, robotics, and autonomous systems throughout my engineering journey. an archive i will continuously reference.",
+      "title": "emrealtindag/ai-path: my personal notes and code on artificial intelligence, robotics, and autonomous systems throughout my engineering journey. an archive i will continuously reference.",
+      "blurb": "my personal notes and code on artificial intelligence, robotics, and autonomous systems throughout my engineering journey. an archive i will continuously reference.",
       "url": "https://github.com/emrealtindag/ai-path",
       "sourceName": "GitHub Trending",
       "sourceType": "opensource",
@@ -21339,12 +21994,12 @@
           {
             "points": -3,
             "label": "Brief summary",
-            "detail": "Only 23 words"
+            "detail": "Only 22 words"
           },
           {
             "points": -3,
             "label": "Overlong headline",
-            "detail": "25 words"
+            "detail": "24 words"
           },
           {
             "points": -3,
@@ -21352,7 +22007,7 @@
             "detail": "Few names, products or figures"
           }
         ],
-        "wordsAnalyzed": 48
+        "wordsAnalyzed": 46
       },
       "gradient": [
         "#F97316",
@@ -23180,721 +23835,6 @@
       ],
       "icon": "globe",
       "image": null
-    },
-    {
-      "id": "s999723433",
-      "title": "Asymptotic Margins and Feature Confinement in Conic Classification Heads under Softmax Cross-Entropy",
-      "blurb": "Classification heads built on conic functions give each class a bounded region of the feature space, and such regions are used to reject samples of unseen classes. We ask whether these regions also keep the features bounded when the head is trained with softmax cross-entropy. For a head whose class scores combine a linear term with a Euclidean norm, we…",
-      "url": "https://arxiv.org/abs/2611.18507v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-11-13T18:24:04.000Z",
-      "factualScore": 88,
-      "qualityScore": 83,
-      "overallScore": 86,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "4 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "227 words"
-          },
-          {
-            "points": 4,
-            "label": "Easy to read",
-            "detail": "Reading ease 58"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          }
-        ],
-        "wordsAnalyzed": 239
-      },
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
-      "image": null
-    },
-    {
-      "id": "s999724394",
-      "title": "Agentic induction of common data elements and information extraction from sarcoma case report abstracts",
-      "blurb": "Common data elements (CDEs) support clinical data comparability but are usually defined manually. We investigated whether large language model agents could derive a CDE schema from sarcoma case report abstracts and apply it at scale. An agent proposed 72,909 candidate CDEs from 24,588 PubMed abstracts; agentic consolidation yielded 1,570 CDEs. We retained…",
-      "url": "https://arxiv.org/abs/2611.18506v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-13T18:23:11.000Z",
-      "factualScore": 87,
-      "qualityScore": 86,
-      "overallScore": 87,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "15 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "Speculative language",
-            "detail": "1 hedge like “could,” “reportedly,” “expected to”"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "148 words"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "79% unique words"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 47"
-          }
-        ],
-        "wordsAnalyzed": 162
-      },
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s999725355",
-      "title": "Disturbance-Aware Informative Planning in Spatiotemporal Environments",
-      "blurb": "Autonomous robots are widely used for persistent monitoring of spatiotemporal environments, where quantities of interest (QoI) change across space and time and require repeated measurements. In practice, robot motion can be affected by external disturbances that vary across the environment. When such external disturbances are not considered in trajectory…",
-      "url": "https://arxiv.org/abs/2611.18505v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-11-13T18:22:50.000Z",
-      "factualScore": 87,
-      "qualityScore": 73,
-      "overallScore": 81,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 3,
-            "label": "Some numbers",
-            "detail": "2 figures cited"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "216 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease -2"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -3,
-            "label": "Vague",
-            "detail": "Few names, products or figures"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 222
-      },
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s999726316",
-      "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
-      "blurb": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc.…",
-      "url": "https://arxiv.org/abs/2611.18504v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-13T18:20:23.000Z",
-      "factualScore": 81,
-      "qualityScore": 74,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "147 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -3,
-            "label": "Vague",
-            "detail": "Few names, products or figures"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 18 — heavy jargon"
-          }
-        ],
-        "wordsAnalyzed": 154
-      },
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s999729199",
-      "title": "In Situ Monitoring and Predictive Modeling of Harmful Algal Blooms with Autonomous Surface Vehicles",
-      "blurb": "Harmful Algal Blooms (HABs) pose significant environmental, economic, and public-health challenges in coastal and inland water bodies, creating a need for scalable methods to collect spatially distributed water-quality data. This paper presents an autonomous surface vessel-based sensing system for in-situ water-quality monitoring related to harmful algal…",
-      "url": "https://arxiv.org/abs/2611.18501v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-11-13T18:14:56.000Z",
-      "factualScore": 83,
-      "qualityScore": 76,
-      "overallScore": 80,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": 2,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": 2,
-            "label": "Checkable artifact",
-            "detail": "Points to code, weights, a paper or data you can inspect"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "197 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease -16"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 211
-      },
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s1000379796",
-      "title": "Toward Resilient Self-Driving Laboratories through Telerobotic Interventions",
-      "blurb": "Self-driving laboratories (SDLs) accelerate scientific research by integrating robotics, automated experimentation, and machine learning to execute experiments autonomously. Biology and chemistry have adopted these systems. However, increasing SDL complexity heightens susceptibility to unexpected faults in automated workflows, highlighting the need for…",
-      "url": "https://arxiv.org/abs/2611.18496v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-11-13T18:06:25.000Z",
-      "factualScore": 79,
-      "qualityScore": 76,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "242 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease -1"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 249
-      },
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1000381718",
-      "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
-      "blurb": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical…",
-      "url": "https://arxiv.org/abs/2611.18494v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-13T18:05:33.000Z",
-      "factualScore": 94,
-      "qualityScore": 73,
-      "overallScore": 86,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "7 figures or measurements cited"
-          },
-          {
-            "points": 6,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "216 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 0"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -3,
-            "label": "Shouty formatting",
-            "detail": "All-caps words or excess punctuation"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "72% unique words"
-          }
-        ],
-        "wordsAnalyzed": 227
-      },
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s1000382679",
-      "title": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
-      "blurb": "Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limit-order-book simulator that separates detection, prevention, and execution cost. In 1,680 simulated sessions with Claude Haiku 5.5 and Sonnet 5.5, all conduct…",
-      "url": "https://arxiv.org/abs/2611.18493v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-13T18:05:23.000Z",
-      "factualScore": 92,
-      "qualityScore": 82,
-      "overallScore": 88,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "7 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 4,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "219 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "75% unique words"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 33"
-          }
-        ],
-        "wordsAnalyzed": 227
-      },
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s1000384601",
-      "title": "When Will You Hand It Over? A Hidden Start Delay Makes Self-Play Handover Robust to Unfamiliar Partners",
-      "blurb": "Cooperative self-play can teach a humanoid to receive an object without any human data, but the partner it meets after training is never the one it trained with; we show that a fluent self-play handover policy breaks with unfamiliar partners, identify the main cause, and repair it. In a physics-based parcel handover between a Unitree G1 and a learned…",
-      "url": "https://arxiv.org/abs/2611.18491v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-11-13T18:04:37.000Z",
-      "factualScore": 88,
-      "qualityScore": 81,
-      "overallScore": 85,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "12 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "215 words"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -3,
-            "label": "Run-on sentences",
-            "detail": "36 words per sentence on average"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 44"
-          }
-        ],
-        "wordsAnalyzed": 232
-      },
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s1920839568",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "blurb": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "sourceName": "Hugging Face",
-      "sourceType": "opensource",
-      "category": "Robotics",
-      "publishedAt": "2026-11-13T18:00:39.000Z",
-      "factualScore": 71,
-      "qualityScore": 55,
-      "overallScore": 65,
-      "factualVerdict": "Mostly factual",
-      "confidence": "Low",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Open-source project",
-        "factualStart": 72,
-        "qualityStart": 60,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Too little text",
-            "detail": "Not enough detail to support the claims"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": -8,
-            "label": "Very thin summary",
-            "detail": "Headline only"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          }
-        ],
-        "wordsAnalyzed": 8
-      },
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": "https://cdn-uploads.huggingface.co/production/uploads/6abfe9e7d7cf09a9b38ef308/HFZWtQ2i9VN_agjeUw2HB.gif"
     }
   ]
 }
