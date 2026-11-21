@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T06:38:29.488Z",
+  "generatedAt": "2026-11-21T18:58:13.017Z",
   "news": [
     {
       "market": "miami",
@@ -1876,97 +1876,6 @@
         "pricePerUnit": null,
         "size": "371 units",
         "parties": []
-      }
-    },
-    {
-      "market": "miami",
-      "assetClass": "office",
-      "title": "Miami Design District Associates, BH3 Partner to Develop 20-Story Office Building",
-      "blurb": "MIAMI — Miami Design District Associates and BH3 Management have formed a joint venture to develop The Ursa, a 20-story office tower in Miami’s Design District. The development was previously announced, but the newly formed joint venture has expanded the square footage of the project’s original vision by 40 percent.…",
-      "url": "https://rebusinessonline.com/miami-design-district-associates-bh3-partner-to-develop-20-story-office-building/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T15:15:25.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Development",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": "20 stories",
-        "parties": [
-          {
-            "role": "Developer",
-            "name": "Miami Design District Associates"
-          },
-          {
-            "role": "Developer",
-            "name": "BH3"
-          }
-        ]
-      }
-    },
-    {
-      "market": "miami",
-      "assetClass": "retail",
-      "title": "First Washington Realty Sells Two Miami Shopping Centers to Publix Super Markets",
-      "blurb": "MIAMI — First Washington Realty (FWR), a shopping center owner-operator based in Bethesda, Md., has sold two Publix-anchored shopping centers in Miami to Publix Super Markets Inc. The sales price was not disclosed. The properties include Airpark Plaza, a 171,443-square-foot shopping center near Miami International…",
-      "url": "https://rebusinessonline.com/first-washington-realty-sells-two-miami-shopping-centers-to-publix-super-markets/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T15:12:06.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": null,
-        "parties": [
-          {
-            "role": "Buyer",
-            "name": "Publix Super Markets Inc"
-          }
-        ]
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "general",
-      "title": "Flexday Launches Four Fractional Office Suites at PNC Centre in Chicago",
-      "blurb": "CHICAGO — Flexday, a national provider of flexible office solutions, has launched four fractional office suites at PNC Centre in Chicago’s Loop. The suites total more than 25,000 square feet and are designed to accommodate teams of 10 to 70 with flexible lease terms. The launch was made possible through a partnership…",
-      "url": "https://rebusinessonline.com/flexday-launches-four-fractional-office-suites-at-pnc-centre-in-chicago/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T13:01:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Lease",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": null,
-        "parties": []
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "general",
-      "title": "Marcus & Millichap Brokers $6.3M Sale of Medical-Anchored Retail Portfolio in La Grange, Illinois",
-      "blurb": "LA GRANGE, ILL. — Marcus & Millichap has brokered the $6.3 million sale of a three-building, medical-anchored retail portfolio in downtown La Grange. The 34,279-square-foot, 12-suite portfolio spans an entire block and is located directly across from the Stone Avenue Metra Station. Longstanding tenants include…",
-      "url": "https://rebusinessonline.com/marcus-millichap-brokers-6-3m-sale-of-medical-anchored-retail-portfolio-in-la-grange-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-07T13:00:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": "$6.3M",
-        "amountValue": 6300000,
-        "pricePerUnit": "$184 / SF",
-        "size": "34,279 SF",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Marcus & Millichap"
-          }
-        ]
       }
     }
   ]
