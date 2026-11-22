@@ -1,6 +1,492 @@
 {
-  "generatedAt": "2026-11-21T19:59:29.633Z",
+  "generatedAt": "2026-11-22T20:12:16.582Z",
   "stories": [
+    {
+      "id": "s1461540621",
+      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+      "blurb": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-22T18:37:57.000Z",
+      "factualScore": 78,
+      "qualityScore": 76,
+      "overallScore": 77,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "8 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "46 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": -3,
+            "label": "Shouty formatting",
+            "detail": "All-caps words or excess punctuation"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "80% unique words"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 40"
+          }
+        ],
+        "wordsAnalyzed": 58
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s1208129377",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "blurb": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "factualScore": 65,
+      "qualityScore": 65,
+      "overallScore": 65,
+      "factualVerdict": "Mixed",
+      "confidence": "Low",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -4,
+            "label": "Too little text",
+            "detail": "Not enough detail to support the claims"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Attributed claims",
+            "detail": "Says who the information comes from"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Only 8 words"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 20
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
+    {
+      "id": "s977908597",
+      "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+      "blurb": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost. The post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-22T10:36:17.000Z",
+      "factualScore": 67,
+      "qualityScore": 71,
+      "overallScore": 69,
+      "factualVerdict": "Mixed",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "46 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "19 words"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 31"
+          }
+        ],
+        "wordsAnalyzed": 65
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-123454-1-scaled.png"
+    },
+    {
+      "id": "s691982497",
+      "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+      "blurb": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request. The post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-22T10:03:54.000Z",
+      "factualScore": 69,
+      "qualityScore": 82,
+      "overallScore": 74,
+      "factualVerdict": "Mixed",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 51"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "48 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "75% unique words"
+          }
+        ],
+        "wordsAnalyzed": 61
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "code",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s366785669",
+      "title": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
+      "blurb": "TensorLean, from Columbia University and CertiK, formally verifies production GPU kernels at the PTX level using Lean. It checked 149 kernel instances, proved 83 correct, and found 38 bugs in FlashAttention, DeepGEMM and more. The post A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels appeared first…",
+      "url": "https://www.marktechpost.com/2026/11/21/columbia-certik-tensorlean-formal-verification-gpu-kernels/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-22T01:51:43.000Z",
+      "factualScore": 76,
+      "qualityScore": 79,
+      "overallScore": 77,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "3 figures or measurements cited"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "56 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "80% unique words"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 43"
+          }
+        ],
+        "wordsAnalyzed": 72
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "chip",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-119999-4-scaled.png"
+    },
+    {
+      "id": "s1204112120",
+      "title": "Perplexity and Intelligence",
+      "blurb": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "sourceName": "OpenAI",
+      "sourceType": "official",
+      "category": "AI News",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "factualScore": 59,
+      "qualityScore": 59,
+      "overallScore": 59,
+      "factualVerdict": "Mixed",
+      "confidence": "Low",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Lab / company announcement",
+        "factualStart": 74,
+        "qualityStart": 68,
+        "factual": [
+          {
+            "points": -5,
+            "label": "Self-promotion",
+            "detail": "A company describing its own product; claims aren't independently checked"
+          },
+          {
+            "points": -4,
+            "label": "Too little text",
+            "detail": "Not enough detail to support the claims"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": -3,
+            "label": "Speculative language",
+            "detail": "1 hedge like “could,” “reportedly,” “expected to”"
+          }
+        ],
+        "quality": [
+          {
+            "points": -4,
+            "label": "Vague headline",
+            "detail": "Too short to say what happened"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 21 words"
+          },
+          {
+            "points": -2,
+            "label": "Dense prose",
+            "detail": "Reading ease 16 — heavy jargon"
+          }
+        ],
+        "wordsAnalyzed": 24
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill"
+    },
+    {
+      "id": "s349538045",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "blurb": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-21T21:37:10.000Z",
+      "factualScore": 67,
+      "qualityScore": 61,
+      "overallScore": 65,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Only 15 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 27
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800"
+    },
+    {
+      "id": "s28653655",
+      "title": "A tale of two Nvidias",
+      "blurb": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "sourceName": "TechCrunch AI",
+      "sourceType": "journalism",
+      "category": "AI News",
+      "publishedAt": "2026-11-21T21:07:42.000Z",
+      "factualScore": 67,
+      "qualityScore": 68,
+      "overallScore": 67,
+      "factualVerdict": "Mixed",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": -3,
+            "label": "Brief summary",
+            "detail": "Only 23 words"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 48"
+          }
+        ],
+        "wordsAnalyzed": 28
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800"
+    },
     {
       "id": "s450748807",
       "title": "Here are the top AI agents that can live in your text messages",
@@ -387,6 +873,73 @@
       ],
       "icon": "globe",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png"
+    },
+    {
+      "id": "s1460159450",
+      "title": "guzhikkk/hybrid-ai-optimizer: Second-year research project. The objective of this work is to improve the efficiency and convergence speed of the generation process in hybrid artificial intelligence systems by investigating, comparatively analyzing, and selecting an optimal combination of metaheuristic optimization algorithms and diffusion sampling methods.",
+      "blurb": "Second-year research project. The objective of this work is to improve the efficiency and convergence speed of the generation process in hybrid artificial intelligence systems by investigating, comparatively analyzing, and selecting an optimal combination of metaheuristic optimization algorithms and diffusion sampling methods.",
+      "url": "https://github.com/guzhikkk/hybrid-ai-optimizer",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "Computer Vision",
+      "publishedAt": "2026-11-20T20:53:41.000Z",
+      "factualScore": 75,
+      "qualityScore": 54,
+      "overallScore": 67,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -5,
+            "label": "Very hard to read",
+            "detail": "Reading ease -16"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "42 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "44 words"
+          },
+          {
+            "points": -3,
+            "label": "Vague",
+            "detail": "Few names, products or figures"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "86% unique words"
+          }
+        ],
+        "wordsAnalyzed": 86
+      },
+      "gradient": [
+        "#EC4899",
+        "#6366F1"
+      ],
+      "icon": "eye",
+      "image": "https://avatars.githubusercontent.com/u/272030250?v=4"
     },
     {
       "id": "s1184817903",
@@ -1507,7 +2060,7 @@
         "#22D3EE"
       ],
       "icon": "globe",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-123456789-3-1024x768.png"
     },
     {
       "id": "s434282055",
@@ -11444,6 +11997,63 @@
       ],
       "icon": "rocket",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633"
+    },
+    {
+      "id": "s500288346",
+      "title": "HuffmanMainNode/OIF-Research-Observatory: An open research observatory for Open Intelligence, artificial intelligence, systems intelligence, cybersecurity, computer science, and advanced intelligence.",
+      "blurb": "An open research observatory for Open Intelligence, artificial intelligence, systems intelligence, cybersecurity, computer science, and advanced intelligence.",
+      "url": "https://github.com/HuffmanMainNode/OIF-Research-Observatory",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-17T19:11:53.000Z",
+      "factualScore": 75,
+      "qualityScore": 53,
+      "overallScore": 66,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Medium",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Only 17 words"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "19 words"
+          }
+        ],
+        "wordsAnalyzed": 36
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "document",
+      "image": "https://avatars.githubusercontent.com/u/219755926?v=4"
     },
     {
       "id": "s1482809984",
@@ -23094,746 +23704,6 @@
         "#14B8A6"
       ],
       "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s999639826",
-      "title": "Alignment by Socialization: Learning Tradeoffs Under Selection",
-      "blurb": "Artificial intelligence (AI) agents are expected to complete tasks while following rules of conduct, but these objectives can conflict. We study how evolutionary selection shapes an agent's choices between them, and whether experience can make those choices reflect human judgments and withstand subsequent pressures. In our model, copies of an agent face a…",
-      "url": "https://arxiv.org/abs/2611.18531v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-11-13T18:43:24.000Z",
-      "factualScore": 78,
-      "qualityScore": 77,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": -3,
-            "label": "Speculative language",
-            "detail": "1 hedge like “could,” “reportedly,” “expected to”"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "229 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -3,
-            "label": "Vague",
-            "detail": "Few names, products or figures"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 36"
-          }
-        ],
-        "wordsAnalyzed": 236
-      },
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s999640787",
-      "title": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept Induction",
-      "blurb": "Convolutional Neural Networks (CNNs) can classify images using background-dominated patches that contain little or none of the target object, showing that they exploit contextual information. Previous studies detected this behavior through classification accuracy but say little about what CNN hidden layers represent. We investigate whether Concept…",
-      "url": "https://arxiv.org/abs/2611.18530v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Research Papers",
-      "publishedAt": "2026-11-13T18:43:15.000Z",
-      "factualScore": 92,
-      "qualityScore": 81,
-      "overallScore": 88,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "7 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 4,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "231 words"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 27 — heavy jargon"
-          }
-        ],
-        "wordsAnalyzed": 241
-      },
-      "gradient": [
-        "#6366F1",
-        "#14B8A6"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s999663851",
-      "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
-      "blurb": "Wafer-scale accelerators offer massive compute capacity through hundreds of thousands of processing elements (PEs) interconnected across a single wafer, but realizing this potential requires efficient application mapping. Their scale makes programming these systems and mapping applications onto them challenging. Existing approaches rely on template-based…",
-      "url": "https://arxiv.org/abs/2611.18527v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-13T18:41:44.000Z",
-      "factualScore": 92,
-      "qualityScore": 85,
-      "overallScore": 89,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "8 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 4,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "211 words"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 18 — heavy jargon"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "73% unique words"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 218
-      },
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s280826283",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "blurb": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "sourceName": "TechCrunch AI",
-      "sourceType": "journalism",
-      "category": "AI News",
-      "publishedAt": "2026-11-13T18:40:30.000Z",
-      "factualScore": 67,
-      "qualityScore": 62,
-      "overallScore": 65,
-      "factualVerdict": "Mixed",
-      "confidence": "Medium",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Tech journalism",
-        "factualStart": 70,
-        "qualityStart": 66,
-        "factual": [
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": -8,
-            "label": "Very thin summary",
-            "detail": "Only 16 words"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -3,
-            "label": "Shouty formatting",
-            "detail": "All-caps words or excess punctuation"
-          }
-        ],
-        "wordsAnalyzed": 28
-      },
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795"
-    },
-    {
-      "id": "s999666734",
-      "title": "EventSpikeSeg: Memory-Aware Mixed-Signal Architecture for Event-Camera Spiking Segmentation",
-      "blurb": "Event-camera segmentation requires persistent neural state despite sparse input events, making memory organization a central constraint on embedded implementation. We present EventSpikeSeg, a mixed-signal architecture combining resident capacitor memory with shared analog processing in GF180MCU 180-nm CMOS. Its 25-population spiking encoder-decoder has…",
-      "url": "https://arxiv.org/abs/2611.18524v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Open Source & Tools",
-      "publishedAt": "2026-11-13T18:40:12.000Z",
-      "factualScore": 92,
-      "qualityScore": 80,
-      "overallScore": 87,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "19 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 4,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "201 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 7"
-          },
-          {
-            "points": 4,
-            "label": "Specific",
-            "detail": "Names people, products and figures"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "87% unique words"
-          }
-        ],
-        "wordsAnalyzed": 209
-      },
-      "gradient": [
-        "#22C55E",
-        "#0EA5E9"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s999691720",
-      "title": "Box-conditional Hypothesis Testing for Out-of-Distribution Object Detection",
-      "blurb": "Detecting out-of-distribution (OOD) objects is essential for ensuring the reliability and safety of object detectors in real-world deployment. We treat the decision on a detected box as a hypothesis test with the null hypothesis that the box covers an object of an in-distribution (ID) class. The null distribution changes with the size of the box and its…",
-      "url": "https://arxiv.org/abs/2611.18519v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-11-13T18:36:23.000Z",
-      "factualScore": 92,
-      "qualityScore": 83,
-      "overallScore": 88,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "5 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 2,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": 2,
-            "label": "Checkable artifact",
-            "detail": "Points to code, weights, a paper or data you can inspect"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "212 words"
-          },
-          {
-            "points": 4,
-            "label": "Easy to read",
-            "detail": "Reading ease 58"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          }
-        ],
-        "wordsAnalyzed": 219
-      },
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "shield",
-      "image": null
-    },
-    {
-      "id": "s999694603",
-      "title": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval",
-      "blurb": "Screen history can serve as searchable visual memory for people and agents, but unlike an offline corpus, it must be encoded and indexed as each screenshot arrives. OCR-based indexing is fast but loses visual information; visual encoding takes over two seconds. Yet screens change incrementally: most pixels repeat within and across screenshots. This raises…",
-      "url": "https://arxiv.org/abs/2611.18516v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-11-13T18:35:17.000Z",
-      "factualScore": 89,
-      "qualityScore": 82,
-      "overallScore": 86,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "6 figures or measurements cited"
-          },
-          {
-            "points": -5,
-            "label": "Opinion language",
-            "detail": "Subjective framing (“should,” “I think,” “the truth about”)"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 4,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "229 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          },
-          {
-            "points": 1,
-            "label": "Readable",
-            "detail": "Reading ease 39"
-          }
-        ],
-        "wordsAnalyzed": 237
-      },
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s999696525",
-      "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
-      "blurb": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining the decision-making processes of LLM-based agents. This paper examines the challenges MI tools face when applied to realistic agentic…",
-      "url": "https://arxiv.org/abs/2611.18514v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-13T18:30:58.000Z",
-      "factualScore": 90,
-      "qualityScore": 77,
-      "overallScore": 85,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "5 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 2,
-            "label": "Checkable artifact",
-            "detail": "Points to code, weights, a paper or data you can inspect"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "212 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 25 — heavy jargon"
-          }
-        ],
-        "wordsAnalyzed": 227
-      },
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "document",
-      "image": null
-    },
-    {
-      "id": "s999697486",
-      "title": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
-      "blurb": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers,…",
-      "url": "https://arxiv.org/abs/2611.18513v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "LLMs & Chatbots",
-      "publishedAt": "2026-11-13T18:29:51.000Z",
-      "factualScore": 94,
-      "qualityScore": 78,
-      "overallScore": 88,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "3 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 2,
-            "label": "Attributed claims",
-            "detail": "Says who the information comes from"
-          },
-          {
-            "points": 2,
-            "label": "Checkable artifact",
-            "detail": "Points to code, weights, a paper or data you can inspect"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "222 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 4"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "72% unique words"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 233
-      },
-      "gradient": [
-        "#7C3AED",
-        "#22D3EE"
-      ],
-      "icon": "chip",
-      "image": null
-    },
-    {
-      "id": "s999699408",
-      "title": "On numerical issues of divergences between nearly equal distributions",
-      "blurb": "Barron et al. (2026) recently identified numerical issues in the softmax and soft cross-entropy loss. We show that similar issues are present in standard divergence operations between categorical distributions. This includes the forward and reverse Kullback-Leibler (KL) divergence and generalized Jensen-Shannon divergence (JSD), as well as Monte Carlo KL…",
-      "url": "https://arxiv.org/abs/2611.18511v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI News",
-      "publishedAt": "2026-11-13T18:26:07.000Z",
-      "factualScore": 79,
-      "qualityScore": 76,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "103 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 14"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "77% unique words"
-          }
-        ],
-        "wordsAnalyzed": 112
-      },
-      "gradient": [
-        "#14B8A6",
-        "#22D3EE"
-      ],
-      "icon": "globe",
       "image": null
     }
   ]
