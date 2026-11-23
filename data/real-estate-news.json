@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-11-23T06:58:42.431Z",
+  "generatedAt": "2026-11-23T23:41:34.298Z",
   "news": [
+    {
+      "market": "sanfrancisco",
+      "assetClass": "hospitality",
+      "title": "CBRE Negotiates Sale of Inn at Union Square Hotel in San Francisco",
+      "blurb": "SAN FRANCISCO — CBRE has brokered the sale of The Inn at Union Square, a boutique hotel in San Francisco’s Union Square neighborhood. A private investor acquired the asset from an Oxford Capital Group-led venture. Located at 440 Post St., The Inn at Union Square features approximately 30 guest rooms within walking…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "CBRE"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/cbre-negotiates-sale-of-inn-at-union-square-hotel-in-san-francisco/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-23T17:43:27.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "Gilbane, Florida Polytechnic University to Break Ground on Residence Hall, Dining Facility",
+      "blurb": "LAKELAND, FLA. — A public-private partnership between Gilbane Development and Florida Polytechnic University is set to break ground on a residence hall and dining facility on the institution’s campus in Lakeland. The six-story community will span 159,172 square feet and offer 601 beds upon completion. Units will be…",
+      "deal": {
+        "version": 2,
+        "type": "Development",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": null,
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Gilbane"
+          },
+          {
+            "role": "Developer",
+            "name": "Florida Polytechnic University"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/gilbane-florida-polytechnic-university-to-break-ground-on-residence-hall-dining-facility/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-23T15:15:30.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Cushman & Wakefield Arranges $18.8M Sale of Industrial Facility in Libertyville, Illinois",
+      "blurb": "LIBERTYVILLE, ILL. — Cushman & Wakefield has arranged the $18.8 million sale of a 168,789-square-foot industrial facility in the Chicago suburb of Libertyville. Research Products International (RPI), a distributor of life sciences research products and laboratory supplies, acquired the newly constructed facility as…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$18.8M",
+        "amountValue": 18800000,
+        "pricePerUnit": "$111 / SF",
+        "size": "168,789 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Cushman & Wakefield"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/cushman-wakefield-arranges-18-8m-sale-of-industrial-facility-in-libertyville-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-23T13:02:35.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "Trader Joe’s to Open 15,000 SF Store at Joliet Commons in Illinois",
+      "blurb": "JOLIET, ILL. — Grocer Trader Joe’s will open a 15,000-square-foot store at the former JoAnn space at Joliet Commons in Illinois. Marquee Capital owns the 228,000-square-foot shopping center, which is home to Dick’s Sporting Goods, Ross Dress for Less, Ulta Beauty, PetSmart and Barnes & Noble. Mid-America Asset…",
+      "deal": {
+        "version": 2,
+        "type": "Expansion",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "15,000 SF",
+        "parties": [
+          {
+            "role": "Developer",
+            "name": "Trader Joe"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/trader-joes-to-open-15000-sf-store-at-joliet-commons-in-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-23T13:01:53.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "industrial",
@@ -1812,52 +1908,6 @@
         "pricePerUnit": null,
         "size": "350,000 SF",
         "parties": []
-      }
-    },
-    {
-      "market": "denver",
-      "assetClass": "general",
-      "title": "Galway Cos. Signs New Tenants, Advances Multimillion-Dollar Renovation at The Promenade Shops Centerra in Northern Colorado",
-      "blurb": "LOVELAND, COLO. — Galway Cos. has signed new tenants to leases and is advancing a multimillion-dollar, property-wide renovation at The Promenade Shops Centerra, a 494,500-square-foot open-air center in Loveland, approximately 46 miles north of Denver. Improvements will include new storefront facades; a redesigned ice…",
-      "url": "https://rebusinessonline.com/galway-cos-signs-new-tenants-advances-multimillion-dollar-renovation-at-the-promenade-shops-centerra-in-northern-colorado/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-09T14:12:00.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Renovation",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": "494,500 SF",
-        "parties": [
-          {
-            "role": "Owner",
-            "name": "Galway Cos."
-          }
-        ]
-      }
-    },
-    {
-      "market": "miami",
-      "assetClass": "multifamily",
-      "title": "JLL Arranges $100M Financing for Two New Multifamily Properties in North Florida",
-      "blurb": "JACKSONVILLE AND ST. AUGUSTINE, FLA. — JLL Capital Markets has arranged $100 million in bridge financing for two multifamily properties in North Florida: The Pointe at Davis Creek, a 288-unit, garden-style community located at 12175 Philips Highway in Jacksonville, and The Bradley St. Augustine, a 250-unit,…",
-      "url": "https://rebusinessonline.com/jll-arranges-100m-financing-for-two-new-multifamily-properties-in-north-florida/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-09T13:49:22.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Financing",
-        "amount": "$100M",
-        "amountValue": 100000000,
-        "pricePerUnit": "$347K / unit",
-        "size": "288 units",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "JLL Capital Markets"
-          }
-        ]
       }
     }
   ]
