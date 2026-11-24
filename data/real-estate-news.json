@@ -1,6 +1,64 @@
 {
-  "generatedAt": "2026-11-24T09:24:39.748Z",
+  "generatedAt": "2026-11-24T22:12:46.344Z",
   "news": [
+    {
+      "market": "miami",
+      "assetClass": "multifamily",
+      "title": "Tishman Speyer Acquires 264-Unit Multifamily Property in Dania Beach, Florida",
+      "blurb": "DANIA BEACH, FLA. — Tishman Speyer has acquired Avery Dania Pointe, a 264-unit apartment community located at 121 N. Compass Way in Dania Beach, a city in South Florida’s Broward County. The property, which will be renamed Dania Central, is situated within the 102-acre Dania Pointe mixed-use district. Meyers Group…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "264 units",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "CBRE"
+          },
+          {
+            "role": "Buyer",
+            "name": "Tishman Speyer"
+          },
+          {
+            "role": "Seller",
+            "name": "Meyers Group"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/tishman-speyer-acquires-264-unit-multifamily-property-in-dania-beach-florida/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-24T14:43:46.000Z"
+    },
+    {
+      "market": "miami",
+      "assetClass": "general",
+      "title": "SRS Arranges $20M Sale of Retail Property in Hialeah, Florida Leased to CVS Affiliate",
+      "blurb": "HIALEAH, FLA. — SRS Real Estate Partners has arranged the $20 million sale of a 17,688-square-foot retail property located at 845 E. Okeechobee Road in Hialeah, a suburb of Miami. Navarro, a Hispanic drug store concept owned by CVS, occupies the store on a 20-year triple-net lease in place guaranteed by CVS Health…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$20M",
+        "amountValue": 20000000,
+        "pricePerUnit": "$1K / SF",
+        "size": "17,688 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "SRS Real Estate Partners"
+          },
+          {
+            "role": "Seller",
+            "name": "developer"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/srs-arranges-20m-sale-of-retail-property-in-hialeah-florida-leased-to-cvs-affiliate/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-24T14:42:17.000Z"
+    },
     {
       "market": "sanfrancisco",
       "assetClass": "hospitality",
