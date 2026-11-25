@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-11-25T07:57:33.869Z",
+  "generatedAt": "2026-11-25T21:28:52.032Z",
   "news": [
+    {
+      "market": "chicago",
+      "assetClass": "general",
+      "title": "CBRE Brokers Sale of 731,488 SF Eastland Mall in Bloomington, Illinois",
+      "blurb": "BLOOMINGTON, ILL. — CBRE has brokered the sale of Eastland Mall, a 731,488-square-foot regional mall in Bloomington. Tenants at the property include Planet Fitness, Kohl’s, Old Navy and Ulta Beauty. The CBRE National Retail Partners-Midwest team represented CBL Properties in the sale to Cullinan Properties Ltd. The…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": null,
+        "amountValue": null,
+        "pricePerUnit": null,
+        "size": "731,488 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "CBRE"
+          },
+          {
+            "role": "Buyer",
+            "name": "Cullinan Properties Ltd"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/cbre-brokers-sale-of-731488-sf-eastland-mall-in-bloomington-illinois/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-25T14:56:39.000Z"
+    },
+    {
+      "market": "chicago",
+      "assetClass": "industrial",
+      "title": "Marcus & Millichap Arranges $9M Sale of Industrial Facility in Metro Chicago",
+      "blurb": "BUFFALO GROVE, ILL. — Marcus & Millichap has arranged the $9 million sale of a five-suite industrial property in Buffalo Grove. The 75,760-square-foot property is situated on 5.6 acres within the Arbor Creek Business Centre. The asset features suites ranging from 15,092 to 15,232 square feet, a clear height of 18…",
+      "deal": {
+        "version": 2,
+        "type": "Sale",
+        "amount": "$9M",
+        "amountValue": 9000000,
+        "pricePerUnit": "$119 / SF",
+        "size": "75,760 SF",
+        "parties": [
+          {
+            "role": "Broker",
+            "name": "Marcus & Millichap"
+          },
+          {
+            "role": "Buyer",
+            "name": "fund"
+          }
+        ]
+      },
+      "url": "https://rebusinessonline.com/marcus-millichap-arranges-9m-sale-of-industrial-facility-in-metro-chicago/",
+      "sourceName": "REBusinessOnline",
+      "publishedAt": "2026-11-25T14:56:12.000Z"
+    },
     {
       "market": "miami",
       "assetClass": "multifamily",
