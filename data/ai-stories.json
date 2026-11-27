@@ -1,6 +1,264 @@
 {
-  "generatedAt": "2026-11-26T22:10:29.724Z",
+  "generatedAt": "2026-11-27T21:50:53.264Z",
   "stories": [
+    {
+      "id": "s452425940",
+      "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+      "blurb": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "AI Safety & Policy",
+      "publishedAt": "2026-11-27T03:43:35.000Z",
+      "factualScore": 76,
+      "qualityScore": 71,
+      "overallScore": 74,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "3 figures or measurements cited"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "42 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": -3,
+            "label": "Run-on sentences",
+            "detail": "42 words per sentence on average"
+          },
+          {
+            "points": -2,
+            "label": "Dense prose",
+            "detail": "Reading ease 25 — heavy jargon"
+          }
+        ],
+        "wordsAnalyzed": 60
+      },
+      "gradient": [
+        "#EF4444",
+        "#7C3AED"
+      ],
+      "icon": "shield",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-111oo-6-scaled.png"
+    },
+    {
+      "id": "s1248910040",
+      "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+      "blurb": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%. The post Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache appeared first on…",
+      "url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "LLMs & Chatbots",
+      "publishedAt": "2026-11-27T03:31:30.000Z",
+      "factualScore": 72,
+      "qualityScore": 82,
+      "overallScore": 76,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 3,
+            "label": "Some numbers",
+            "detail": "2 figures cited"
+          },
+          {
+            "points": -3,
+            "label": "Speculative language",
+            "detail": "1 hedge like “could,” “reportedly,” “expected to”"
+          },
+          {
+            "points": 2,
+            "label": "Checkable artifact",
+            "detail": "Points to code, weights, a paper or data you can inspect"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 52"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "54 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "78% unique words"
+          }
+        ],
+        "wordsAnalyzed": 66
+      },
+      "gradient": [
+        "#7C3AED",
+        "#22D3EE"
+      ],
+      "icon": "code",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png"
+    },
+    {
+      "id": "s394033421",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "blurb": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "sourceName": "Hugging Face",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "factualScore": 77,
+      "qualityScore": 55,
+      "overallScore": 68,
+      "factualVerdict": "Mostly factual",
+      "confidence": "Low",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -4,
+            "label": "Too little text",
+            "detail": "Not enough detail to support the claims"
+          },
+          {
+            "points": 3,
+            "label": "Some numbers",
+            "detail": "1 figure cited"
+          }
+        ],
+        "quality": [
+          {
+            "points": -8,
+            "label": "Very thin summary",
+            "detail": "Headline only"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 9
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://huggingface.co/blog/assets/video-trainium3/thumbnail.jpg"
+    },
+    {
+      "id": "s1656033534",
+      "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+      "blurb": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
+      "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+      "sourceName": "MarkTechPost",
+      "sourceType": "journalism",
+      "category": "Research Papers",
+      "publishedAt": "2026-11-26T22:06:40.000Z",
+      "factualScore": 80,
+      "qualityScore": 80,
+      "overallScore": 80,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Tech journalism",
+        "factualStart": 70,
+        "qualityStart": 66,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Hard numbers",
+            "detail": "12 figures or measurements cited"
+          },
+          {
+            "points": 2,
+            "label": "Measured results",
+            "detail": "Refers to benchmarks, datasets or evaluations"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 4,
+            "label": "Easy to read",
+            "detail": "Reading ease 58"
+          },
+          {
+            "points": 4,
+            "label": "Specific",
+            "detail": "Names people, products and figures"
+          },
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "50 words"
+          },
+          {
+            "points": 3,
+            "label": "Clear headline",
+            "detail": "Well-sized and descriptive"
+          }
+        ],
+        "wordsAnalyzed": 63
+      },
+      "gradient": [
+        "#6366F1",
+        "#14B8A6"
+      ],
+      "icon": "brain",
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-111oo-1-1-scaled.png"
+    },
     {
       "id": "s1239942408",
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -7754,6 +8012,73 @@
       "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&amp;h=900&amp;fit=fill"
     },
     {
+      "id": "s105747419",
+      "title": "DivyanshPandey-glitch/Artificial_Intelligence-representation-: BRAHMA is an advanced AI-powered personal assistant designed to make technology smarter and everyday life easier. It can control your smartphone, laptop, and smart home devices, send messages, make calls, play videos, create websites, build portfolios, and generate professional PPTs and Word documents.",
+      "blurb": "BRAHMA is an advanced AI-powered personal assistant designed to make technology smarter and everyday life easier. It can control your smartphone, laptop, and smart home devices, send messages, make calls, play videos, create websites, build portfolios, and generate professional PPTs and Word documents.",
+      "url": "https://github.com/DivyanshPandey-glitch/Artificial_Intelligence-representation-",
+      "sourceName": "GitHub Trending",
+      "sourceType": "opensource",
+      "category": "AI News",
+      "publishedAt": "2026-11-24T10:40:40.000Z",
+      "factualScore": 77,
+      "qualityScore": 63,
+      "overallScore": 71,
+      "factualVerdict": "Mostly factual",
+      "confidence": "High",
+      "scoring": {
+        "version": 3,
+        "sourceLabel": "Open-source project",
+        "factualStart": 72,
+        "qualityStart": 60,
+        "factual": [
+          {
+            "points": 6,
+            "label": "Primary source",
+            "detail": "Comes straight from the people who did the work"
+          },
+          {
+            "points": -3,
+            "label": "No figures",
+            "detail": "No numbers or measurements to check"
+          },
+          {
+            "points": 2,
+            "label": "Concrete event",
+            "detail": "Reports something that happened (a release, deal, filing)"
+          }
+        ],
+        "quality": [
+          {
+            "points": 3,
+            "label": "Solid summary",
+            "detail": "43 words"
+          },
+          {
+            "points": -3,
+            "label": "Overlong headline",
+            "detail": "46 words"
+          },
+          {
+            "points": 2,
+            "label": "Varied wording",
+            "detail": "91% unique words"
+          },
+          {
+            "points": 1,
+            "label": "Readable",
+            "detail": "Reading ease 35"
+          }
+        ],
+        "wordsAnalyzed": 89
+      },
+      "gradient": [
+        "#14B8A6",
+        "#22D3EE"
+      ],
+      "icon": "globe",
+      "image": "https://avatars.githubusercontent.com/u/360631931?v=4"
+    },
+    {
       "id": "s1764622025",
       "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
       "blurb": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise. The post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared first on MarkTechPost .",
@@ -8475,7 +8800,7 @@
         "#7C3AED"
       ],
       "icon": "brain",
-      "image": null
+      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-1113454-4-scaled.png"
     },
     {
       "id": "s572221746",
@@ -11779,7 +12104,7 @@
         "#22D3EE"
       ],
       "icon": "rocket",
-      "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-1113454-3-scaled.png"
+      "image": null
     },
     {
       "id": "s1051057159",
@@ -23679,401 +24004,6 @@
         "#22D3EE"
       ],
       "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s223758217",
-      "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
-      "blurb": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditioned self-play frameworks rely primarily on static map-location goals and fail to reliably produce complex agent interactions such as…",
-      "url": "https://arxiv.org/abs/2611.24876v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-11-18T18:23:29.000Z",
-      "factualScore": 83,
-      "qualityScore": 76,
-      "overallScore": 80,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": 2,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "116 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease -5"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "79% unique words"
-          }
-        ],
-        "wordsAnalyzed": 128
-      },
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
-      "image": null
-    },
-    {
-      "id": "s223761100",
-      "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
-      "blurb": "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characterize their sensitivity to local perturbations. A more faithful approximation of operator behavior requires not only accurate state predictions, but also correct variations along local perturbation…",
-      "url": "https://arxiv.org/abs/2611.24873v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "AI Safety & Policy",
-      "publishedAt": "2026-11-18T18:23:20.000Z",
-      "factualScore": 90,
-      "qualityScore": 76,
-      "overallScore": 84,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "4 figures or measurements cited"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "226 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease -2"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 235
-      },
-      "gradient": [
-        "#EF4444",
-        "#7C3AED"
-      ],
-      "icon": "brain",
-      "image": null
-    },
-    {
-      "id": "s223785125",
-      "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
-      "blurb": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world models must follow user-defined rules beyond real-world behaviors. However, realizing user-defined rules presents two challenges: Rule-State Persistence and…",
-      "url": "https://arxiv.org/abs/2611.24869v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Computer Vision",
-      "publishedAt": "2026-11-18T18:20:39.000Z",
-      "factualScore": 78,
-      "qualityScore": 78,
-      "overallScore": 78,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -5,
-            "label": "Opinion language",
-            "detail": "Subjective framing (“should,” “I think,” “the truth about”)"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": 2,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": 2,
-            "label": "Checkable artifact",
-            "detail": "Points to code, weights, a paper or data you can inspect"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "241 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 5"
-          },
-          {
-            "points": 4,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          }
-        ],
-        "wordsAnalyzed": 248
-      },
-      "gradient": [
-        "#EC4899",
-        "#6366F1"
-      ],
-      "icon": "eye",
-      "image": null
-    },
-    {
-      "id": "s223787047",
-      "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
-      "blurb": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, and how it an?swers once observation stops. We introduce budget-paired counterfactual audits, an evaluation protocol that holds public evidence and region…",
-      "url": "https://arxiv.org/abs/2611.24867v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Industry & Business",
-      "publishedAt": "2026-11-18T18:20:12.000Z",
-      "factualScore": 82,
-      "qualityScore": 79,
-      "overallScore": 81,
-      "factualVerdict": "Mostly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": -5,
-            "label": "Opinion language",
-            "detail": "Subjective framing (“should,” “I think,” “the truth about”)"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          },
-          {
-            "points": 4,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": -3,
-            "label": "No figures",
-            "detail": "No numbers or measurements to check"
-          },
-          {
-            "points": 2,
-            "label": "Checkable artifact",
-            "detail": "Points to code, weights, a paper or data you can inspect"
-          },
-          {
-            "points": 2,
-            "label": "Concrete event",
-            "detail": "Reports something that happened (a release, deal, filing)"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "102 words"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": -2,
-            "label": "Dense prose",
-            "detail": "Reading ease 15 — heavy jargon"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "84% unique words"
-          }
-        ],
-        "wordsAnalyzed": 115
-      },
-      "gradient": [
-        "#0EA5E9",
-        "#A855F7"
-      ],
-      "icon": "rocket",
-      "image": null
-    },
-    {
-      "id": "s223789930",
-      "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
-      "blurb": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action model that transfers marine spatial knowledge to language-conditioned 3D navigation. We first train Sea2Know on approximately two million marine examples to…",
-      "url": "https://arxiv.org/abs/2611.24864v1",
-      "sourceName": "arXiv",
-      "sourceType": "paper",
-      "category": "Robotics",
-      "publishedAt": "2026-11-18T18:19:00.000Z",
-      "factualScore": 94,
-      "qualityScore": 78,
-      "overallScore": 88,
-      "factualVerdict": "Strongly factual",
-      "confidence": "High",
-      "scoring": {
-        "version": 3,
-        "sourceLabel": "Research preprint",
-        "factualStart": 80,
-        "qualityStart": 70,
-        "factual": [
-          {
-            "points": 6,
-            "label": "Primary source",
-            "detail": "Comes straight from the people who did the work"
-          },
-          {
-            "points": 6,
-            "label": "Hard numbers",
-            "detail": "4 figures or measurements cited"
-          },
-          {
-            "points": 6,
-            "label": "Measured results",
-            "detail": "Refers to benchmarks, datasets or evaluations"
-          },
-          {
-            "points": -4,
-            "label": "Not yet peer-reviewed",
-            "detail": "arXiv preprints are posted before formal review"
-          }
-        ],
-        "quality": [
-          {
-            "points": 6,
-            "label": "In-depth summary",
-            "detail": "158 words"
-          },
-          {
-            "points": -5,
-            "label": "Very hard to read",
-            "detail": "Reading ease 3"
-          },
-          {
-            "points": 3,
-            "label": "Clear headline",
-            "detail": "Well-sized and descriptive"
-          },
-          {
-            "points": 2,
-            "label": "Varied wording",
-            "detail": "73% unique words"
-          },
-          {
-            "points": 2,
-            "label": "Explains why",
-            "detail": "Connects cause and effect or compares alternatives"
-          }
-        ],
-        "wordsAnalyzed": 167
-      },
-      "gradient": [
-        "#F97316",
-        "#EAB308"
-      ],
-      "icon": "robot",
       "image": null
     }
   ]
