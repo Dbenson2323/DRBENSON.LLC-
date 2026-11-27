@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T07:48:33.512Z",
+  "generatedAt": "2026-11-27T20:58:03.577Z",
   "news": [
     {
       "market": "chicago",
@@ -1869,83 +1869,6 @@
           {
             "role": "Borrower",
             "name": "Newcastle Investors"
-          }
-        ]
-      }
-    },
-    {
-      "market": "denver",
-      "assetClass": "general",
-      "title": "CBRE Negotiates Sale of Proposed 386,489 SF Novera Commerce Center in Westminster, Colorado",
-      "blurb": "WESTMINSTER, COLO. — CBRE has arranged the sale of Novera Commerce Center, a proposed three-building industrial development in Westminster. Opus Development sold the project to Principal Asset Management for an undisclosed price. Todd Witty and Daniel Close of CBRE represented the seller and have been retained by the…",
-      "url": "https://rebusinessonline.com/cbre-negotiates-sale-of-proposed-386489-sf-novera-commerce-center-in-westminster-colorado/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-13T14:33:53.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": "386,489 SF",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "CBRE"
-          },
-          {
-            "role": "Buyer",
-            "name": "Principal Asset Management"
-          },
-          {
-            "role": "Seller",
-            "name": "Opus Development"
-          }
-        ]
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "multifamily",
-      "title": "Kiser Group Brokers Sale of 345-Unit Apartment Community in Blue Island, Illinois",
-      "blurb": "BLUE ISLAND, ILL. — Kiser Group has brokered the sale of Blue Station Apartments, a 345-unit apartment community in Blue Island, 16 miles south of Chicago’s Loop. The property at 2130 W. 122nd St. was 96 percent occupied at the time of sale. Ownership has invested more than $3.5 million in capital improvements over…",
-      "url": "https://rebusinessonline.com/kiser-group-brokers-sale-of-345-unit-apartment-community-in-blue-island-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-13T13:38:55.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Sale",
-        "amount": "$3.5M",
-        "amountValue": 3500000,
-        "pricePerUnit": null,
-        "size": "345 units",
-        "parties": [
-          {
-            "role": "Broker",
-            "name": "Kiser Group"
-          }
-        ]
-      }
-    },
-    {
-      "market": "chicago",
-      "assetClass": "general",
-      "title": "Sentinel Technologies Inks Full-Building Headquarters Lease in Lisle, Illinois",
-      "blurb": "LISLE, ILL. — Sentinel Technologies has signed a full-building headquarters lease totaling 63,409 square feet at Corporetum Office Campus X in Lisle. Sentinel will occupy the four-story building with its office, research and development, and technology lab functions under one roof. The company is expected to relocate…",
-      "url": "https://rebusinessonline.com/sentinel-technologies-inks-full-building-headquarters-lease-in-lisle-illinois/",
-      "sourceName": "REBusinessOnline",
-      "publishedAt": "2026-10-13T13:36:20.000Z",
-      "deal": {
-        "version": 2,
-        "type": "Lease",
-        "amount": null,
-        "amountValue": null,
-        "pricePerUnit": null,
-        "size": "63,409 SF",
-        "parties": [
-          {
-            "role": "Tenant",
-            "name": "Sentinel Technologies"
           }
         ]
       }
